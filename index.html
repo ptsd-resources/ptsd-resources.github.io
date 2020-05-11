@@ -1,0 +1,75 @@
+<html lang="en"
+      ng-app="myApp"
+      ng-controller="myCtrl">
+
+<head>
+
+	<!-- Page styles -->
+	<link href='assets/index.css' rel='stylesheet' type='text/css'/>
+
+	<!-- Vendor scripts -->
+	<script src="assets/lib/jquery.min.js"></script>
+	<script src="assets/lib/jquery-deparam.js"></script>
+	<script src="assets/lib/underscore-min.js"></script>
+	<script src="assets/lib/angular-1.7.min.js"></script>
+	<script src="assets/lib/angular-sanitize-1.7.9.js"></script>
+
+	<!-- Page scripts -->
+	<script src='assets/urlparams.js' type='text/javascript'></script>
+	<script src='assets/index.js' type='text/javascript'></script>
+
+</head>
+
+<!-- The sidebar -->
+<div class="sidebar">
+	<h1>ptsd resources</h1>
+	<div class="footnote">
+	everyone's needs are different. take what you find helpful, leave what you don't.
+	</div>
+	<hr>
+	<div ng-repeat="pageId in orderedPageIds"
+			 ng-init="page=pages[pageId]">
+		<h3 ng-if="page.items === undefined">{[page.title]}</h3>
+		<a ng-if="page.items !== undefined"
+			 href="#{[page.id]}"
+			 ng-click="loadPageView(page.id)"
+			 >{[page.title]}</a>
+	</div>
+</div>
+
+<!-- Page content -->
+<div class="content">
+
+	<!-- Index page -->
+	<div ng-if="getCurrPageId() === undefined">
+		index page lorem ipsum dolor sit
+	</div>
+
+	<!-- Current page content -->
+  <div ng-repeat="itemId in currPage.items"
+			 ng-init="item=resources[itemId]"
+			 class="pageItem">
+		<div ng-if="item.href !== undefined">
+			<a href="{[item.href]}"
+				 ng-if="item.image !== undefined"
+				 target="_blank">
+				<img src="{[item.image]}"/>
+			</a>
+			<h3 ng-if="item.title">
+				<a href="{[item.href]}"
+					 target="_blank"
+				   ng-bind-html="item.title">{[item.title]}</a>
+			</h3>
+		</div>
+		<div ng-if="item.href === undefined">
+			<img src="{[item.image]}"
+					 ng-if="item.image !== undefined" />
+			<h3 ng-bind-html="item.title"
+					ng-if="item.title"></h3>
+		</div>
+		<p ng-bind-html="item.body"
+		   ng-if="item.body !== undefined"></p>
+	</div>
+</div>
+
+</html>

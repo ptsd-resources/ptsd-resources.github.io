@@ -1,0 +1,67 @@
+{ "pages": [
+  {
+    "title": "Having an emergency",
+    "id": "emergency",
+    "items": ["911"]
+  },
+  {
+    "title": "In an actively traumatic/abusive situation",
+    "id": "hotline",
+    "items": ["crisis-hotlines"]
+  },
+  {
+    "title": "Interested in therapy",
+    "id": "therapy",
+    "items": ["toni-therapy", "psychology-today", "betterhelp", "open-path-collective", "glik-therapy-modalities"]
+  },
+  {
+    "title": "Self-help resources",
+    "id": "self-help"
+  },
+  {
+    "title": "I'm triggered right now",
+    "id": "triggered",
+    "items": ["trigger-protocol"]
+  },
+  {
+    "title": "I feel bad and don't know why",
+    "id": "feeling-bad",
+    "items": ["trigger-check"]
+  },
+  {
+    "title": "Relational abuse or childhood neglect",
+    "id": "childhood-abuse",
+    "items": ["cptsd-walker", "bks", "monique-cptsd", "silvy-khoucasian", "clementine-morrigan"]
+  },
+  {
+    "title": "My body is sometimes a scary or confusing place to be",
+    "id": "somatic",
+    "subtitle": "If so, you might benefit from somatically-informed treatment modalities.",
+    "items": ["bks", "somatic-modalities", "andrea-glik", "clementine-morrigan", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana"]
+  },
+  {
+    "title": "I want to self-regulate or understand myself better",
+    "id": "self-regulate",
+    "items": ["tnh-intro", "meditate-yumi", "insight-timer-app", "plum-village-app", "nomudnolotus", "tnh-fear"]
+  },
+  {
+    "title": "I have difficulty feeling comfortable/secure with others",
+    "id": "relational",
+    "items": ["general-theory-love", "emotionally-immature-parents", "hold-me-tight", "silvy-khoucasian", "liz-listens"]
+  },
+  {
+    "title": "I want to improve at communication",
+    "id": "communication",
+    "items": ["nvc", "crucial-conversations"]
+  },
+  {
+    "title": "I want to develop healthier boundaries",
+    "id": "boundaries",
+    "items": ["boundaries-katherine", "silvy-khoucasian"]
+  },
+  {
+    "title": "What is happening in my brain/body?",
+    "id": "science",
+    "items": ["bks", "emotional-intelligence-goleman"]
+  }
+]}
