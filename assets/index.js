@@ -30,9 +30,8 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 		},200);
 	};
 
-
 	$scope.loadPageView = function(pageId) {
-		if (pageId==null) {
+		if (pageId == null) {
 			$scope.currPage = null;
 		} else {
 			$scope.currPage = $scope.pages[pageId];
@@ -44,7 +43,7 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 		}
 	    // Update navbar select style
 	    _.each($scope.pages, function(page) {
-	      page.isSelected = (pageId == page.id);
+	    	$scope.pages[page.id].isSelected = (pageId == page.id);
 	    });
 	    // Scroll to #content top
 	    scrollToContent();
@@ -83,24 +82,30 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 			$scope.pages = _.object(_.map($scope.pages.pages, function(page) {
 				return [page.id, page];
 			}));
-  	}).then(function() {
-	  	return $scope.loadJsonInScope('assets/resources.json', 'resources');
+  		}).then(function() {
+	  		return $scope.loadJsonInScope(
+	  			'assets/resources.json', 'resources');
 		});
 	}
-	/* On completion, set up page */
-	loadPageData().then(function() {
-		console.log('Successfully loaded page data');
-		// Load page id corresponding to current url hash, if relevant
-		var urlPageId = $scope.getPageIdFromUrl();
-		if (urlPageId === undefined) {
-			// index. skip
-		} else if (_.contains($scope.orderedPageIds, urlPageId)) {
-			$scope.loadPageView(urlPageId);
-		} else {
-			console.error('page ' + urlPageId + ' does not exist, showing index')
-		}
-	}, function() {
-		alert('Could not load page. Please try refreshing.');
-	});
+
+	function setup() {
+		loadPageData().then(function() {
+			console.log('Successfully loaded page data');
+			// Load page id corresponding to current url hash, if relevant
+			var urlPageId = $scope.getPageIdFromUrl();
+			if (urlPageId === undefined) {
+				// index. skip
+			} else if (_.contains($scope.orderedPageIds, urlPageId)) {
+				$scope.loadPageView(urlPageId);
+			} else {
+				console.error(
+					'page ' + urlPageId + ' does not exist, showing index');
+			}
+		}, function() {
+			alert('Could not load page. Please try refreshing.');
+		});
+	}
+	setup();
+
 
 });
