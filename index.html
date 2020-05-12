@@ -32,8 +32,7 @@
 	everyone's needs are different. take what you find helpful, leave what you don't.
 	</p>
 	<hr>
-	<div ng-repeat="pageId in orderedPageIds"
-			 ng-init="page=pages[pageId]">
+	<div ng-repeat="page in getOrderedPages()">
 		<h3 ng-if="page.items === undefined">{[page.title]}</h3>
 		<a ng-if="page.items !== undefined"
 		   href="#{[page.id]}"
@@ -67,13 +66,14 @@
 	</div>
 
 	<!-- Current page content -->
-  	<div ng-repeat="itemId in currPage.items"
-			 ng-init="item=resources[itemId]"
-			 class="page-item">
+  	<div ng-repeat="item in currPage.getResources()"
+		 class="page-item">
 		<div ng-if="item.href !== undefined">
+			<!-- linked title/image -->
 			<a href="{[item.href]}"
-				 ng-if="item.image !== undefined"
-				 target="_blank">
+			   ng-if="item.image !== undefined"
+			   target="_blank"
+			   >
 				<img src="{[item.image]}"
 					  class="item-image" />
 			</a>
@@ -85,6 +85,7 @@
 			</h3>
 		</div>
 		<div ng-if="item.href === undefined">
+			<!-- unlinked title/image -->
 			<img src="{[item.image]}"
 				 ng-if="item.image !== undefined" 
 				 class="item-image" />
@@ -92,6 +93,7 @@
 			    class="item-title"
 				ng-if="item.title"></h3>
 		</div>
+		<!-- body -->
 		<p ng-bind-html="item.body"
 		   ng-if="item.body !== undefined"></p>
 	</div>

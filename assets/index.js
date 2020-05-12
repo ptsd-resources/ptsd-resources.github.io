@@ -16,6 +16,11 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 	var $ = angular.element;
 
 	$scope.currPage = null;
+	$scope.getOrderedPages = function() {
+		return _.map($scope.orderedPageIds, function(pid) {
+			return $scope.pages[pid];
+		});
+	};
 
 	/* Load views */
 
@@ -31,6 +36,11 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 			$scope.currPage = null;
 		} else {
 			$scope.currPage = $scope.pages[pageId];
+			$scope.currPage.getResources = function() {
+				return _.map($scope.currPage.items, function(itemId) {
+					return $scope.resources[itemId];
+				});
+			};
 		}
 	    // Update navbar select style
 	    _.each($scope.pages, function(page) {
