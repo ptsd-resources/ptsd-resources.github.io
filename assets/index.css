@@ -73,14 +73,14 @@ a {
   margin-left: 350px;
   padding: 16px 16px;
 }
-.content .pageHead {
+.content .page-head {
   margin: 28px;
   padding: 0 21px;
   font-style: oblique;
   color: #666;
   font-size: 1.4em;
 }
-.content .pageItem {
+.content .page-item {
   max-width: 600px;
   margin: 28px;
   padding: 21px;
@@ -88,17 +88,20 @@ a {
   border-radius: 5px;
   word-wrap: break-word;
 }
-.content .pageItem * {
+.content .page-item * {
   max-width: 100%;
 }
-.content .pageItem *:first-child {
+.content .page-item *:first-child {
   margin-top: 0;
 }
-.content .pageItem *:last-child {
+.content .page-item *:last-child {
   margin-bottom: 0;
 }
-.content .pageItem h3 {
+.content .page-item .item-title:first-child {
   margin-top: 0;
+}
+.content .page-item .item-image {
+  max-height: 300px;
 }
 
 /* RESPONSIVE */

@@ -83,7 +83,6 @@ a
       border-right: 8px $teal-text solid
     
     &:hover:not(.active)//:not(.selected) 
-      //background-color: #aaa
       color: white
       background-color: $teal-fill
 
@@ -94,14 +93,14 @@ a
   margin-left: 350px
   padding: 16px 16px
 
-  .pageHead 
+  .page-head 
     margin: 28px
     padding: 0 21px
     font-style: oblique
     color: #666
     font-size: 1.4em
 
-  .pageItem 
+  .page-item 
     max-width: 600px
     margin: 28px
 
@@ -118,8 +117,11 @@ a
     *:last-child 
       margin-bottom: 0
 
-    h3 
+    .item-title:first-child
       margin-top: 0
+
+    .item-image
+      max-height: 300px
 
 
 
