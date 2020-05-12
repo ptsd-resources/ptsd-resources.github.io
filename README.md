@@ -28,6 +28,7 @@ This probably would have worked fine using Jekyll, but this janky approach was p
 - [ ] literally any styling lol
 - [x] switch to SASS
 - [ ] import my nice sass mixins
+- [ ] icons for resource types? (book, graphic, etc)
 
 ### quickies
 - [x] index page
