@@ -57,7 +57,12 @@
 	"hold-me-tight": {
 		"title": "<i>Hold Me Tight</i> (Sue Johnson)",
 		"href": "https://amzn.to/2VCNA58",
-		"body": "<p>Empathetic framework & exercises for repairing dysfunctional patterns in committed relationships with an anxious-avoidant dynamic, by finding ways to gently build self-awareness of patterns, and bridge both partners’ seemingly conflicting needs for feeling safe.</p><p>Note that this framework requires a lot of vulnerability, and assumes that you are working on a merely dysfunctional relationship where both people are willing to do work, and not a toxic/abusive relationship. If you think you might be in the latter situation, figure that out before proceeding.</p>"
+		"body": "<p>Empathetic framework & exercises for repairing dysfunctional patterns in committed relationships with an anxious-avoidant dynamic, by finding ways to gently build self-awareness of patterns, and bridge both partners’ seemingly conflicting needs for feeling safe.</p><p>Note that this framework requires a lot of vulnerability, and assumes that you are dealing with a merely dysfunctional relationship where both people want to put in work, and not a toxic/abusive relationship. If you think you might be in the latter situation, figure that out before proceeding.</p>"
+	},
+	"attached-levine": {
+		"title": "Attached: The New Science of Adult Attachment (Amir Levine, Rachel Heller)",
+		"href": "https://amzn.to/2KBaHHb",
+		"body": "A general intro to attachment styles in the context of romantic relationships. I didn't find it as personally actionable or clarifying as the resources above, and thought it tended to demonize avoidant-leaning people in a way that didn’t seem conducive to building mutual understanding. Nevertheless, might be useful if your relationships have been more toxic, distressing, or inflexible, and you're unfamiliar with attachment theory."
 	},
 	"nvc": {
 		"title": "<i>Nonviolent Communication</i> (Marshall B. Rosenberg)",
@@ -109,7 +114,7 @@
 	},
 	"somatic-modalities": {
 		"title": "Somatic modalities",
-		"body": "<p><b><a href='https://traumahealing.org/about-us/#about' target='_blank'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html' target='_blank'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history' target='_blank'>Hakomi method</a></b> are related treatment approaches that combine traditional therapy with utilizing or gently developing the client’s awareness of how a traumatic experience (or experiences in general) may be held in the body, and facilitating their ability to re-establish agency over their bodies and regulatory mechanisms while triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving interoception, learning to separate physical sensations from trauma emotions, and learning how to get out of dissociative states, especially in people whose trauma had a physical basis.</p><p><b>EMDR</b> is a somatically-informed treatment method that works to reintegrate and process stuck trauma more rapidly than conventional therapy alone.</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research' target='_blank'>EFT/tapping</a></b>, which involves tapping on your own body while focusing on particular feelings you are having, can be done on your own.</p>"
+		"body": "<p><b><a href='https://traumahealing.org/about-us/#about' target='_blank'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html' target='_blank'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history' target='_blank'>Hakomi method</a></b> are related treatment approaches that combine traditional therapy with utilizing or gently developing the client’s awareness of how a traumatic experience (or experiences in general) may be held in the body, and facilitating their ability to re-establish agency over their bodies and regulatory mechanisms while triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving interoception, learning to separate physical sensations from trauma emotions, and learning how to get out of dissociative states, especially in people whose trauma had a physical basis.</p><p><b>EMDR</b> is a somatically-informed treatment method that helps reintegrate and process stuck trauma more rapidly than conventional therapy alone. [<a href='https://www.ncbi.nlm.nih.gov/pubmed/17284128' target='_blank'>DOI: 10.4088/jcp.v68n0105</a>]</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research' target='_blank'>EFT/tapping</a></b>, which involves tapping on your own body while focusing on particular feelings you are having, can be done on your own.</p>"
 	},
 	"polyvagal-overview": {
 		"title": "Polyvagal theory & nervous system regulation",
@@ -133,6 +138,7 @@
 	},
 	"meditate-yumi": {
 		"title": "There Is No Right Way To Meditate (Yumi Sakugawa)",
+		"image": "images/norightway-yumi-sakugawa.jpg",
 		"href": "https://amzn.to/3d1NRVp",
 		"body": "Approachable and goofy cartoons visualizing many different ways to find ways of meditating that work for you."
 	},
