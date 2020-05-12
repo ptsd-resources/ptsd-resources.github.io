@@ -21,6 +21,7 @@ This probably would have worked fine using Jekyll, but this janky approach was p
 
 ## TODOS
 
+- [ ] implement url hash browser back
 - [ ] basic mobile responsive nav -> collapsible topbar
 - [ ] vocab feature
 - [ ] caption datatype
@@ -33,4 +34,4 @@ This probably would have worked fine using Jekyll, but this janky approach was p
 - [x] index/about page
 - [x] add amazon affiliate disclaimer
 - [x] menu current selection cue
-- [ ] feedback form
+- [x] feedback form
