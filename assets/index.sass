@@ -127,8 +127,8 @@ a
 
 /* RESPONSIVE */
 
-/* On screens that are less than 700px wide, make the sidebar into a collapsible topbar */
-@media screen and (max-width: 700px) 
+/* On narrow screens, make the sidebar into a collapsible topbar */
+@media screen and (max-width: 800px) 
   .sidebar 
     width: 100%
     height: auto
@@ -136,11 +136,3 @@ a
   
   div#content
     margin-left: 0
-
-
-/* On screens that are less than 400px, display the bar vertically, instead of horizontally */
-@media screen and (max-width: 400px) 
-  .sidebar a 
-    text-align: center
-    float: none
-
