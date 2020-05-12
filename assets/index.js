@@ -19,6 +19,13 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 
 	/* Load views */
 
+	var scrollToContent = function() {
+		$('html, body').animate({
+		    scrollTop: ($('#content').offset().top)
+		},200);
+	};
+
+
 	$scope.loadPageView = function(pageId) {
 		if (pageId==null) {
 			$scope.currPage = null;
@@ -29,10 +36,12 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 	    _.each($scope.pages, function(page) {
 	      page.isSelected = (pageId == page.id);
 	    });
+	    // Scroll to #content top
+	    scrollToContent();
 	};
 
 	$scope.toTrustedHTML = function(html) {
-    return $sce.trustAsHtml(html);
+    	return $sce.trustAsHtml(html);
 	}
 
 	/* Load JSON */
