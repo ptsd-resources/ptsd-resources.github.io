@@ -7,7 +7,7 @@
   {
     "title": "In an actively traumatic/abusive situation",
     "id": "hotline",
-    "items": ["crisis-hotlines"]
+    "items": ["crisis-hotlines", "gift-of-fear", "emotionally-immature-parents"]
   },
   {
     "title": "Interested in therapy",
@@ -26,12 +26,12 @@
   {
     "title": "I feel bad and don't know why",
     "id": "feeling-bad",
-    "items": ["trigger-check"]
+    "items": ["trigger-check", "self-boundaries"]
   },
   {
     "title": "Relational abuse or childhood neglect",
     "id": "childhood-abuse",
-    "items": ["cptsd-walker", "bks", "monique-cptsd", "silvy-khoucasian", "clementine-morrigan"]
+    "items": ["cptsd-walker", "bks", "monique-cptsd", "silvy-khoucasian", "clementine-morrigan", "janina-fisher"]
   },
   {
     "title": "My body is sometimes a scary or confusing place to be",
@@ -57,7 +57,7 @@
   {
     "title": "I want to develop healthier boundaries",
     "id": "boundaries",
-    "items": ["boundaries-katherine", "silvy-khoucasian", "nvc"]
+    "items": ["boundaries-katherine", "silvy-khoucasian", "emotionally-immature-parents", "nvc"]
   },
   {
     "title": "What is physically happening in my brain/body?",
