@@ -1,49 +1,32 @@
+/* VARS */
+/* PAGE STYLES */
+::selection {
+  background: #ffd341;
+}
+
+::-moz-selection {
+  background: #ffd341;
+}
+
 body {
-	font-size: 13pt;
-  font-family: 'Georgia', sans-serif;
+  font-size: 13pt;
+  font-family: "Georgia", sans-serif;
   margin: 0;
 }
 
 a {
-  /* All links open in new tabs. */
-  target-name:new;
-  target-new:tab;
-}
-
-.content {
-	line-height: 1.5em;
-}
-
-.content .pageItem {
-	max-width: 600px;
-	margin: 2em 2em;
-
-	padding: 1.5em;
-	border: 1px solid #ccc;
-	border-radius: 5px;
-	word-wrap: break-word;
-}
-
-.content .pageItem *:first-child {
-	margin-top: 0;
-}
-.content .pageItem *:last-child {
-	margin-bottom: 0;
-}
-.content .pageItem * {
-	max-width: 100%;
-}
-
-.content .pageItem h3 {
-	margin-top: 0;
+  color: #04bbbb;
 }
 
 .footnote {
-  font-size: 12px;
+  font-size: 9pt;
+  font-style: oblique;
   color: #666;
+  line-height: 1.2em;
 }
 
-/* The side navigation menu */
+/* LAYOUT */
+/* Sidebar */
 .sidebar {
   margin: 0;
   width: 350px;
@@ -51,42 +34,74 @@ a {
   position: fixed;
   height: 100%;
   overflow: auto;
+  /* Sidebar links */
 }
-
 .sidebar h1, .sidebar h2, .sidebar h3, .sidebar .footnote {
-	padding: 0 22px;
+  font-style: oblique;
+  padding: 0 22px;
+  color: #666;
+  font-weight: normal;
 }
-
+.sidebar a h1 {
+  padding: 0;
+  margin: 0.5em 0 0;
+}
 .sidebar hr {
-  margin: 2em 0 1em 0;
+  margin: 1.5em 0 1em 0;
 }
-
-/* Sidebar links */
 .sidebar a {
   display: block;
   color: black;
   padding: 14px 22px;
   text-decoration: none;
 }
-
-/* Active/current link */
 .sidebar a.active {
   background-color: #4CAF50;
   color: white;
 }
-
-/* Links on mouse-over */
+.sidebar a.selected {
+  border-right: 8px #04bbbb solid;
+}
 .sidebar a:hover:not(.active) {
-  background-color: #555;
   color: white;
+  background-color: #77d2d2;
 }
 
-/* Page content. The value of the margin-left property should match the value of the sidebar's width property */
-div.content {
+/* Page content */
+.content {
+  line-height: 1.5em;
   margin-left: 350px;
-  padding: 1px 16px;
+  padding: 16px 16px;
+}
+.content .pageHead {
+  margin: 28px;
+  padding: 0 21px;
+  font-style: oblique;
+  color: #666;
+  font-size: 1.4em;
+}
+.content .pageItem {
+  max-width: 600px;
+  margin: 28px;
+  padding: 21px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  word-wrap: break-word;
+}
+.content .pageItem * {
+  max-width: 100%;
+}
+.content .pageItem *:first-child {
+  margin-top: 0;
+}
+.content .pageItem *:last-child {
+  margin-bottom: 0;
+}
+.content .pageItem h3 {
+  margin-top: 0;
 }
 
+/* RESPONSIVE */
 /* On screens that are less than 700px wide, make the sidebar into a collapsible topbar */
 @media screen and (max-width: 700px) {
   .sidebar {
@@ -94,10 +109,15 @@ div.content {
     height: auto;
     position: relative;
   }
-  .sidebar a {float: left;}
-  div.content {margin-left: 0;}
-}
 
+  .sidebar a {
+    float: left;
+  }
+
+  div.content {
+    margin-left: 0;
+  }
+}
 /* On screens that are less than 400px, display the bar vertically, instead of horizontally */
 @media screen and (max-width: 400px) {
   .sidebar a {
@@ -105,3 +125,5 @@ div.content {
     float: none;
   }
 }
+
+/*# sourceMappingURL=index.css.map */

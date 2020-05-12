@@ -37,7 +37,7 @@
     "title": "My body is sometimes a scary or confusing place to be",
     "id": "somatic",
     "subtitle": "If so, you might benefit from somatically-informed treatment modalities.",
-    "items": ["bks", "somatic-modalities", "andrea-glik", "clementine-morrigan", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana"]
+    "items": ["bks", "somatic-modalities", "andrea-glik", "clementine-morrigan", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "janina-fisher"]
   },
   {
     "title": "I want to self-regulate or understand myself better",
@@ -47,7 +47,7 @@
   {
     "title": "I have difficulty feeling comfortable/secure with others",
     "id": "relational",
-    "items": ["general-theory-love", "emotionally-immature-parents", "hold-me-tight", "silvy-khoucasian", "liz-listens"]
+    "items": ["general-theory-love", "emotionally-immature-parents", "hold-me-tight", "silvy-khoucasian", "liz-listens", "cptsd-walker"]
   },
   {
     "title": "I want to improve at communication",
@@ -57,11 +57,11 @@
   {
     "title": "I want to develop healthier boundaries",
     "id": "boundaries",
-    "items": ["boundaries-katherine", "silvy-khoucasian"]
+    "items": ["boundaries-katherine", "silvy-khoucasian", "nvc"]
   },
   {
-    "title": "What is happening in my brain/body?",
+    "title": "What is physically happening in my brain/body?",
     "id": "science",
-    "items": ["bks", "emotional-intelligence-goleman"]
+    "items": ["bks", "emotional-intelligence-goleman", "general-theory-love"]
   }
 ]}

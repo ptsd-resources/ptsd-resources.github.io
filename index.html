@@ -22,18 +22,24 @@
 
 <!-- The sidebar -->
 <div class="sidebar">
-	<h1>ptsd resources</h1>
-	<div class="footnote">
+	<a href="/"
+	   ng-click="loadPageView(undefined)"
+	   ng-class="{selected: (currPage===null)}"
+	   >
+		<h1>ptsd resources</h1>
+	</a>
+	<p class="footnote">
 	everyone's needs are different. take what you find helpful, leave what you don't.
-	</div>
+	</p>
 	<hr>
 	<div ng-repeat="pageId in orderedPageIds"
 			 ng-init="page=pages[pageId]">
 		<h3 ng-if="page.items === undefined">{[page.title]}</h3>
 		<a ng-if="page.items !== undefined"
-			 href="#{[page.id]}"
-			 ng-click="loadPageView(page.id)"
-			 >{[page.title]}</a>
+		   href="#{[page.id]}"
+		   ng-click="loadPageView(page.id)"
+		   ng-class="{selected: page.isSelected}"
+		   >{[page.title]}</a>
 	</div>
 </div>
 
@@ -41,12 +47,27 @@
 <div class="content">
 
 	<!-- Index page -->
-	<div ng-if="getCurrPageId() === undefined">
-		index page lorem ipsum dolor sit
+	<div ng-if="currPage.id === undefined"
+		 class="index-content">
+		<div class="pageItem">
+			<h3>what's this?</h3>
+			<p>I am not professionally certified, trained, or licensed in any way regarding matters of trauma, therapy, or psychology. I'm just a layperson working hard on my own baggage, and one of my top coping mechanisms happens to be compulsively reading, collating, and applying as many resources as I can find.</p>
+			<p>Unless otherwise noted, I have read and personally benefitted from all self-help resources provided.</p>
+			<p>I hope you find this useful for your own journey!</p>
+		</div>
+		<div class="pageItem footnote">
+			This site is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means to earn fees by linking to Amazon.com and affiliated sites.
+		</div>
+	</div>
+
+	<!-- Current page head -->
+	<div ng-if="currPage.id !== undefined"
+			 class="pageHead">
+		{[currPage.title]}
 	</div>
 
 	<!-- Current page content -->
-  <div ng-repeat="itemId in currPage.items"
+  	<div ng-repeat="itemId in currPage.items"
 			 ng-init="item=resources[itemId]"
 			 class="pageItem">
 		<div ng-if="item.href !== undefined">

@@ -20,7 +20,15 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 	/* Load views */
 
 	$scope.loadPageView = function(pageId) {
-		$scope.currPage = $scope.pages[pageId];
+		if (pageId==null) {
+			$scope.currPage = null;
+		} else {
+			$scope.currPage = $scope.pages[pageId];
+		}
+	    // Update navbar select style
+	    _.each($scope.pages, function(page) {
+	      page.isSelected = (pageId == page.id);
+	    });
 	};
 
 	$scope.toTrustedHTML = function(html) {
@@ -28,22 +36,22 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 	}
 
 	/* Load JSON */
-  $scope.loadJsonInScope = function(jsonUrl, scopeVar, callback) {
-		var deferred = $q.defer();
-    $http({
-      method: 'GET',
-      url: jsonUrl,
-    }).then(function successCallback(response) {
-      $scope[scopeVar] = response.data;
-      if (callback && _.isFunction(callback)) { callback(); }
-			deferred.resolve();
-    }, function errorCallback(response) {
-			deferred.reject('Unable to fetch ' + jsonUrl);
-    });
-		return deferred.promise;
-  };
+	$scope.loadJsonInScope = function(jsonUrl, scopeVar, callback) {
+			var deferred = $q.defer();
+	    $http({
+	      method: 'GET',
+	      url: jsonUrl,
+	    }).then(function successCallback(response) {
+	      $scope[scopeVar] = response.data;
+	      if (callback && _.isFunction(callback)) { callback(); }
+				deferred.resolve();
+	    }, function errorCallback(response) {
+				deferred.reject('Unable to fetch ' + jsonUrl);
+	    });
+			return deferred.promise;
+	};
 
-	$scope.getCurrPageId = function() {
+	$scope.getPageIdFromUrl = function() {
 		return _.keys(window.urlparams.getUrlParams())[0];
 	};
 
@@ -64,7 +72,7 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 	loadPageData().then(function() {
 		console.log('Successfully loaded page data');
 		// Load page id corresponding to current url hash, if relevant
-		var urlPageId = $scope.getCurrPageId();
+		var urlPageId = $scope.getPageIdFromUrl();
 		if (urlPageId === undefined) {
 			// index. skip
 		} else if (_.contains($scope.orderedPageIds, urlPageId)) {

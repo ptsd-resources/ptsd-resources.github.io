@@ -1,6 +1,6 @@
 {
   	"911": {
-  		"title": "In the case of an actual emergency, call 911."
+  		"title": "In the case of an active emergency, call 911."
   	},
   	"crisis-hotlines": {
   		"title": "Crisis hotlines",
@@ -8,17 +8,17 @@
   	},
   	"betterhelp": {
 		"title": "BetterHelp",
-		"body": "<b>Online therapy platform</b> that supports weekly live sessions and unlimited messaging for a monthly fee. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>My referral link</a> gives us both a free week. They match you with a counselor within a day or two, so it's a good way to quickly get on board with therapy even if you go with someone else later.",
+		"body": "<p><b>Online therapy platform</b> that supports weekly live sessions and unlimited messaging for a monthly fee. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>My referral link</a> gives us both a free week. They use a questionnaire to match you with a counselor within a day or two, so it's a good way to quickly get on board with therapy even if you go with someone else later.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week.</p>",
 		"href": "https://www.betterhelp.com/"
 	},
 	"psychology-today": {
 		"title": "PsychologyToday",
-		"body": "Detailed <b>therapist search engine</b> that lets you find therapists by particular parameters (insurance accepted, location, specialties, treatment modalities), and provides price ranges upfront. You contact therapists individually through it to set up consults.",
+		"body": "<p>Detailed <b>therapist search engine</b> that lets you find therapists by particular parameters (insurance accepted, location, specialties, treatment modalities), and provides price ranges upfront. You contact therapists individually through it to set up consults.</p><p>Expect around ~$100-200/session. Many therapists offer need-based sliding scales.</p>",
 		"href": "https://www.psychologytoday.com/us/therapists"
 	},
 	"open-path-collective": {
 		"title": "Open Path Collective",
-		"body": "Nonprofit <b>therapy service network</b> providing low cost therapy to uninsured or underinsured people.",
+		"body": "<p>Nonprofit <b>therapy service network</b> providing low cost therapy to uninsured or underinsured people.</p><p>$59 for membership, then $30–60/session.</p>",
 		"href": "https://openpathcollective.org/"
 	},
 	"trigger-protocol": {
@@ -32,7 +32,7 @@
 	},
 	"trigger-check": {
 		"title": "Are you triggered or flashbacked?",
-		"body": "<p>Explicit flashbacks recall details of a traumatic event. But we can also have <a href='https://www.psychologytoday.com/us/blog/conquer-fear-flying/201408/is-what-you-are-feeling-flashback'>implicit flashbacks</a>, where we mistakenly project emotions from a past traumatic situation onto a safe present-day situation. If not de-escalated, this can erode our safe relationships.</p><p><i>You might be having an emotional flashback if you:</i><ul><li>Feel overwhelmed by fear, shame, or confusion</li><li>Feel small, fragile, helpless, terrified</li><li>Feel frozen, shut down, unable to make sense of things, dissociated, numb <br/>Feel enraged, critical of others, judgmental, perceive ulterior motives</li><li>Feel worthless, self-loathing, self-disgust, self-hatred</li><li>Suddenly distrust your proven allies</li><li>Feel an evaporation of your usual self-esteem</li><li>Feel an overwhelming fear of catastrophe in response to a relatively mundane or innocuous situation</li></ul></p><p>If this feels very relatable, read <i><a href='https://amzn.to/2xOFc9O'>CPTSD: From Surviving To Thriving</a></i>, Ch. 8.</p><p>If you're having trouble figuring out where your flashback comes from, try therapy."
+		"body": "<p><i>Do you...</i><ul><li>Feel overwhelmed by fear, shame, or confusion</li><li>Feel small, fragile, helpless, terrified</li><li>Feel frozen, shut down, unable to make sense of things, dissociated, numb <br/>Feel enraged, critical of others, judgmental, perceive ulterior motives</li><li>Feel worthless, self-loathing, self-disgust, self-hatred</li><li>Suddenly distrust your proven allies</li><li>Feel an evaporation of your usual self-esteem</li><li>Feel an overwhelming fear of catastrophe in response to a relatively mundane or innocuous situation</li></ul></p><p>If so, you may be having an emotional flashback.</p><p>Explicit flashbacks recall details of a traumatic event. But we can also have <a href='https://www.psychologytoday.com/us/blog/conquer-fear-flying/201408/is-what-you-are-feeling-flashback'>implicit/emotional flashbacks</a>, where we mistakenly project emotions from a past traumatic situation onto a present-day situation. If not de-escalated, this can erode our safe relationships.</p><p>If this feels very relatable, read <i><a href='https://amzn.to/2xOFc9O'>CPTSD: From Surviving To Thriving</a></i>, Ch. 8.</p><p>If you're having trouble figuring out where your flashback comes from, you'll probably benefit from therapy."
 	},
 	"cptsd-walker": {
 		"title": "<i>CPTSD: From Surviving To Thriving</i> (Pete Walker)",
@@ -47,7 +47,7 @@
 	"general-theory-love": {
 		"title": "<i>A General Theory of Love</i> (Thomas Lewis, Fari Amini)",
 		"href": "https://amzn.to/2Y7bN5f",
-		"body": "Great and empathetic overview of mammalian attachment, social attunement, emotional intimacy, and healthy interdependence. This is a general read, probably useful to anyone interested in self-regulation and emotional intelligence."
+		"body": "Great and empathetic overview of mammalian attachment, social attunement, emotional intimacy, and healthy interdependence. This is a general read, probably useful to anyone interested in attachment, co-regulation, and emotional intelligence."
 	},
 	"emotionally-immature-parents": {
 		"title": "<i>Adult Children of Emotionally Immature Parents</i> (Lindsay C. Gibson)",
@@ -67,7 +67,7 @@
 	"crucial-conversations": {
 		"title": "<i>Crucial Conversations</i>",
 		"href": "https://amzn.to/2Senl2P",
-		"body": "A communication framework regarded similarly to NVC. CC seems a bit more oriented toward anger management tips, while NVC seems more oriented toward people-pleasers. The case studies also lean slightly more workplace-oriented in CC. If you’re not sure which one calls to you more and you have the time, it’s worth reading both."
+		"body": "A communication framework regarded similarly to NVC. CC seems a bit more oriented toward anger management tips, while NVC seems more oriented toward people-pleasers. The case studies also lean slightly more workplace-oriented in CC. If you’re not sure which one calls to you more and you have the time, it’s worth investigating both."
 	},
 	"emotional-intelligence-goleman": {
 		"title": "<i>Emotional Intelligence</i> (Daniel Goleman)",
@@ -104,26 +104,27 @@
 	},
 	"toni-therapy": {
 		"image": "images/gototherapy.png",
-		"body": "Useful validations from <a href='https://www.instagram.com/tonitalkstherapy/'>@tonitalkstherapy</a> that you don’t need to have experienced some “qualifying” degree of badness in your life to receive or benefit from therapy."
+		"href": "https://www.instagram.com/tonitalkstherapy/",
+		"body": "<p class='footnote'>via <a href='https://www.instagram.com/tonitalkstherapy/'>@tonitalkstherapy</a></p>"
 	},
 	"somatic-modalities": {
 		"title": "Somatic modalities",
-		"body": "<p><b><a href='https://traumahealing.org/about-us/#about' target='_blank'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html' target='_blank'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history' target='_blank'>Hakomi method</a></b> are related treatment approaches that combine traditional therapy with utilizing or gently developing the client’s awareness of how a traumatic experience (or experiences in general) may be held in the body, and facilitating their ability to re-establish agency over their bodies and regulatory mechanisms while triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving interoception, learning to separate physical sensations from trauma emotions, and learning how to get out of dissociative states, especially in people whose trauma had a physical basis.</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research' target='_blank'>EFT/tapping</a></b>, which involves tapping on your own body while focusing on particular feelings you are having, can be done on your own.</p>"
+		"body": "<p><b><a href='https://traumahealing.org/about-us/#about' target='_blank'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html' target='_blank'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history' target='_blank'>Hakomi method</a></b> are related treatment approaches that combine traditional therapy with utilizing or gently developing the client’s awareness of how a traumatic experience (or experiences in general) may be held in the body, and facilitating their ability to re-establish agency over their bodies and regulatory mechanisms while triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving interoception, learning to separate physical sensations from trauma emotions, and learning how to get out of dissociative states, especially in people whose trauma had a physical basis.</p><p><b>EMDR</b> is a somatically-informed treatment method that works to reintegrate and process stuck trauma more rapidly than conventional therapy alone.</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research' target='_blank'>EFT/tapping</a></b>, which involves tapping on your own body while focusing on particular feelings you are having, can be done on your own.</p>"
 	},
 	"polyvagal-overview": {
 		"title": "Polyvagal theory & nervous system regulation",
 		"href": "https://en.wikipedia.org/wiki/Polyvagal_theory",
-		"body": "<p>Polyvagal theory describes our autonomic nervous system’s role in fight-flight-freeze responses, and how to identify and manage different states. If you find yourself often getting stuck in a triggered state such as primal anger/fear/terror and you have a lot of trouble deactivating, you might find this useful.</p><p>Quick intro: <a href='https://www.stitcher.com/podcast/justin-sunseri/polyvagal-podcast/e/68637148' target='_blank'>Complex PTSD and the Polyvagal Theory | Polyvagal Podcast</a></p>"
+		"body": "<p>Polyvagal theory describes our autonomic nervous system’s role in fight-flight-freeze responses, and how to identify and manage different states. If you carry physical trauma or find yourself often getting stuck in a triggered state such as primal anger/fear/terror and you have a lot of trouble deactivating, you might find this useful.</p><p>Quick intro: <a href='https://www.stitcher.com/podcast/justin-sunseri/polyvagal-podcast/e/68637148' target='_blank'>Complex PTSD and the Polyvagal Theory | Polyvagal Podcast</a></p>"
 	},
 	"polyvagal-rosenberg": {
 		"title": "<i>Accessing the Healing Power of the Vagus Nerve</i> (Stanley Rosenberg)",
 		"href": "https://amzn.to/357tHq9",
-		"body": "<p>Self-help exercises for improving self-regulation of your autonomic nervous system. The author comes from a craniosacral perspective.</p><p>I have not personally read this one, but it comes highly recommended by a friend with physical trauma.</p>"
+		"body": "<p>Self-help exercises for improving self-regulation of your autonomic nervous system. The author comes from a craniosacral perspective.</p><p class='footnote'>I have not fully read this, but it comes highly recommended by a friend with physical trauma.</p>"
 	},
 	"polyvagal-dana": {
 		"title": "<i>The Polyvagal Theory in Therapy</i> (Deb Dana)",
 		"href": "https://amzn.to/2VG6p7C",
-		"body": "<p>A clinician perspective, written more for therapists looking to incorporate this approach with clients. Includes worksheets and exercises.</p><p>I have also not read this one yet.</p>"
+		"body": "<p>A clinician perspective, written more for therapists looking to incorporate this approach with clients. Includes worksheets and exercises.</p><p class='footnote'>I have also not fully read this one yet.</p>"
 	},
 	"tnh-intro": {
 		"title": "Intro to mindfulness practice by Thich Nhat Hanh",
@@ -158,6 +159,11 @@
 	"boundaries-katherine": {
 		"title": "Where To Draw The Line (Anne Katherine)",
 		"href": "https://amzn.to/2YQw3Zf",
-		"body": "On drawing boundaries."
+		"body": "Guidance for navigating and holding many kinds of boundaries, with strangers, friends, partners, relatives, etc."
+	},
+	"janina-fisher": {
+		"title": "Healing The Fragmented Selves of Trauma Survivors (Janina Fisher)",
+		"href": "https://amzn.to/2KylMbY",
+		"body": "<p>A deep resource on processing and healing our fragmented trauma parts. Focuses on understanding traumatic responses, managing dissociation, and finding safety for all of one’s trauma parts.</p><p class='footnote'>Have not fully read this, but it comes highly recommended by a friend who is trained in the Hakomi Method.</p>"
 	}
 }
