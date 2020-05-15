@@ -26,12 +26,12 @@
   {
     "title": "I feel bad and don't know why",
     "id": "feeling-bad",
-    "items": ["trigger-check", "self-boundaries"]
+    "items": ["trigger-check", "self-boundaries", "was-it-abuse"]
   },
   {
-    "title": "Relational abuse or childhood neglect",
-    "id": "childhood-abuse",
-    "items": ["cptsd-walker", "bks", "monique-cptsd", "silvy-khoucasian", "clementine-morrigan", "janina-fisher"]
+    "title": "Relational abuse, neglect, or violation",
+    "id": "relational",
+    "items": ["was-it-abuse", "cptsd-walker", "bks", "monique-cptsd", "silvy-khoucasian", "clementine-morrigan", "janina-fisher"]
   },
   {
     "title": "My body is sometimes a scary or confusing place to be",
@@ -40,14 +40,14 @@
     "items": ["bks", "somatic-modalities", "andrea-glik", "clementine-morrigan", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "janina-fisher"]
   },
   {
-    "title": "I want to self-regulate or understand myself better",
+    "title": "I want to mindfully self-regulate",
     "id": "self-regulate",
     "items": ["tnh-intro", "meditate-yumi", "insight-timer-app", "plum-village-app", "nomudnolotus", "tnh-fear"]
   },
   {
     "title": "I have difficulty feeling comfortable/secure with others",
-    "id": "relational",
-    "items": ["general-theory-love", "emotionally-immature-parents", "hold-me-tight", "silvy-khoucasian", "liz-listens", "cptsd-walker", "attached-levine"]
+    "id": "attachment",
+    "items": ["general-theory-love", "silvy-khoucasian", "liz-listens", "emotionally-immature-parents", "cptsd-walker", "hold-me-tight", "attached-levine"]
   },
   {
     "title": "I want to improve at communication",
