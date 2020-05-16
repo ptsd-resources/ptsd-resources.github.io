@@ -1,4 +1,5 @@
 /* VARS */
+/* PAGE MIXINS */
 /* PAGE STYLES */
 ::selection {
   background: #ffd341;
@@ -36,18 +37,21 @@ a {
   overflow: auto;
   /* Sidebar links */
 }
+.sidebar #nav-icon {
+  display: none;
+}
 .sidebar h1, .sidebar h2, .sidebar h3, .sidebar .footnote {
   font-style: oblique;
-  padding: 0 22px;
   color: #666;
   font-weight: normal;
+  padding: 0 22px;
 }
 .sidebar a h1 {
   padding: 0;
   margin: 0.5em 0 0;
 }
-.sidebar hr {
-  margin: 1.5em 0 1em 0;
+.sidebar .header {
+  margin-bottom: 22px;
 }
 .sidebar a {
   display: block;
@@ -55,47 +59,64 @@ a {
   padding: 14px 22px;
   text-decoration: none;
 }
-.sidebar a.active {
-  background-color: #4CAF50;
-  color: white;
-}
 .sidebar a.selected {
   border-right: 8px #04bbbb solid;
+  -moz-transition: border-right 0.2s;
+  -ms-transition: border-right 0.2s;
+  -webkit-transition: border-right 0.2s;
+  -o-transition: border-right 0.2s;
+  transition: border-right 0.2s;
 }
 .sidebar a:hover:not(.active) {
   color: white;
   background-color: #77d2d2;
+  -moz-transition: color 0.2s;
+  -ms-transition: color 0.2s;
+  -webkit-transition: color 0.2s;
+  -o-transition: color 0.2s;
+  transition: color 0.2s;
+  -moz-transition: background-color 0.2s;
+  -ms-transition: background-color 0.2s;
+  -webkit-transition: background-color 0.2s;
+  -o-transition: background-color 0.2s;
+  transition: background-color 0.2s;
 }
 
 /* Page content */
 #content {
   line-height: 1.5em;
   margin-left: 350px;
+  max-width: 650px;
   padding: 16px 16px;
 }
-#content .page-head {
+#content .page-head, #content .page-item {
   margin: 28px;
-  padding: 0 21px;
-  font-style: oblique;
-  color: #666;
-  font-size: 1.4em;
-}
-#content .page-item {
-  max-width: 600px;
-  margin: 28px;
+  box-sizing: border-box;
   padding: 21px;
-  border: 1px solid #ccc;
   border-radius: 5px;
   word-wrap: break-word;
 }
-#content .page-item * {
+#content .page-head *, #content .page-item * {
   max-width: 100%;
 }
-#content .page-item *:first-child {
+#content .page-head *:first-child, #content .page-item *:first-child {
   margin-top: 0;
 }
-#content .page-item *:last-child {
+#content .page-head *:last-child, #content .page-item *:last-child {
   margin-bottom: 0;
+}
+#content .page-head {
+  border: 8px dashed #eee;
+}
+#content .page-head h1, #content .page-head h2, #content .page-head h3 {
+  margin: 0;
+  font-style: oblique;
+  color: #666;
+  font-weight: normal;
+  line-height: 1.1em;
+}
+#content .page-item {
+  border: 1px solid #ccc;
 }
 #content .page-item .item-title:first-child {
   margin-top: 0;
@@ -106,15 +127,88 @@ a {
 
 /* RESPONSIVE */
 /* On narrow screens, make the sidebar into a collapsible topbar */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
+  .toggleable:not(.open) {
+    display: none;
+  }
+
   .sidebar {
     width: 100%;
     height: auto;
     position: relative;
   }
+  .sidebar #nav-icon {
+    display: block;
+  }
 
-  div#content {
+  body {
+    text-align: center;
+  }
+
+  #content {
+    margin: 0 auto;
     margin-left: 0;
+    text-align: left;
+    max-width: 100%;
+  }
+  #content .page-item, #content .page-head {
+    max-width: 100%;
+  }
+  #content .page-item .item-image, #content .page-head .item-image {
+    max-height: none;
+  }
+
+  .responsive-off {
+    display: none;
+  }
+}
+/* Mobile devices */
+@media screen and (max-device-width: 900px) {
+  .toggleable:not(.open) {
+    display: none;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar #nav-icon {
+    display: block;
+  }
+
+  body {
+    text-align: center;
+  }
+
+  #content {
+    margin: 0 auto;
+    margin-left: 0;
+    text-align: left;
+    max-width: 100%;
+  }
+  #content .page-item, #content .page-head {
+    max-width: 100%;
+  }
+  #content .page-item .item-image, #content .page-head .item-image {
+    max-height: none;
+  }
+
+  .responsive-off {
+    display: none;
+  }
+
+  #content {
+    padding: 0;
+  }
+  #content .page-head, #content .page-item {
+    margin: 16px;
+  }
+}
+/* On wider screens, hide responsive-only elements */
+@media screen and (min-width: 901px) {
+  .responsive-only {
+    display: none;
   }
 }
 

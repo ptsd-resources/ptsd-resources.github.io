@@ -1,3 +1,5 @@
+@import mixins
+
 /* VARS */
 
 $yellow-fill: #ffd341
@@ -12,15 +14,20 @@ $turquoise-text: #0e98bd
 $teal-fill: #77d2d2
 $teal-text: #04bbbb
 
-
 $grey-border: #ccc
+$light-grey-fill: #f1f1f1
 
+/* PAGE MIXINS */
+
+=grey-oblique
+  font-style: oblique
+  color: #666
+  font-weight: normal
 
 /* PAGE STYLES */
 
 ::selection 
   background: $yellow-fill /* WebKit/Blink Browsers */
-
 ::-moz-selection 
   background: $yellow-fill /* Gecko Browsers */
 
@@ -32,9 +39,6 @@ body
 
 a
   color: $teal-text
-
-  //&:visited
-  //  color: $purple-text-muted
 
 .footnote 
   font-size: 9pt
@@ -48,24 +52,24 @@ a
 .sidebar 
   margin: 0
   width: 350px
-  background-color: #f1f1f1
+  background-color: $light-grey-fill
   position: fixed
   height: 100%
   overflow: auto
 
+  #nav-icon
+    display: none
+
   h1, h2, h3, .footnote
-    font-style: oblique
+    +grey-oblique
     padding: 0 22px
-    color: #666
-    font-weight: normal
 
   a h1
     padding: 0
     margin: 0.5em 0 0
 
-  hr 
-    margin: 1.5em 0 1em 0
-  
+  .header
+    margin-bottom: 22px
 
   /* Sidebar links */
   a 
@@ -73,39 +77,30 @@ a
     color: black
     padding: 14px 22px
     text-decoration: none
-
-    &.active 
-      background-color: #4CAF50
-      color: white
     
     &.selected 
-      //background-color: $teal-fill
       border-right: 8px $teal-text solid
+      +transition(border-right 0.2s)
     
     &:hover:not(.active)//:not(.selected) 
       color: white
       background-color: $teal-fill
+      +transition(color 0.2s)
+      +transition(background-color 0.2s)
+
 
 
 /* Page content */
 #content 
   line-height: 1.5em
   margin-left: 350px
+  max-width: 650px
   padding: 16px 16px
 
-  .page-head 
+  .page-head, .page-item
     margin: 28px
-    padding: 0 21px
-    font-style: oblique
-    color: #666
-    font-size: 1.4em
-
-  .page-item 
-    max-width: 600px
-    margin: 28px
-
+    box-sizing: border-box
     padding: 21px
-    border: 1px solid $grey-border
     border-radius: 5px
     word-wrap: break-word
 
@@ -113,9 +108,19 @@ a
       max-width: 100%
     *:first-child 
       margin-top: 0
-    
     *:last-child 
       margin-bottom: 0
+
+  .page-head 
+    h1, h2, h3
+      margin: 0
+      +grey-oblique
+      line-height: 1.1em
+
+    border: 8px dashed #eee
+
+  .page-item 
+    border: 1px solid $grey-border
 
     .item-title:first-child
       margin-top: 0
@@ -128,11 +133,48 @@ a
 /* RESPONSIVE */
 
 /* On narrow screens, make the sidebar into a collapsible topbar */
-@media screen and (max-width: 800px) 
+=responsive-narrow
+  .toggleable:not(.open)
+    display: none
+
   .sidebar 
     width: 100%
     height: auto
     position: relative
+
+    #nav-icon
+      display: block
+
+  body
+    text-align: center
   
-  div#content
+  #content
+    margin: 0 auto
     margin-left: 0
+    text-align: left
+    max-width: 100%
+
+    .page-item, .page-head
+      max-width: 100%
+
+      .item-image
+        max-height: none
+
+  .responsive-off
+    display: none
+
+@media screen and (max-width: 900px)
+  +responsive-narrow
+
+/* Mobile devices */
+@media screen and (max-device-width: 900px)
+  +responsive-narrow
+  #content
+    padding: 0
+    .page-head, .page-item
+      margin: 16px
+
+/* On wider screens, hide responsive-only elements */
+@media screen and (min-width: 901px)
+  .responsive-only
+    display: none

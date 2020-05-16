@@ -24,10 +24,10 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 
 	/* Load views */
 
-	var scrollToContent = function() {
+	var scrollToTop = function() {
 		$('html, body').animate({
-		    scrollTop: ($('#content').offset().top)
-		},200);
+		    scrollTop: ($('body').offset().top)
+		}, 200);
 	};
 
 	$scope.loadPageView = function(pageId) {
@@ -45,13 +45,22 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 	    _.each($scope.pages, function(page) {
 	    	$scope.pages[page.id].isSelected = (pageId == page.id);
 	    });
-	    // Scroll to #content top
-	    scrollToContent();
+	    // If in responsive mode, close nav
+	    $scope.isResponsiveNavOpen = false;
+	    // Scroll to top
+	    scrollToTop();
 	};
 
 	$scope.toTrustedHTML = function(html) {
     	return $sce.trustAsHtml(html);
 	}
+
+	/* Toggle nav */
+	$scope.isResponsiveNavOpen = false;
+	$scope.toggleResponsiveNav = function() {
+		console.log("toggle")
+		$scope.isResponsiveNavOpen = !$scope.isResponsiveNavOpen;
+	};
 
 	/* Load JSON */
 	$scope.loadJsonInScope = function(jsonUrl, scopeVar, callback) {

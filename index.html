@@ -4,7 +4,12 @@
 
 <head>
 
-	<!-- Page styles -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Vendor stylesheets -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+	<!-- Page stylesheets -->
 	<link href='assets/index.css' rel='stylesheet' type='text/css'/>
 
 	<!-- Vendor scripts -->
@@ -20,18 +25,44 @@
 
 </head>
 
-<!-- The sidebar -->
-<div class="sidebar">
-	<a href="#"
-	   ng-click="loadPageView(undefined)"
-	   ng-class="{selected: (currPage==null)}"
-	   >
-		<h1>ptsd resources</h1>
+<!-- Responsive nav toggle -->
+<div id="nav-toggle"
+	 class="sidebar">
+	<a 
+	   id="nav-icon"
+	   ng-click="toggleResponsiveNav()">
+		<i class="fa fa-bars"></i>
 	</a>
-	<p class="footnote">
-	everyone's needs are different. take what you find helpful, leave what you don't.
-	</p>
-	<hr>
+</div>
+
+<!-- The sidebar -->
+<div class="sidebar toggleable"
+	 ng-class="{open: isResponsiveNavOpen}">
+
+    <!-- Header -->
+    <div class="header responsive-off">
+		<a href="#"
+		   ng-click="loadPageView(undefined)"
+		   ng-class="{selected: (currPage==null)}"
+		   >
+			<h1>ptsd resources</h1>
+		</a>
+		<p class="footnote">
+		everyone's needs are different. take what you find helpful, leave what you don't.
+		</p>
+	</div>
+	<div class="responsive-only">
+		<hr/>
+		<a href="#"
+		   ng-click="loadPageView(undefined)"
+		   ng-class="{selected: (currPage==null)}"
+		   >
+			About this site
+		</a>
+	</div>
+	<hr/>
+
+	<!-- Nav items -->
 	<div ng-repeat="page in getOrderedPages()">
 		<h3 ng-if="page.items === undefined">{[page.title]}</h3>
 		<a ng-if="page.items !== undefined"
@@ -48,6 +79,15 @@
 	<!-- Index page -->
 	<div ng-if="currPage.id === undefined"
 		 class="index-content">
+
+		<div class="page-head responsive-only">
+			<h1>ptsd resources</h1>
+			<p class="footnote">
+			everyone's needs are different. take what you find helpful, leave what you don't.
+			</p>
+		</div>
+
+		<!-- Index content -->
 		<div class="page-item">
 			<h3>what's this?</h3>
 			<p>I am not professionally certified, trained, or licensed in any way regarding matters of trauma, therapy, or psychology. I'm just a layperson whose favorite coping mechanism is compulsively reading, collating, and applying as many resources as I can find. I originally formatted this as <a href="https://medium.com/@rhetoricize/d6fd776339a8" target="_blank">a longform article</a>, but it got too long, so I made this website for quicker reference.</p>
@@ -61,8 +101,8 @@
 
 	<!-- Current page head -->
 	<div ng-if="currPage.id !== undefined"
-			 class="page-head">
-		{[currPage.title]}
+		 class="page-head">
+		<h3>{[currPage.title]}</h3>
 	</div>
 
 	<!-- Current page content -->
@@ -80,7 +120,7 @@
 			<h3 ng-if="item.title"
 			    class="item-title">
 				<a href="{[item.href]}"
-					 target="_blank"
+				   target="_blank"
 				   ng-bind-html="item.title">{[item.title]}</a>
 			</h3>
 		</div>
