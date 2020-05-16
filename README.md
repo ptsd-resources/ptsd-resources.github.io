@@ -1,4 +1,4 @@
-# trauma-resources
+# ptsd-resources
 -----
 
 ## local
