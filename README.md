@@ -24,8 +24,8 @@ This probably would have worked fine using Jekyll, but this janky approach was p
 - [ ] implement url hash browser back
 - [x] basic mobile responsive nav -> collapsible topbar
 - [ ] mobile first???
-- [ ] vocab feature
-- [ ] caption datatype
+- [x] vocab feature
+- [ ] caption datatype?
 - [x] literally any styling lol
 - [x] switch to SASS
 - [x] import my nice sass mixins

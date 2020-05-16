@@ -184,5 +184,29 @@
 	"was-it-abuse": {
 		"title": "But I wasn't abused",
 		"body": "<p>You definitely don't need to have been hardcore abused to have heavy emotional baggage. Chronic emotional neglect or boundary violation can strongly affect people in enmeshed situations. If you chronically experienced any of these factors growing up or in a long-term codependent relationship, they have probably strongly shaped your self-image and ways of relating to others:</p><ul><li>Being shamed for crying (or otherwise healthily expressing sadness, anger, fear, or upset in a way that didn't harmfully lash out at others)</li><li>Being treated with disgust or contempt</li><li>Being rejected or invalidated when you wanted comfort for pain</li><li>Being abandoned without explanation, or when you were too young to understand</li><li>Being constantly compared to 'perfect' ideals</li><li>Being told your aspirations were wasteful or unimportant</li><li>Not being allowed privacy</li><li>Being expected to do things for others that you felt deeply uncomfortable doing</li></ul><p class='footnote'>Paraphrased from <a href='https://amzn.to/2xOFc9O' target='_blank'>Pete Walker's CPTSD book</a>, Ch.5.</p>"
+	},
+	"attachment-theory": {
+		"title": "Attachment theory",
+		"href": "https://en.wikipedia.org/wiki/Attachment_theory",
+		"type": "vocab",
+		"body": "<div><p>Posits that we all share a common goal of wanting safety from an intimate bond when stressed, but may instinctively react in wildly different ways based on formative emotional experiences, often from our childhood caregivers or lack thereof.</p><p>For example, we may feel unsafe without constant reassurance <i>(anxiously attached)</i>, or may feel unsafe with intimacy <i>(avoidant)</i>, or simultaneously seek out and fear closeness <i>(fearful-avoidant / disorganized)</i>, sometimes with self-destructive effects that undermine the very safety we seek.</p><p>Fortunately, it is possible to change attachment styles. The ultimate goal is being able to both comfortably participate in intimacy and not panic without constant reassurance <i>(secure attachment)</i>.</p></div>"
+	},
+	"alexithymia": {
+		"title": "Alexithymia",
+		"href": "https://en.wikipedia.org/wiki/Alexithymia",
+		"type": "vocab",
+		"body": "The inability to identify emotions in oneself or others. This can be a general state for some people. But even if you’re usually fine at identifying emotions, it’s not uncommon to enter this state while feeling triggered or overwhelmed."
+	},
+	"hijacking": {
+		"title": "Emotional hijacking",
+		"href": "https://en.wikipedia.org/wiki/Amygdala_hijack",
+		"type": "vocab",
+		"body": "The amygdala, which is associated with decision-making, emotional responses, and memory processing, sets off threat alerts a lot faster than our neocortex can make complex decisions. In other words, there’s a physiological explanation as to why new facts and rationalizations aren’t effective at preventing us from getting inappropriately triggered, scared, or angry, or from moving us forward once we’re triggered."
+	},
+	"interoception": {
+		"title": "Interoception",
+		"href": "https://en.wikipedia.org/wiki/Interoception",
+		"type": "vocab",
+		"body": "Awareness of one’s internal physiological state."
 	}
 }

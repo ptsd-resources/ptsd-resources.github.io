@@ -124,6 +124,19 @@ a {
 #content .page-item .item-image {
   max-height: 300px;
 }
+#content .page-item.vocab {
+  border: none;
+  border-left: 8px solid #eee;
+  color: #666;
+}
+#content .page-item.vocab a {
+  color: #666;
+}
+#content .page-item.vocab h3 {
+  font-style: oblique;
+  color: #666;
+  font-weight: normal;
+}
 
 /* RESPONSIVE */
 /* On narrow screens, make the sidebar into a collapsible topbar */

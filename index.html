@@ -127,7 +127,8 @@
 
 	<!-- Current page content -->
   	<div ng-repeat="item in currPage.getResources()"
-		 class="page-item">
+		 class="page-item"
+		 ng-class="{vocab: item.type=='vocab'}">
 		<div ng-if="item.href !== undefined">
 			<!-- linked title/image -->
 			<a href="{[item.href]}"

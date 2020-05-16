@@ -26,12 +26,12 @@
   {
     "title": "I feel bad and don't know why",
     "id": "feeling-bad",
-    "items": ["trigger-check", "self-boundaries", "was-it-abuse"]
+    "items": ["alexithymia", "trigger-check", "self-boundaries", "was-it-abuse"]
   },
   {
     "title": "Relational abuse, neglect, or violation",
     "id": "relational",
-    "items": ["was-it-abuse", "cptsd-walker", "bks", "monique-cptsd", "silvy-khoucasian", "clementine-morrigan", "janina-fisher"]
+    "items": ["was-it-abuse", "cptsd-walker", "bks", "monique-cptsd", "silvy-khoucasian", "clementine-morrigan", "janina-fisher", "general-theory-love"]
   },
   {
     "title": "My body is sometimes a scary or confusing place to be",
@@ -42,12 +42,12 @@
   {
     "title": "I want to mindfully self-regulate",
     "id": "self-regulate",
-    "items": ["tnh-intro", "meditate-yumi", "insight-timer-app", "plum-village-app", "nomudnolotus", "tnh-fear"]
+    "items": ["interoception", "tnh-intro", "meditate-yumi", "insight-timer-app", "plum-village-app", "nomudnolotus", "tnh-fear"]
   },
   {
     "title": "I have difficulty feeling comfortable/secure with others",
     "id": "attachment",
-    "items": ["general-theory-love", "silvy-khoucasian", "liz-listens", "emotionally-immature-parents", "cptsd-walker", "hold-me-tight", "attached-levine"]
+    "items": ["attachment-theory", "general-theory-love", "silvy-khoucasian", "liz-listens", "emotionally-immature-parents", "cptsd-walker", "hold-me-tight", "attached-levine"]
   },
   {
     "title": "I want to improve at communication",
@@ -62,6 +62,6 @@
   {
     "title": "What is physically happening in my brain/body?",
     "id": "science",
-    "items": ["bks", "emotional-intelligence-goleman", "general-theory-love"]
+    "items": ["hijacking", "bks", "emotional-intelligence-goleman", "general-theory-love"]
   }
 ]}
