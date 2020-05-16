@@ -22,12 +22,13 @@ This probably would have worked fine using Jekyll, but this janky approach was p
 ## TODOS
 
 - [ ] implement url hash browser back
-- [ ] basic mobile responsive nav -> collapsible topbar
+- [x] basic mobile responsive nav -> collapsible topbar
+- [ ] mobile first???
 - [ ] vocab feature
 - [ ] caption datatype
-- [ ] literally any styling lol
+- [x] literally any styling lol
 - [x] switch to SASS
-- [ ] import my nice sass mixins
+- [x] import my nice sass mixins
 - [ ] icons for resource types? (book, graphic, etc)
 
 ### quickies
