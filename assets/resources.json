@@ -107,17 +107,18 @@
 		"title": "Andrea Glik",
 		"href": "https://www.instagram.com/somaticwitch/",
 		"type": "instagram",
-		"body": "Somatic trauma therapist & educator, some LGBTQ/poly content. Relatable prompts and suggestions for replacing self-destructive thought patterns with a growth mindset, and a focus on nervous system regulation. Blogs, podcast interviews, and workshops on her <a href='https://www.andreaglik.com/'>website</a>."
+		"body": "<p>Somatic trauma therapist & educator, some LGBTQ/poly content. Relatable prompts and suggestions for replacing self-destructive thought patterns with a growth mindset, and a focus on nervous system regulation. Blogs, podcast interviews, and workshops on her <a href='https://www.andreaglik.com/'>website</a>.</p><p class='quote'>Instead of “I'm broken”, try “I am a trauma survivor/someone who has experienced trauma who is currently learning the impact of my experiences on my sense of self and working towards unlearning survival patterns.”</p>"
 	},
 	"clementine-morrigan": {
 		"title": "Clementine Morrigan",
 		"href": "https://www.instagram.com/clementinemorrigan/",
 		"type": "instagram",
-		"body": "Trauma healing writer, CSA/incest survivor, extremely LGBTQ/poly affirming. Tips and affirmations for somatic dysregulation, sexual abuse healing, and trauma-informed attachment healing."
+		"body": "<p>Trauma healing writer, CSA/incest survivor, extremely LGBTQ/poly affirming. Insightful affirmations and tips for trauma-informed attachment healing.</p><p class='quote'>Many trauma survivors totally freeze up when we want to say no or communicate a boundary because in the past it wasn’t safe to do so. In the context of safe relationships we need to learn how to say no and communicate our boundaries. Learning to say no is part of trauma recovery. It protects our boundaries and breaks the trauma habit of going along with things we don’t want. Learning to say no is also about respecting our partner’s boundaries and understanding that safe partners don’t want to do things that their partners don’t really want. When we say no we are communicating trust and respect for our partners.</p>"
 	},
 	"silvy-khoucasian": {
 		"title": "Silvy Khoucasian",
 		"href": "https://www.instagram.com/silvykhoucasian/",
+		"image": "images/silvy-attachment-communication.png",
 		"type": "instagram",
 		"body": "Attachment-focused coach & educator. Offers useful bite-sized prompts, tools, and perspective for people with boundary issues or childhood trauma. Also has a podcast, <a href='https://podcasts.apple.com/us/podcast/love-with-integrity/id1456831120?mt=2' target='_blank'>Love With Integrity</a>."
 	},
@@ -130,6 +131,7 @@
 	"sit-with-sharon": {
 		"title": "Sit With Sharon",
 		"href": "https://www.instagram.com/sitwithsharon/",
+		"image": "images/sitwithsharon.png",
 		"type": "instagram",
 		"body": "Attachment-focused therapist & educator. Offers striking reframes of common dysregulated attachment mindsets, and extremely direct tips for people with dysregulated attachment to more healthily recognize their own needs and self-harming patterns."
 	},
@@ -255,5 +257,23 @@
 	"simple-soothing": {
 		"title": "Simple self-soothing",
 		"body": "<ul><li><b>Slow, deep breathing</b> helps calm the body's threat response.</li><li><b>Safe touch</b> can help you remember your body is in the present. Hugs, hand-holding, self-hugging, a plush, a weighted blanket, a palm stone, a tree, a fidget object, etc.</li><li><b>Music</b> that makes you feel safe.</li></ul>"
+	},
+	"wildfell-consensuality": {
+		"title": "<i>Consensuality: Navigating Feminism, Gender, and Boundaries Towards Loving Relationships</i> (Helen Wildfell)",
+		"href": "https://microcosmpublishing.com/catalog/books/5285",
+		"type": "book",
+		"body": "<p>Small book of anecdotes and exercises about overcoming dysfunctional boundaries and communicating healthily about consent, conflict, and emotional expression.</p><p class='quote'>Do you feel capable of expressing how you feel on the inside? Do the people close to you try to restrict your expression of how you feel? What are some healthy ways of manifesting and expressing these feelings?</p>"
+	},
+	"crabb-ethical-consent": {
+		"title": "<i>Learning Good Consent: Building Ethical Relationships in a Complicated World</i> (Cindy Crabb)",
+		"href": "https://microcosmpublishing.com/catalog/books/2879",
+		"type": "book",
+		"body": "<p>Zine of anecdotes and prompts to help you define your comfort zone, what consent means for you, and how you approach other people's consent.</p><p class='quote'>How might someone express that what is happening is not ok? Do you look only for verbal signs or are there other signs? How do you react if someone becomes uncomfortable with what you're doing, or if they don't want to do something?</p>"
+	},
+	"tnh-love": {
+		"title": "<i>How To Love</i> (Thich Nhat Hanh)",
+		"href": "https://www.parallax.org/product/how-to-love/",
+		"type": "book",
+		"body": "<p>Small book of refreshingly simple analogies and insights on practicing genuine empathy, kindness, and respect with ourselves and those around us.</p><p class='quote'>A wrong perception can be the cause of a lot of suffering. This is why, whenever we have a perception, we have to ask ourselves if our perception is right.</p>"
 	}
 }

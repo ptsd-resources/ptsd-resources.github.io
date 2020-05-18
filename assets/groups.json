@@ -31,7 +31,7 @@
   {
     "title": "Relational abuse, neglect, or violation",
     "id": "relational",
-    "items": ["was-it-abuse", "cptsd-walker", "bks", "monique-cptsd", "silvy-khoucasian", "clementine-morrigan", "janina-fisher", "general-theory-love"]
+    "items": ["was-it-abuse", "cptsd-walker", "monique-cptsd", "bks", "janina-fisher", "general-theory-love"]
   },
   {
     "title": "My body is sometimes a scary or confusing place to be",
@@ -47,7 +47,12 @@
   {
     "title": "I have difficulty feeling comfortable/secure with others",
     "id": "attachment",
-    "items": ["attachment-theory", "general-theory-love", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "emotionally-immature-parents", "cptsd-walker", "hold-me-tight", "attached-levine"]
+    "items": ["attachment-theory", "general-theory-love", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "clementine-morrigan", "emotionally-immature-parents", "cptsd-walker", "hold-me-tight", "attached-levine"]
+  },
+  {
+    "title": "I'm not always sure what consent means for me",
+    "id": "consent",
+    "items": ["clementine-morrigan", "crabb-ethical-consent", "wildfell-consensuality"]
   },
   {
     "title": "I want to improve at communication",
@@ -57,7 +62,7 @@
   {
     "title": "I want to develop healthier boundaries",
     "id": "boundaries",
-    "items": ["boundaries-katherine", "silvy-khoucasian", "sit-with-sharon", "emotionally-immature-parents", "nvc"]
+    "items": ["boundaries-katherine", "silvy-khoucasian", "sit-with-sharon", "clementine-morrigan", "emotionally-immature-parents", "tnh-love", "nvc"]
   },
   {
     "title": "What is physically happening in my brain/body?",

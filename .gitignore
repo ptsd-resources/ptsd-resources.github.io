@@ -2,3 +2,5 @@
 *.sublime-workspace
 
 */*.css.map
+
+images/.DS_Store
