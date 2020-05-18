@@ -4,20 +4,24 @@
   	},
   	"crisis-hotlines": {
   		"title": "Crisis hotlines",
+  		"type": "talk",
   		"body": "<p>If you are still in an actively traumatic situation, then PTSD is actually adaptive rather than maladaptive, and it's probably more pressing to work on exiting the situation or gathering resources and allies to increase your safety.</p><ul><li><a href='https://www.thehotline.org/'>National Domestic Abuse Hotline</a></li><li><a href='https://humantraffickinghotline.org/'>National Trafficking Hotline</a></li><li><a href='http://crisislink.org/crisislinks-text-hotline'>Crisis Link Hotline</a></li><li><a href='https://www.rainn.org/'>RAINN</a></li><li><a href='https://www.nilc.org/'>National Immigration Law Center</a></li></ul>"
   	},
   	"betterhelp": {
 		"title": "BetterHelp",
+		"type": "talk",
 		"body": "<p><b>Online therapy platform</b> that supports weekly live sessions and unlimited messaging for a monthly fee. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>My referral link</a> gives us both a free week. They use a questionnaire to match you with a counselor within a day or two, so it's a good way to quickly get on board with therapy even if you go with someone else later.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week.</p>",
 		"href": "https://www.betterhelp.com/"
 	},
 	"psychology-today": {
 		"title": "PsychologyToday",
+		"type": "talk",
 		"body": "<p>Detailed <b>therapist search engine</b> that lets you find therapists by particular parameters (insurance accepted, location, specialties, treatment modalities), and provides price ranges upfront. You contact therapists individually through it to set up consults.</p><p>Expect around ~$100-200/session. Many therapists offer need-based sliding scales.</p>",
 		"href": "https://www.psychologytoday.com/us/therapists"
 	},
 	"open-path-collective": {
 		"title": "Open Path Collective",
+		"type": "talk",
 		"body": "<p>Nonprofit <b>therapy service network</b> providing low cost therapy to uninsured or underinsured people.</p><p>$59 for membership, then $30–60/session.</p>",
 		"href": "https://openpathcollective.org/"
 	},
@@ -37,79 +41,96 @@
 	"cptsd-walker": {
 		"title": "<i>CPTSD: From Surviving To Thriving</i> (Pete Walker)",
 		"href": "https://amzn.to/2xOFc9O",
+		"type": "book",
 		"body": "<p>Extraordinarily actionable handbook for people with cPTSD from relational abuse / neglect. Very applied, with lots of exercises and toolboxes. Structured so you can pick and choose the chapters that are relevant to you.</p><p>Written specifically for survivors of parental abuse / neglect. However, would also be useful for generally dealing with emotional impact from non-parental formative relationships.</p><p>Includes a great chapter supporting people who haven't sought help because they don't believe their experiences were 'traumatic enough'."
 	},
 	"bks": {
 		"title": "<i>The Body Keeps The Score</i> (Bessel van der Kolk)",
 		"href": "https://amzn.to/2W1Wvw8",
+		"type": "book",
 		"body": "<p>Foundational overview of PTSD research, the neurobiology of trauma, and how mind-body integrative treatments can help dislodge stuck trauma.</p><p>Big focus on cPTSD from childhood abuse since it's such a stubborn and widespread category of trauma experience. But it covers a lot of ground, and should be generally useful if you carry any kind of trauma you feel stuck on or overwhelmed by, or simply want to better understand a traumatized person in your life.</p><p>A bit research-heavy. Better read as a whole than in pieces. May be particularly useful if you don’t understand why your trauma is so difficult to work through, or if you prefer using a scientific framing to cement your psych understanding.</p>"
 	},
 	"general-theory-love": {
 		"title": "<i>A General Theory of Love</i> (Thomas Lewis, Fari Amini)",
 		"href": "https://amzn.to/2Y7bN5f",
+		"type": "book",
 		"body": "Great and empathetic overview of mammalian attachment, social attunement, emotional intimacy, and healthy interdependence. This is a general read, probably useful to anyone interested in attachment, co-regulation, and emotional intelligence."
 	},
 	"emotionally-immature-parents": {
 		"title": "<i>Adult Children of Emotionally Immature Parents</i> (Lindsay C. Gibson)",
+		"type": "book",
 		"href": "https://amzn.to/3bHWLa2",
 		"body": "<p>Fantastic read on better understanding your childhood experiences and responses, understanding confusing mixed signals from one’s caregivers, and learning to set healthy, self-respecting boundaries.</p><p>This book doesn’t assume a particular degree of objective badness, only that you would like to work on dysregulation of some kind. So it seems like it’d probably be useful for addressing a very wide range of parental relationship dysfunction, from lovably frustrating to toxic.</p>"
 	},
 	"hold-me-tight": {
 		"title": "<i>Hold Me Tight</i> (Sue Johnson)",
 		"href": "https://amzn.to/2VCNA58",
+		"type": "book",
 		"body": "<p>Empathetic framework & exercises for repairing dysfunctional patterns in committed relationships with an anxious-avoidant dynamic, by finding ways to gently build self-awareness of patterns, and bridge both partners’ seemingly conflicting needs for feeling safe.</p><p>Note that this framework requires a lot of vulnerability, and assumes that you are dealing with a merely dysfunctional relationship where both people want to put in work, and not a toxic/abusive relationship. If you think you might be in the latter situation, figure that out before proceeding.</p>"
 	},
 	"attached-levine": {
 		"title": "Attached: The New Science of Adult Attachment (Amir Levine, Rachel Heller)",
 		"href": "https://amzn.to/2KBaHHb",
+		"type": "book",
 		"body": "A general intro to attachment styles in the context of romantic relationships. I didn't find it as personally actionable or clarifying as the resources above, and thought it tended to demonize avoidant-leaning people in a way that didn’t seem conducive to building mutual understanding. Nevertheless, might be useful if your relationships have been more toxic, distressing, or inflexible, and you're unfamiliar with attachment theory."
 	},
 	"nvc": {
 		"title": "<i>Nonviolent Communication</i> (Marshall B. Rosenberg)",
 		"href": "https://amzn.to/2Yb0CZf",
+		"type": "book",
 		"body": "<p>A communication framework rooted in deep listening and compassion to others and ourselves. Simple, memorable method to observe a situation, distinguish the objective externals from the subjective internals before we speak rashly, and move forward in mutual understanding.</p><p>Particularly useful if you're a people-pleaser, you have trouble with boundaries (yours or others’), or if you find your emotions confusing and wish to increase your emotional clarity.</p>"
 	},
 	"crucial-conversations": {
 		"title": "<i>Crucial Conversations</i>",
 		"href": "https://amzn.to/2Senl2P",
+		"type": "book",
 		"body": "Communication skills for safely bringing up important conversations and having open dialogue. Between NVC and CC, CC seems more oriented toward anger/frustration management (‟be persuasive, not abrasive”, while NVC seems more oriented toward people-pleasers. Generally applicable to life, but CC case studies lean more often toward dialogue within workplaces and organizations."
 	},
 	"emotional-intelligence-goleman": {
 		"title": "<i>Emotional Intelligence</i> (Daniel Goleman)",
 		"href": "https://amzn.to/3bBKeVH",
+		"type": "book",
 		"body": "<p>Thorough overview on the somatic nature of emotions and hijacking. Makes a case that emotional intelligence is often much more critical for happiness, and even for very societally conventional metrics of success, than conventional intelligence is.<p></p>This book went into great depth about emotional dysregulation, but didn’t offer much self-help advice. However, it was useful for helping me better grasp the physiological nature of emotions, and validating all this time I’ve been investing into emotional regulation that I could instead be spending on more normatively “useful” things.</p>"
 	},
 	"monique-cptsd": {
 		"title": "Monique Koven's CPTSD podcast",
-		"href": "https://podcasts.apple.com/us/podcast/the-healing-trauma-and-cptsd-podcast/id1444361384"
+		"href": "https://podcasts.apple.com/us/podcast/the-healing-trauma-and-cptsd-podcast/id1444361384",
+		"type": "audio"
 	},
 	"tonitalks": {
 		"title": "Toni Talks",
-		"href": "https://www.instagram.com/tonitalkstherapy/"
+		"href": "https://www.instagram.com/tonitalkstherapy/",
+		"type": "instagram",
+		"body": "Somatic trauma therapist. Tips and encouragement for getting started with therapy, and some basic de-triggering/reframing exercises."
 	},
 	"andrea-glik": {
 		"title": "Andrea Glik",
 		"href": "https://www.instagram.com/somaticwitch/",
+		"type": "instagram",
 		"body": "Somatic trauma therapist & educator, some LGBTQ/poly content. Relatable prompts and suggestions for replacing self-destructive thought patterns with a growth mindset, and a focus on nervous system regulation. Blogs, podcast interviews, and workshops on her <a href='https://www.andreaglik.com/'>website</a>."
 	},
 	"clementine-morrigan": {
 		"title": "Clementine Morrigan",
-		"href": "https://www.clementinemorrigan.com/",
-		"body": "Trauma healing writer, CSA/incest survivor, extremely LGBTQ/poly affirming. Focuses on somatic dysregulation, sexual abuse healing, and trauma-informed attachment healing."
+		"href": "https://www.instagram.com/clementinemorrigan/",
+		"type": "instagram",
+		"body": "Trauma healing writer, CSA/incest survivor, extremely LGBTQ/poly affirming. Tips and affirmations for somatic dysregulation, sexual abuse healing, and trauma-informed attachment healing."
 	},
 	"silvy-khoucasian": {
 		"title": "Silvy Khoucasian",
 		"href": "https://www.instagram.com/silvykhoucasian/",
+		"type": "instagram",
 		"body": "Attachment-focused coach & educator. Offers useful bite-sized prompts, tools, and perspective for people with boundary issues or childhood trauma. Also has a podcast, <a href='https://podcasts.apple.com/us/podcast/love-with-integrity/id1456831120?mt=2' target='_blank'>Love With Integrity</a>."
 	},
 	"liz-listens": {
 		"title": "Liz Listens",
 		"href": "https://www.instagram.com/lizlistens/",
+		"type": "instagram",
 		"body": "Attachment-focused therapist & educator. Offers engaging visual paraphrases of attachment/healing frameworks (including many of the above). Helpful, concrete, and validating tips on breaking out of unhealthy patterns and being a kind person."
 	},
 	"sit-with-sharon": {
 		"title": "Sit With Sharon",
 		"href": "https://www.instagram.com/sitwithsharon/",
+		"type": "instagram",
 		"body": "Attachment-focused therapist & educator. Offers striking reframes of common dysregulated attachment mindsets, and extremely direct tips for people with dysregulated attachment to more healthily recognize their own needs and self-harming patterns."
 	},
 	"toni-therapy": {
@@ -119,21 +140,25 @@
 	},
 	"somatic-modalities": {
 		"title": "Somatic modalities",
-		"body": "<p><b><a href='https://traumahealing.org/about-us/#about' target='_blank'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html' target='_blank'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history' target='_blank'>Hakomi method</a></b> are related treatment approaches that combine traditional therapy with utilizing or gently developing the client’s awareness of how a traumatic experience (or experiences in general) may be held in the body, and facilitating their ability to re-establish agency over their bodies and regulatory mechanisms while triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving interoception, learning to separate physical sensations from trauma emotions, and learning how to get out of dissociative states, especially in people whose trauma had a physical basis.</p><p><b>EMDR</b> is a somatically-informed treatment method that helps reintegrate and process stuck trauma more rapidly than conventional therapy alone. It also doesn't strictly require you to talk about your trauma to be effective, so it can be helpful if you have difficulty opening up to a therapist. [<a href='https://www.ncbi.nlm.nih.gov/pubmed/17284128' target='_blank'>DOI: 10.4088/jcp.v68n0105</a>]</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research' target='_blank'>EFT/tapping</a></b>, which involves tapping on your own body while focusing on particular feelings you are having, can be done on your own.</p>"
+		"type": "info",
+		"body": "<p>Somatic therapy modalities take mind-body integration into account, and may combine physical techniques/mindfulness with traditional talk therapy. If you are feeling stuck or overwhelmed in your body, you may benefit from these.</p><p><b><a href='https://traumahealing.org/about-us/#about' target='_blank'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html' target='_blank'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history' target='_blank'>Hakomi method</a></b> are related treatment approaches that combine traditional therapy with utilizing or gently developing the client’s awareness of how a traumatic experience (or experiences in general) may be held in the body, and facilitating their ability to re-establish agency over their bodies and regulatory mechanisms while triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving interoception, learning to separate physical sensations from trauma emotions, and learning how to get out of dissociative states, especially in people whose trauma had a physical basis.</p><p><b>EMDR</b> is a somatically-informed treatment method that helps reintegrate and process stuck trauma more rapidly than conventional therapy alone. It also doesn't strictly require you to talk about your trauma to be helpful, so it can be helpful if you have difficulty opening up to a therapist. [<a href='https://www.ncbi.nlm.nih.gov/pubmed/17284128' target='_blank'>DOI: 10.4088/jcp.v68n0105</a>]</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research' target='_blank'>EFT/tapping</a></b>, which involves tapping on your own body while focusing on particular feelings you are having, can be done on your own.</p><p class='footnote'>For more on how these work, see <i><a href='https://amzn.to/2W1Wvw8' target='_blank'>The Body Keeps The Score</a></i>, Part 5.</p>"
 	},
 	"polyvagal-overview": {
 		"title": "Polyvagal theory & nervous system regulation",
 		"image": "images/polyvagal_chart_charissafry.jpg",
+		"type": "info",
 		"body": "<p class='footnote'>infographic via <a href='https://www.charissafry.com/resources/' target='_blank'>Charissa Fry</a></p><p><a href='https://en.wikipedia.org/wiki/Polyvagal_theory' target='_blank'>Polyvagal theory</a> describes our autonomic nervous system’s role in fight-flight-freeze responses, and how to identify and manage different states. If you carry physical trauma or find yourself often getting stuck in a triggered state such as primal anger/fear/terror and you have a lot of trouble deactivating, you might find this useful.</p><p>Quick intro: <a href='https://www.stitcher.com/podcast/justin-sunseri/polyvagal-podcast/e/68637148' target='_blank'>Complex PTSD and the Polyvagal Theory | Polyvagal Podcast</a></p>"
 	},
 	"polyvagal-rosenberg": {
 		"title": "<i>Accessing the Healing Power of the Vagus Nerve</i> (Stanley Rosenberg)",
 		"href": "https://amzn.to/357tHq9",
+		"type": "book",
 		"body": "<p>Self-help exercises for improving self-regulation of your autonomic nervous system. The author comes from a craniosacral perspective.</p><p class='footnote'>I have not fully read this, but it comes highly recommended by a friend with physical trauma.</p>"
 	},
 	"polyvagal-dana": {
 		"title": "<i>The Polyvagal Theory in Therapy</i> (Deb Dana)",
 		"href": "https://amzn.to/2VG6p7C",
+		"type": "book",
 		"body": "<p>A clinician perspective, written more for therapists looking to incorporate this approach with clients. Includes worksheets and exercises.</p><p class='footnote'>I have also not fully read this one yet.</p>"
 	},
 	"tnh-intro": {
@@ -144,6 +169,7 @@
 	"meditate-yumi": {
 		"title": "There Is No Right Way To Meditate (Yumi Sakugawa)",
 		"href": "https://amzn.to/3d1NRVp",
+		"type": "book",
 		"body": "Small book of approachable and goofy cartoons visualizing many different ways to find ways of meditating that work for you."
 	},
 	"engineer-mindfulness": {
@@ -155,31 +181,37 @@
 	"insight-timer-app": {
 		"title": "Insight Timer app",
 		"href": "https://insighttimer.com/meditation-app",
+		"type": "app",
 		"body": "A customizable <b>meditation timer app</b> with soothing sounds, plus a large library of guided meditations."
 	},
 	"plum-village-app": {
 		"title": "Plum Village app",
 		"href": "https://www.mindfulnessbell.org/news-updates/plum-village-app-6akm7",
+		"type": "app",
 		"body": "Guided meditation app for Thich Nhat Hanh’s mindfulness teachings. Calming body scans, general awareness, and gratitude practice."
 	},
 	"nomudnolotus": {
 		"title": "No Mud No Lotus (Thich Nhat Hanh)",
 		"href": "https://amzn.to/2S7sfhZ",
+		"type": "book",
 		"body": "A general primer on how to live mindfully in the present, as well as how to gently connect with and reassure your inner pain without feeling overwhelmed by it."
 	},
 	"tnh-fear": {
 		"title": "Fear: Essential Wisdom For Getting Through The Storm (Thich Nhat Hanh)",
 		"href": "https://amzn.to/2yR7ujR",
+		"type": "book",
 		"body": "A more focused read on transforming the garbage of your fear, anger, and anxiety into compost to feed the flower of compassion."
 	},
 	"janina-fisher": {
 		"title": "Healing The Fragmented Selves of Trauma Survivors (Janina Fisher)",
 		"href": "https://amzn.to/2KylMbY",
+		"type": "book",
 		"body": "<p>A deep resource on processing and healing our fragmented trauma parts. Focuses on understanding traumatic responses, managing dissociation, and finding safety for all of one’s trauma parts.</p><p class='footnote'>Have not fully read this, but it comes highly recommended by a friend who is trained in the Hakomi Method.</p>"
 	},
 	"boundaries-katherine": {
 		"title": "Where To Draw The Line (Anne Katherine)",
 		"href": "https://amzn.to/2YQw3Zf",
+		"type": "book",
 		"body": "<p>Boundaries aren't just for fending off toxic people; they can also be used to nourish ourselves and increase trust and intimacy when communicated with enough clarity and kindness. Guidance for navigating and holding many kinds of healthy boundaries, with strangers, friends, partners, relatives, coworkers, etc.</p>"
 	},
 	"self-boundaries": {
@@ -189,6 +221,7 @@
 	"gift-of-fear": {
 		"title": "The Gift of Fear (Gavin de Becker)",
 		"href": "https://amzn.to/2X1SW9R",
+		"type": "book",
 		"body": "<p>On re-harnessing survival intuition repressed by social norms. Not conducive to PTSD healing, but seems useful for helping to exit actively concerning situations, especially if you are susceptible to gaslighting and don't trust your self-preservation instincts.</p><p>I hesitate to unilaterally recommend this read as it encourages a bit of paranoia, trusting snap judgments, and hypervigilance. Probably most appropriate if you are in a potentially genuinely dangerous situation (stalking, abuse, exploitation, threats, very unnerving behavior from someone) and you need an extra push to overcome your mental aversion to GTFOing.</p>"
 	},
 	"was-it-abuse": {

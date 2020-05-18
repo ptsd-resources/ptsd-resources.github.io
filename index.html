@@ -111,7 +111,8 @@
 		<!-- Index content -->
 		<div class="page-item">
 			<h3>what's this?</h3>
-			<p>I am not professionally certified, trained, or licensed in any way regarding matters of trauma, therapy, or psychology. I'm just a layperson with a lot of emotional baggage whose top coping mechanism is compulsively reading, annotating, and applying every resource I can possibly find.</p><p>Obviously, that approach isn't for everyone, so I hope these notes and summaries may assist you in finding some resources helpful to your own situation. I originally wrote this as <a href="https://medium.com/@rhetoricize/d6fd776339a8" target="_blank">a longform article</a>, but it got too long, so I made this website for quicker reference. I hope this helps accelerate your own healing journey!</p>
+			<p>I am not professionally certified, trained, or licensed in any way regarding matters of trauma, therapy, or psychology. I'm just a layperson with a lot of emotional baggage, and my top coping mechanism is compulsively reading, annotating, and applying every resource that seems like it might help me deal with it.</p>
+			<p>Obviously, that approach isn't for everyone, so I hope these notes may help you narrow down resources for your own situation. I originally wrote this as <a href="https://medium.com/@rhetoricize/d6fd776339a8" target="_blank">a longform article</a>, but it got too long, so I made this website for quicker reference. I hope this helps accelerate your own healing journey!</p>
 			<p>If you have feedback or would like to recommend more resources, you can <a href="https://forms.gle/8FA4ce7A3MXFg8wF8" target="_blank">write to me here</a>.</p>
 		</div>
 		<div class="page-item footnote">
@@ -140,6 +141,8 @@
 			</a>
 			<h3 ng-if="item.title"
 			    class="item-title">
+				<i ng-if="item.type !== undefined"
+				   class="fa item-icon {[getItemIconClasses(item.type)]}"></i>
 				<a href="{[item.href]}"
 				   target="_blank"
 				   ng-bind-html="item.title">{[item.title]}</a>
@@ -150,9 +153,12 @@
 			<img src="{[item.image]}"
 				 ng-if="item.image !== undefined" 
 				 class="item-image" />
-			<h3 ng-bind-html="item.title"
-			    class="item-title"
-				ng-if="item.title"></h3>
+			<h3 class="item-title"
+				ng-if="item.title">
+				<i ng-if="item.type !== undefined"
+				   class="fa item-icon {[getItemIconClasses(item.type)]}"></i>
+				{[item.title]}
+			</h3>
 		</div>
 		<!-- body -->
 		<p ng-bind-html="item.body"

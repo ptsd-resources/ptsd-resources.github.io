@@ -29,7 +29,7 @@ This probably would have worked fine using Jekyll, but this janky approach was p
 - [x] literally any styling lol
 - [x] switch to SASS
 - [x] import my nice sass mixins
-- [ ] icons for resource types? (book, graphic, etc)
+- [x] icons for resource types? (book, podcast, etc)
 
 ### quickies
 - [x] index/about page

@@ -55,6 +55,18 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
     	return $sce.trustAsHtml(html);
 	}
 
+	$scope.itemIconClasses = {
+		'book': 'fa-book',
+		'instagram': 'fa-instagram',
+		'app': 'fa-mobile',
+		'talk': 'fa-user-circle',
+		'audio': 'fa-podcast',
+		'info': 'fa-info-circle',
+	};
+	$scope.getItemIconClasses = function(itemType) {
+		return $scope.itemIconClasses[itemType] || '';
+	}
+
 	/* Toggle nav */
 	$scope.isResponsiveNavOpen = false;
 	$scope.toggleResponsiveNav = function() {
