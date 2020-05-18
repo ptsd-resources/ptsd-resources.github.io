@@ -123,8 +123,8 @@
 	},
 	"polyvagal-overview": {
 		"title": "Polyvagal theory & nervous system regulation",
-		"href": "https://en.wikipedia.org/wiki/Polyvagal_theory",
-		"body": "<p>Polyvagal theory describes our autonomic nervous system’s role in fight-flight-freeze responses, and how to identify and manage different states. If you carry physical trauma or find yourself often getting stuck in a triggered state such as primal anger/fear/terror and you have a lot of trouble deactivating, you might find this useful.</p><p>Quick intro: <a href='https://www.stitcher.com/podcast/justin-sunseri/polyvagal-podcast/e/68637148' target='_blank'>Complex PTSD and the Polyvagal Theory | Polyvagal Podcast</a></p>"
+		"image": "images/polyvagal_chart_charissafry.jpg",
+		"body": "<p class='footnote'>infographic via <a href='https://www.charissafry.com/resources/' target='_blank'>Charissa Fry</a></p><p><a href='https://en.wikipedia.org/wiki/Polyvagal_theory' target='_blank'>Polyvagal theory</a> describes our autonomic nervous system’s role in fight-flight-freeze responses, and how to identify and manage different states. If you carry physical trauma or find yourself often getting stuck in a triggered state such as primal anger/fear/terror and you have a lot of trouble deactivating, you might find this useful.</p><p>Quick intro: <a href='https://www.stitcher.com/podcast/justin-sunseri/polyvagal-podcast/e/68637148' target='_blank'>Complex PTSD and the Polyvagal Theory | Polyvagal Podcast</a></p>"
 	},
 	"polyvagal-rosenberg": {
 		"title": "<i>Accessing the Healing Power of the Vagus Nerve</i> (Stanley Rosenberg)",
