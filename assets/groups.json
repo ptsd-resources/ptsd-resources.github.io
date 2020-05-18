@@ -12,7 +12,7 @@
   {
     "title": "Interested in therapy",
     "id": "therapy",
-    "items": ["toni-therapy", "psychology-today", "betterhelp", "open-path-collective", "glik-therapy-modalities"]
+    "items": ["tonitalks", "psychology-today", "betterhelp", "open-path-collective", "glik-therapy-modalities", "elleanderson"]
   },
   {
     "title": "Self-help resources",
@@ -62,7 +62,7 @@
   {
     "title": "I want to develop healthier boundaries",
     "id": "boundaries",
-    "items": ["boundaries-katherine", "silvy-khoucasian", "sit-with-sharon", "clementine-morrigan", "emotionally-immature-parents", "tnh-love", "nvc"]
+    "items": ["boundaries-katherine", "emotionally-immature-parents", "nvc", "silvy-khoucasian", "sit-with-sharon", "clementine-morrigan", "tnh-love"]
   },
   {
     "title": "What is physically happening in my brain/body?",

@@ -36,13 +36,13 @@
 	},
 	"trigger-check": {
 		"title": "Are you triggered or flashbacked?",
-		"body": "<p><i>Do you...</i><ul><li>Feel overwhelmed by fear, shame, or confusion</li><li>Feel small, fragile, helpless, terrified</li><li>Feel frozen, shut down, unable to make sense of things, dissociated, numb</li><li>Feel enraged, critical of others, judgmental, perceive ulterior motives</li><li>Feel worthless, self-loathing, self-disgust, self-hatred</li><li>Suddenly distrust your proven allies</li><li>Feel an evaporation of your usual self-esteem</li><li>Feel an overwhelming fear of catastrophe in response to a relatively mundane or innocuous situation</li></ul></p><p>If so, you may be having an emotional flashback.</p><p>Explicit flashbacks recall details of a traumatic event. But we can also have <a href='https://www.psychologytoday.com/us/blog/conquer-fear-flying/201408/is-what-you-are-feeling-flashback' target='_blank'>implicit/emotional flashbacks</a>, where the brain (often inappropriately) activates its alert system and projects strong emotions from a past traumatic situation onto present situations. If not de-escalated, this can erode our safe relationships.</p><p class='footnote'>Paraphrased from <i><a href='https://amzn.to/2xOFc9O' target='_blank'>CPTSD: From Surviving To Thriving</a></i>, Ch. 8. If this feels relatable, you'll probably benefit from relational resources. If you're not sure where your triggers might stem from, you'll probably benefit from therapy, and possibly <i><a href='https://amzn.to/2xOFc9O' target='_blank'>CPTSD: From Surviving To Thriving</a></i>, Ch. 5."
+		"body": "<p><i>Do you...</i><ul><li>Feel overwhelmed by fear, shame, or confusion</li><li>Feel small, fragile, helpless, terrified</li><li>Feel frozen, shut down, unable to make sense of things, dissociated, emotionally numb</li><li>Feel enraged, critical of others, judgmental, perceive ulterior motives</li><li>Feel worthless, broken, self-loathing, self-disgust, self-hatred</li><li>Suddenly distrust your proven allies</li><li>Feel an evaporation of your usual self-esteem</li><li>Feel an overwhelming fear of catastrophe in response to a relatively mundane or innocuous situation</li></ul></p><p>Any of these may indicate you are having an emotional flashback.</p><p>Explicit flashbacks recall details of a traumatic event. But we can also have <a href='https://www.psychologytoday.com/us/blog/conquer-fear-flying/201408/is-what-you-are-feeling-flashback' target='_blank'>implicit/emotional flashbacks</a>, where the brain (often inappropriately) activates its alert system and projects strong emotions from a past traumatic situation onto present situations. This can erode our safe relationships if not recognized.</p><p class='footnote'>Paraphrased from <i><a href='https://amzn.to/2xOFc9O' target='_blank'>CPTSD: From Surviving To Thriving</a></i>, Ch. 8. If this feels relatable, you'll probably benefit from relational resources. If you're not sure where your triggers might stem from, you'll probably benefit from therapy, and possibly <i><a href='https://amzn.to/2xOFc9O' target='_blank'>CPTSD: From Surviving To Thriving</a></i>, Ch. 5."
 	},
 	"cptsd-walker": {
 		"title": "<i>CPTSD: From Surviving To Thriving</i> (Pete Walker)",
 		"href": "https://amzn.to/2xOFc9O",
 		"type": "book",
-		"body": "<p>Extraordinarily actionable handbook for people with cPTSD from relational abuse / neglect. Very applied, with lots of exercises and toolboxes. Structured so you can pick and choose the chapters that are relevant to you.</p><p>Written specifically for survivors of parental abuse / neglect. However, would also be useful for generally dealing with emotional impact from non-parental formative relationships.</p><p>Includes a great chapter supporting people who haven't sought help because they don't believe their experiences were 'traumatic enough'."
+		"body": "<p>Extraordinarily actionable handbook for people with cPTSD from relational abuse / neglect. Very applied, with lots of exercises and toolboxes. Structured so you can pick and choose the chapters that are relevant to you.</p><p>Written specifically for survivors of parental abuse / neglect. However, would also be useful for generally dealing with emotional impact from non-parental formative relationships. Big focus on dealing with Inner Critic feelings of self-loathing, shame, and blame.</p><p>Includes a great chapter supporting people who haven't sought help because they don't believe their experiences were 'traumatic enough'."
 	},
 	"bks": {
 		"title": "<i>The Body Keeps The Score</i> (Bessel van der Kolk)",
@@ -72,13 +72,13 @@
 		"title": "Attached: The New Science of Adult Attachment (Amir Levine, Rachel Heller)",
 		"href": "https://amzn.to/2KBaHHb",
 		"type": "book",
-		"body": "A general intro to attachment styles in the context of romantic relationships. I didn't find it as personally actionable or clarifying as the resources above, and thought it tended to demonize avoidant-leaning people in a way that didn’t seem conducive to building mutual understanding. Nevertheless, might be useful if your relationships have been more toxic, distressing, or inflexible, and you're unfamiliar with attachment theory."
+		"body": "An introductory overview to what attachment tendencies look like in the context of romantic relationships. I didn't find it as personally actionable, clarifying, or flexible as the resources above, and thought it tended to demonize avoidant-leaning people in a way that didn’t seem conducive to building mutual understanding. Nevertheless, might be a useful intro read if your relationships have been more toxic, distressing, or inflexible, and you're unfamiliar with attachment theory."
 	},
 	"nvc": {
 		"title": "<i>Nonviolent Communication</i> (Marshall B. Rosenberg)",
 		"href": "https://amzn.to/2Yb0CZf",
 		"type": "book",
-		"body": "<p>A communication framework rooted in deep listening and compassion to others and ourselves. Simple, memorable method to observe a situation, distinguish the objective externals from the subjective internals before we speak rashly, and move forward in mutual understanding.</p><p>Particularly useful if you're a people-pleaser, you have trouble with boundaries (yours or others’), or if you find your emotions confusing and wish to increase your emotional clarity.</p>"
+		"body": "<p>A communication framework rooted in deep listening and compassion to others and ourselves. Simple, memorable method to observe a situation, distinguish the objective externals from the subjective internals before we speak rashly, and move forward in mutual understanding.</p><p>Particularly useful if you're a people-pleaser, you have trouble with boundaries (yours or others’), or you wish to increase your internal emotional clarity.</p>"
 	},
 	"crucial-conversations": {
 		"title": "<i>Crucial Conversations</i>",
@@ -100,14 +100,15 @@
 	"tonitalks": {
 		"title": "Toni Talks",
 		"href": "https://www.instagram.com/tonitalkstherapy/",
+		"image": "images/gototherapy.png",
 		"type": "instagram",
-		"body": "Somatic trauma therapist. Tips and encouragement for getting started with therapy, and some basic de-triggering/reframing exercises."
+		"body": "Somatic trauma educator offering tips and encouragement for getting started with therapy, shopping for a therapist, and evaluating whether a therapist is a good fit for you. Also posts some basic exercises for de-triggering and mindfulness."
 	},
 	"andrea-glik": {
 		"title": "Andrea Glik",
 		"href": "https://www.instagram.com/somaticwitch/",
 		"type": "instagram",
-		"body": "<p>Somatic trauma therapist & educator, some LGBTQ/poly content. Relatable prompts and suggestions for replacing self-destructive thought patterns with a growth mindset, and a focus on nervous system regulation. Blogs, podcast interviews, and workshops on her <a href='https://www.andreaglik.com/'>website</a>.</p><p class='quote'>Instead of “I'm broken”, try “I am a trauma survivor/someone who has experienced trauma who is currently learning the impact of my experiences on my sense of self and working towards unlearning survival patterns.”</p>"
+		"body": "<p>Somatic trauma educator, some LGBTQ/poly content. Relatable prompts and suggestions for replacing self-destructive thought patterns with a growth mindset, and a focus on nervous system regulation. Blogs, podcast interviews, and workshops on her <a href='https://www.andreaglik.com/'>website</a>.</p><p class='quote'>Instead of “I'm broken”, try “I am a trauma survivor/someone who has experienced trauma who is currently learning the impact of my experiences on my sense of self and working towards unlearning survival patterns.”</p>"
 	},
 	"clementine-morrigan": {
 		"title": "Clementine Morrigan",
@@ -120,25 +121,20 @@
 		"href": "https://www.instagram.com/silvykhoucasian/",
 		"image": "images/silvy-attachment-communication.png",
 		"type": "instagram",
-		"body": "Attachment-focused coach & educator. Offers useful bite-sized prompts, tools, and perspective for people with boundary issues or childhood trauma. Also has a podcast, <a href='https://podcasts.apple.com/us/podcast/love-with-integrity/id1456831120?mt=2' target='_blank'>Love With Integrity</a>."
+		"body": "Attachment-focused coach/educator. Offers useful bite-sized prompts, tools, and perspective for people with boundary issues or childhood trauma. Also has a podcast, <a href='https://podcasts.apple.com/us/podcast/love-with-integrity/id1456831120?mt=2' target='_blank'>Love With Integrity</a>."
 	},
 	"liz-listens": {
 		"title": "Liz Listens",
 		"href": "https://www.instagram.com/lizlistens/",
 		"type": "instagram",
-		"body": "Attachment-focused therapist & educator. Offers engaging visual paraphrases of attachment/healing frameworks (including many of the above). Helpful, concrete, and validating tips on breaking out of unhealthy patterns and being a kind person."
+		"body": "Attachment-focused therapy educator. Offers engaging visual paraphrases of attachment/healing frameworks (including many of the above). Helpful, concrete, and validating tips on breaking out of unhealthy patterns and being a kind person."
 	},
 	"sit-with-sharon": {
 		"title": "Sit With Sharon",
 		"href": "https://www.instagram.com/sitwithsharon/",
 		"image": "images/sitwithsharon.png",
 		"type": "instagram",
-		"body": "Attachment-focused therapist & educator. Offers striking reframes of common dysregulated attachment mindsets, and extremely direct tips for people with dysregulated attachment to more healthily recognize their own needs and self-harming patterns."
-	},
-	"toni-therapy": {
-		"image": "images/gototherapy.png",
-		"href": "https://www.instagram.com/tonitalkstherapy/",
-		"body": "<p class='footnote'>via <a href='https://www.instagram.com/tonitalkstherapy/'>@tonitalkstherapy</a></p>"
+		"body": "Attachment-focused therapy educator. Offers striking reframes of common dysregulated attachment mindsets, and extremely direct tips for people with dysregulated attachment to more healthily recognize their own needs and self-harming patterns."
 	},
 	"somatic-modalities": {
 		"title": "Somatic modalities",
@@ -228,13 +224,13 @@
 	},
 	"was-it-abuse": {
 		"title": "But I wasn't abused",
-		"body": "<p>You definitely don't need to have been overtly/hardcore abused to have heavy relational emotional baggage. Chronic emotional neglect or boundary violation can strongly affect people in enmeshed situations.</p><p>If you chronically experienced any of these factors growing up or in a long-term codependent relationship, they have probably significantly shaped your self-image and ways of relating to others:</p><ul><li>Being shamed for crying (or for other ways of healthily expressing sadness, anger, fear, or upset in a way that didn't harmfully lash out at others)</li><li>Being treated with disgust or contempt</li><li>Being rejected or invalidated when you wanted comfort for pain</li><li>Being abandoned without explanation, or when you were too young to understand</li><li>Being constantly compared to 'perfect' ideals</li><li>Being told your aspirations were wasteful or unimportant</li><li>Not being allowed privacy</li><li>Being expected to do things for others that you felt deeply uncomfortable doing</li><li><a href='https://en.wikipedia.org/wiki/Parentification' target='_blank'>Parentification</a>: being forced to become a parent's caretaker (especially emotionally) while still in childhood</li></ul><p class='footnote'>Paraphrased from <a href='https://amzn.to/2xOFc9O' target='_blank'>Pete Walker's CPTSD book</a>, Ch.5.</p>"
+		"body": "<p>Abuse is not the same thing as trauma. And you definitely don't need to have been overtly abused to have heavy relational emotional baggage. Chronic emotional neglect or boundary violation can strongly affect people in enmeshed situations.</p><p>If you chronically experienced any of these factors growing up or in a long-term codependent relationship, they have probably significantly shaped your self-image and ways of relating to others:</p><ul><li>Being shamed/punished for crying (or for other ways of healthily expressing sadness, anger, fear, or upset in a way that didn't harmfully lash out at others)</li><li>Being treated with disgust or contempt</li><li>Being rejected or invalidated when you wanted comfort for pain</li><li>Being abandoned without explanation, or when you were too young to understand</li><li>Being constantly compared to 'perfect' ideals</li><li>Your aspirations were treated as wasteful or unimportant</li><li>Not being allowed privacy</li><li>Being expected to do things for others that you felt deeply uncomfortable doing</li><li><a href='https://en.wikipedia.org/wiki/Parentification' target='_blank'>Parentification</a>: being forced to become a parent's caretaker (especially emotionally) while still in childhood</li></ul><p class='footnote'>Paraphrased from <a href='https://amzn.to/2xOFc9O' target='_blank'>Pete Walker's CPTSD book</a>, Ch.5. If this feels relatable, you'll probably benefit from the section on relational abuse/neglect.</p>"
 	},
 	"attachment-theory": {
 		"title": "Attachment theory",
 		"href": "https://en.wikipedia.org/wiki/Attachment_theory",
 		"type": "vocab",
-		"body": "<div><p>Posits that we all share a common goal of wanting safety from an intimate bond when stressed, but may instinctively react in wildly different ways based on formative emotional experiences, often from our childhood caregivers or lack thereof.</p><p>For example, we may feel unsafe without constant reassurance <i>(anxiously attached)</i>, or may feel unsafe with intimacy <i>(avoidant)</i>, or simultaneously seek out and fear closeness <i>(fearful-avoidant / disorganized)</i>, sometimes with self-destructive effects that undermine the very safety we seek.</p><p>Fortunately, it is possible to change attachment styles. The ultimate goal is being able to both comfortably participate in intimacy and not panic without constant reassurance <i>(secure attachment)</i>.</p></div>"
+		"body": "<div><p>Posits that we all share a common goal of wanting safety from an intimate bond when stressed, but may instinctively react in wildly different ways based on formative emotional experiences, often from our childhood caregivers or lack thereof.</p><p>For example, we may feel unsafe without constant reassurance <i>(anxious tendencies)</i>, or may feel unsafe with intimacy <i>(avoidant tendencies)</i>, or simultaneously seek out and fear closeness <i>(fearful-avoidant / disorganized tendencies)</i>, sometimes with self-destructive effects that undermine the very safety we seek.</p><p>Fortunately, it is possible to change attachment styles. The ultimate goal is being able to both comfortably participate in intimacy and not panic without constant reassurance <i>(secure attachment)</i>.</p></div>"
 	},
 	"alexithymia": {
 		"title": "Alexithymia",
@@ -275,5 +271,12 @@
 		"href": "https://www.parallax.org/product/how-to-love/",
 		"type": "book",
 		"body": "<p>Small book of refreshingly simple analogies and insights on practicing genuine empathy, kindness, and respect with ourselves and those around us.</p><p class='quote'>A wrong perception can be the cause of a lot of suffering. This is why, whenever we have a perception, we have to ask ourselves if our perception is right.</p>"
+	},
+	"elleanderson": {
+		"title": "Laura Anderson",
+		"href": "https://www.instagram.com/ms_elleanderson/",
+		"image": "images/elleanderson.png",
+		"type": "instagram",
+		"body": "Trauma educator offering tips on finding a therapist who really understands you, info about what you should be able to expect from a trauma-informed therapist, and affirmations about the more frustrating aspects of the healing process. Specializes in complex trauma and religious cult trauma."
 	}
 }
