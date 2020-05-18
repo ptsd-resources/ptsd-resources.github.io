@@ -143,9 +143,13 @@
 	},
 	"meditate-yumi": {
 		"title": "There Is No Right Way To Meditate (Yumi Sakugawa)",
-		"image": "images/norightway-yumi-sakugawa.jpg",
 		"href": "https://amzn.to/3d1NRVp",
-		"body": "Approachable and goofy cartoons visualizing many different ways to find ways of meditating that work for you."
+		"body": "Small book of approachable and goofy cartoons visualizing many different ways to find ways of meditating that work for you."
+	},
+	"engineer-mindfulness": {
+		"title": "An Engineer's Guide to Happiness",
+		"image": "images/engineer-mindfulness.png",
+		"href": "https://anengineersguide.com/post/190949175105/09-emotion-demotion"
 	},
 	"insight-timer-app": {
 		"title": "Insight Timer app",
@@ -188,7 +192,7 @@
 	},
 	"was-it-abuse": {
 		"title": "But I wasn't abused",
-		"body": "<p>You definitely don't need to have been hardcore abused to have heavy emotional baggage. Chronic emotional neglect or boundary violation can strongly affect people in enmeshed situations. If you chronically experienced any of these factors growing up or in a long-term codependent relationship, they have probably strongly shaped your self-image and ways of relating to others:</p><ul><li>Being shamed for crying (or otherwise healthily expressing sadness, anger, fear, or upset in a way that didn't harmfully lash out at others)</li><li>Being treated with disgust or contempt</li><li>Being rejected or invalidated when you wanted comfort for pain</li><li>Being abandoned without explanation, or when you were too young to understand</li><li>Being constantly compared to 'perfect' ideals</li><li>Being told your aspirations were wasteful or unimportant</li><li>Not being allowed privacy</li><li>Being expected to do things for others that you felt deeply uncomfortable doing</li></ul><p class='footnote'>Paraphrased from <a href='https://amzn.to/2xOFc9O' target='_blank'>Pete Walker's CPTSD book</a>, Ch.5.</p>"
+		"body": "<p>You definitely don't need to have been overtly/hardcore abused to have heavy emotional baggage. Chronic emotional neglect or boundary violation can strongly affect people in enmeshed situations.</p><p>If you chronically experienced any of these factors growing up or in a long-term codependent relationship, they have probably significantly shaped your self-image and ways of relating to others:</p><ul><li>Being shamed for crying (or for other ways of healthily expressing sadness, anger, fear, or upset in a way that didn't harmfully lash out at others)</li><li>Being treated with disgust or contempt</li><li>Being rejected or invalidated when you wanted comfort for pain</li><li>Being abandoned without explanation, or when you were too young to understand</li><li>Being constantly compared to 'perfect' ideals</li><li>Being told your aspirations were wasteful or unimportant</li><li>Not being allowed privacy</li><li>Being expected to do things for others that you felt deeply uncomfortable doing</li><li><a href='https://en.wikipedia.org/wiki/Parentification' target='_blank'>Parentification</a>: being forced to become a parent's caregiver while still in childhood</li></ul><p class='footnote'>Paraphrased from <a href='https://amzn.to/2xOFc9O' target='_blank'>Pete Walker's CPTSD book</a>, Ch.5.</p>"
 	},
 	"attachment-theory": {
 		"title": "Attachment theory",
