@@ -121,9 +121,6 @@ a {
 #content .page-item .item-title:first-child {
   margin-top: 0;
 }
-#content .page-item .item-image {
-  max-height: 300px;
-}
 #content .page-item.vocab {
   border: none;
   border-left: 8px solid #eee;
