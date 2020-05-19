@@ -75,24 +75,20 @@
 		everyone's needs are different. take what you find helpful, leave what you don't.
 		</p>
 	</div>
-	<div class="responsive-only">
-		<hr/>
-		<a href="#"
-		   ng-click="loadPageView(undefined)"
-		   ng-class="{selected: (currPage==null)}"
-		   >
-			About this site
-		</a>
-	</div>
 	<hr/>
 
 	<!-- Nav items -->
 	<div ng-repeat="page in getOrderedPages()">
-		<h3 ng-if="page.items === undefined">{[page.title]}</h3>
+		<h3 ng-if="page.items === undefined && page.href === undefined">
+			{[page.title]}
+		</h3>
 		<a ng-if="page.items !== undefined"
 		   href="#{[page.id]}"
 		   ng-click="loadPageView(page.id)"
 		   ng-class="{selected: page.isSelected}"
+		   >{[page.title]}</a>
+		<a ng-if="page.href !== undefined"
+		   href="{[page.href]}"
 		   >{[page.title]}</a>
 	</div>
 </div>
@@ -114,13 +110,18 @@
 		<!-- Index content -->
 		<div class="page-item">
 			<h3>what's this?</h3>
-			<p>This is a collection of recommended self-help resources, focused around but not strictly limited to trauma, and organized by Current Emotional Problem!</p>
-			<p>I am not professionally certified, trained, or licensed in any way regarding matters of trauma, therapy, or psychology. I'm just a layperson with a lot of emotional baggage, and my top coping mechanism is compulsively reading, annotating, and applying every resource that seems like it might help me deal with it.</p>
-			<p>Obviously, that approach isn't for everyone, so I hope these notes and summaries may help you narrow down on useful resources for your own situation and needs, and accelerate your healing journey so you don't have to schlep through as much self-help literature as I did.</p>
+			<p>This is a collection of recommended self-help resources, focused around but not strictly limited to trauma, and organized by Current Emotional Problem. See if any of the categories in the menu call to you.</p>
+			<p>I am not professionally trained or certified in any way regarding matters of trauma, therapy, medicine, or psychology. I'm just a layperson with a lot of emotional baggage to blast through, and I didn't have access to professional help for a long time. My top coping mechanism is compulsively reading, annotating, and applying every resource that seems like it might help me deal with things.</p>
+			<p>Obviously, that approach isn't for everyone, so I hope these notes may help you accelerate the healing journey of finding useful resources that fit your own needs.</p>
 			<p>I originally wrote this as <a href="https://medium.com/@rhetoricize/d6fd776339a8" target="_blank">a longform article</a>, and made this website for quicker reference when the article got too long. If you have any feedback or would like to recommend more resources, you can <a href="https://forms.gle/8FA4ce7A3MXFg8wF8" target="_blank">write to me here</a>.</p>
 		</div>
 		<div class="page-item footnote">
-			This site is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means to earn fees by linking to Amazon.com and affiliated sites.
+			<p><b>Standard obligatory legal disclaimers</b></p>
+			<p>By viewing this website or anything made available on or through this website (collectively referred to as "Website"), you are agreeing to accept all parts of this Disclaimer. Thus, if you do not agree to the Disclaimer below, stop now, and do not access or use this Website.</p>
+			<p><b>Not professional advice.</b> The information provided in or through this Website does not constitute professional advice, is not intended to replace professional advice, and is intended for informational purposes only, and solely as a self-help tool for your own use. You agree and acknowledge that I am not providing medical advice or mental health advice in any way.</p>
+			<p><b>Amazon affiliate program.</b> This Website is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means to earn fees by linking to Amazon.com and affiliated sites.</p>
+			<p><b>Affiliate linking.</b> You are assuming all risks in determining whether a program, product, or service is appropriate for you, and you agree that I am not liable in any way for any program, product or service that I may promote, market, share or sell on or through my Website.</p>
+			<p><b>Limitation of liability.</b> By using this Website, you agree to absolve me of any liability or loss that you or any other person may incur from use of the information, products or materials that you request or receive through or on my Website. You agree that I will not be liable to you, or to any other individual, company or entity, for any type of damages, including direct, indirect, special, incidental, equitable or consequential loss or damages, for use of or reliance on my Website. You agree that I do not assume liability for accidents, delays, injuries, harm, loss, damage, death, lost profits, personal or business interruptions, misapplication of information, physical or mental disease or condition or issue, or any other type of loss or damage due to any act or default by me or anyone affiliated with me, who is engaged in delivering content on or through this Website.</p>
 		</div>
 	</div>
 

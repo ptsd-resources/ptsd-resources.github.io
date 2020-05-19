@@ -68,5 +68,13 @@
     "title": "What is physically happening in my brain/body?",
     "id": "science",
     "items": ["hijacking", "bks", "emotional-intelligence-goleman", "general-theory-love"]
+  },
+  {
+    "title": "Site",
+    "id": "site-nav-header"
+  },
+  {
+    "title": "About / Disclaimer",
+    "href": "/"
   }
 ]}
