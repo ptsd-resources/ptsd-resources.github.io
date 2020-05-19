@@ -12,7 +12,7 @@
   {
     "title": "Interested in therapy",
     "id": "therapy",
-    "items": ["tonitalks", "psychology-today", "betterhelp", "open-path-collective", "glik-therapy-modalities", "elleanderson"]
+    "items": ["tonitalks", "glik-therapy-modalities", "psychology-today", "betterhelp", "open-path-collective", "elleanderson"]
   },
   {
     "title": "Self-help resources",
@@ -21,7 +21,7 @@
   {
     "title": "I'm triggered right now",
     "id": "triggered",
-    "items": ["trigger-protocol", "simple-soothing"]
+    "items": ["trigger-protocol", "simple-soothing", "pocketselfcare"]
   },
   {
     "title": "I feel bad and don't know why",

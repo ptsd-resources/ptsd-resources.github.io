@@ -32,7 +32,9 @@
 	},
 	"glik-therapy-modalities": {
 		"href": "https://www.instagram.com/p/B0n67YRFjtM/",
-		"title": "some advice on therapy modalities | Andrea Glik"
+		"title": "Advice on therapy modalities | Andrea Glik",
+		"type": "instagram",
+		"body": "Quick rundown of different therapy modalities, and how they might fit different needs and wants."
 	},
 	"trigger-check": {
 		"title": "Are you triggered or flashbacked?",
@@ -102,7 +104,7 @@
 		"href": "https://www.instagram.com/tonitalkstherapy/",
 		"image": "images/gototherapy.png",
 		"type": "instagram",
-		"body": "Somatic trauma educator offering tips and encouragement for getting started with therapy, shopping for a therapist, and evaluating whether a therapist is a good fit for you. Also posts some basic exercises for de-triggering and mindfulness."
+		"body": "<p>Somatic trauma educator offering tips and encouragement for getting started with therapy, shopping for a therapist, and evaluating whether a therapist is a good fit for you. Also posts some basic exercises for de-triggering and mindfulness.</p><ul><li><a href='https://www.instagram.com/p/B_0zts_DkU9/' target='_blank'>Some questions to ask a potential new therapist</a></li><li><a href='https://www.instagram.com/p/B-YJvIPD7W6/' target='_blank'>Tips for online sessions</a></li><li><a href='https://www.instagram.com/p/B_3bY34jXZo/' target='_blank'>Tips for getting the most out of therapy</a></li></ul>"
 	},
 	"andrea-glik": {
 		"title": "Andrea Glik",
@@ -174,7 +176,7 @@
 		"title": "An Engineer's Guide to Happiness",
 		"image": "images/engineer-mindfulness.png",
 		"href": "https://anengineersguide.com/post/190949175105/09-emotion-demotion",
-		"body": "Cute short webcomic for nerds who would like to be convinced that spending time building out an emotional toolkit will actually help make them more efficient in the long run."
+		"body": "Cute short webcomic for nerds who would like to be convinced that spending time building out an emotional toolkit will help make them more efficient in the long run."
 	},
 	"insight-timer-app": {
 		"title": "Insight Timer app",
@@ -277,6 +279,12 @@
 		"href": "https://www.instagram.com/ms_elleanderson/",
 		"image": "images/elleanderson.png",
 		"type": "instagram",
-		"body": "Trauma educator offering tips on finding a therapist who really understands you, info about what you should be able to expect from a trauma-informed therapist, and affirmations about the more frustrating aspects of the healing process. Specializes in complex trauma and religious cult trauma."
+		"body": "<p>Trauma educator offering tips on finding a therapist who really understands you, info about what you should be able to expect from a trauma-informed therapist, and affirmations about the more frustrating aspects of the healing process. (Specializes in complex trauma and religious cult trauma.)</p><ul><li><a href='https://www.instagram.com/p/B9E5e4aAoUq/' target='_blank'>Therapists should recognize that <i>you</i> are the expert on your life</a></li><li><a href='https://www.instagram.com/p/B8_1jjNgHLM/' target='_blank'>On prioritizing your feelings of safety during a session</a></li><li><a href='https://www.instagram.com/p/B89Mq24AGqo/' target='_blank'>The difference between treating trauma vs. treating symptoms</a></li></ul>"
+	},
+	"pocketselfcare": {
+		"title": "Pocket Self-Care Manual (fill it out yourself)",
+		"href": "https://gum.co/pocketselfcare",
+		"image": "images/pocketselfcare.jpg",
+		"body": "It can be frustratingly difficult to remember the basic self care steps, coping mechanisms, and affirmations that help most when I need them most, so I made a pocket self-care manual to help me lock those things in. Offers prompts that you provide your own answers to. Wait until you're feeling safe and relaxed to fill it out."
 	}
 }
