@@ -74,7 +74,7 @@
 		"title": "Attached: The New Science of Adult Attachment (Amir Levine, Rachel Heller)",
 		"href": "https://amzn.to/2KBaHHb",
 		"type": "book",
-		"body": "An introductory overview to what attachment tendencies look like in the context of romantic relationships. I didn't find it as personally actionable, clarifying, or flexible as the resources above, and thought it tended to demonize avoidant-leaning people in a way that didn’t seem conducive to building mutual understanding. Nevertheless, might be a useful intro read if your relationships have been more toxic, distressing, or inflexible, and you're unfamiliar with attachment theory."
+		"body": "An introductory overview to what attachment tendencies look like in the context of romantic relationships. I didn't find it as personally actionable, clarifying, or flexible as the resources above, and thought it tended to demonize avoidant-leaning people in a way that didn’t seem conducive to building mutual understanding. Nevertheless, could be a useful intro read if your relationships have been more toxic, distressing, or inflexible, and you're unfamiliar with attachment theory."
 	},
 	"nvc": {
 		"title": "<i>Nonviolent Communication</i> (Marshall B. Rosenberg)",
@@ -259,6 +259,7 @@
 	},
 	"simple-soothing": {
 		"title": "Simple self-soothing",
+		"type": "tip",
 		"body": "<ul><li><b>Slow, deep breathing</b> helps calm the body's threat response.</li><li><b>Safe touch</b> can help you remember your body is in the present. Hugs, hand-holding, self-hugging, a plush, a weighted blanket, a palm stone, a tree, a fidget object, etc.</li><li><b>Music</b> that makes you feel safe.</li></ul>"
 	},
 	"wildfell-consensuality": {
@@ -297,5 +298,18 @@
 		"href": "https://complextraumahealing.wordpress.com/",
 		"image": "images/4f-trauma.jpg",
 		"body": "A blog of infographics summarizing dense information from key complex trauma resources."
+	},
+	"love-languages": {
+		"title": "5 Love Languages",
+		"href": "https://www.5lovelanguages.com/quizzes/",
+		"body": "<p>The concept of love languages states that we receive and show love in various ways (quality time, gifts, acts of service, physical touch, words of affirmation), but some of those ways will probably <i>feel</i> more like love to us than others.</p><p>For example, if two partners don't know each others' love languages, one might give a lot of fancy gifts to someone who just wants more quality time, and then feel resentful because they're putting in so much effort that doesn't seem to be improving the relationship.</p><p>By communicating with our loved ones what love languages feel most personally vital to them and us, we can better understand, give, and receive actions as expressions of love.</p>"
+	},
+	"reassurance-box": {
+		"title": "Reassurance box",
+		"type": "tip",
+		"body": "<p>If you need frequent reassurance to feel safe, and would like to practice self-soothing more, it can be helpful to make an easily accessible box or digital folder full of reassurances that you can go through any time. Some ideas:</p><ul><li>screenshots of deeply reassuring or encouraging messages</li><li>reminders of reassuring things that loved ones have done for you, or times you felt safe</li><li>voice messages or photos from loved ones that make you feel good</li><li>reminders of ways you are safe now</li><li>written-out reasons why you know you can trust your allies</li><li>if worried about unpredictable events, written-out reasons & motivations to appreciate what you have in the present</li></ul>"
+	},
+	"fancy-quotes": {
+		"title": "“”"
 	}
 }

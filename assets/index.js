@@ -62,6 +62,7 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 		'talk': 'fa-user-circle',
 		'audio': 'fa-podcast',
 		'info': 'fa-info-circle',
+		'tip': 'fa-lightbulb-o',
 	};
 	$scope.getItemIconClasses = function(itemType) {
 		return $scope.itemIconClasses[itemType] || '';

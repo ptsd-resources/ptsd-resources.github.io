@@ -47,12 +47,7 @@
   {
     "title": "I have difficulty feeling comfortable/secure with others",
     "id": "attachment",
-    "items": ["attachment-theory", "general-theory-love", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "clementine-morrigan", "cptsd-walker", "hold-me-tight", "attached-levine"]
-  },
-  {
-    "title": "I'm not always sure what consent means for me",
-    "id": "consent",
-    "items": ["crabb-ethical-consent", "wildfell-consensuality", "clementine-morrigan"]
+    "items": ["attachment-theory", "general-theory-love", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "clementine-morrigan", "cptsd-walker", "hold-me-tight", "love-languages", "reassurance-box", "attached-levine"]
   },
   {
     "title": "I want to improve at communication",
@@ -63,6 +58,11 @@
     "title": "I want to develop healthier boundaries",
     "id": "boundaries",
     "items": ["boundaries-katherine", "emotionally-immature-parents", "nvc", "silvy-khoucasian", "sit-with-sharon", "clementine-morrigan", "tnh-love"]
+  },
+  {
+    "title": "I'm not always sure what consent means for me",
+    "id": "consent",
+    "items": ["crabb-ethical-consent", "wildfell-consensuality", "clementine-morrigan"]
   },
   {
     "title": "What is physically happening in my brain/body?",
