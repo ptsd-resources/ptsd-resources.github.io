@@ -19,7 +19,7 @@
     "id": "self-help"
   },
   {
-    "title": "I'm triggered right now",
+    "title": "I'm triggered",
     "id": "triggered",
     "items": ["trigger-protocol", "simple-soothing", "pocketselfcare"]
   },
@@ -29,15 +29,15 @@
     "items": ["alexithymia", "trigger-check", "was-it-abuse", "self-boundaries"]
   },
   {
-    "title": "Relational abuse, neglect, or violation",
+    "title": "Navigating past relational abuse, neglect, or violation",
     "id": "relational",
-    "items": ["was-it-abuse", "chronic-neglect", "cptsd-walker", "monique-cptsd", "bks", "janina-fisher", "general-theory-love"]
+    "items": ["was-it-abuse", "chronic-neglect", "cptsd-walker", "monique-cptsd", "bks", "complex-trauma-infographics", "janina-fisher", "emotionally-immature-parents", "general-theory-love"]
   },
   {
     "title": "My body is sometimes a scary or confusing place to be",
     "id": "somatic",
     "subtitle": "If so, you might benefit from somatically-informed treatment modalities.",
-    "items": ["bks", "somatic-modalities", "andrea-glik", "clementine-morrigan", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "janina-fisher"]
+    "items": ["bks", "somatic-modalities", "clementine-morrigan", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "andrea-glik", "janina-fisher"]
   },
   {
     "title": "I want to mindfully self-regulate",
@@ -47,12 +47,12 @@
   {
     "title": "I have difficulty feeling comfortable/secure with others",
     "id": "attachment",
-    "items": ["attachment-theory", "general-theory-love", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "clementine-morrigan", "emotionally-immature-parents", "cptsd-walker", "hold-me-tight", "attached-levine"]
+    "items": ["attachment-theory", "general-theory-love", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "clementine-morrigan", "cptsd-walker", "hold-me-tight", "attached-levine"]
   },
   {
     "title": "I'm not always sure what consent means for me",
     "id": "consent",
-    "items": ["clementine-morrigan", "crabb-ethical-consent", "wildfell-consensuality"]
+    "items": ["crabb-ethical-consent", "wildfell-consensuality", "clementine-morrigan"]
   },
   {
     "title": "I want to improve at communication",

@@ -116,7 +116,7 @@
 		"title": "Clementine Morrigan",
 		"href": "https://www.instagram.com/clementinemorrigan/",
 		"type": "instagram",
-		"body": "<p>Trauma healing writer, CSA/incest survivor, extremely LGBTQ/poly affirming. Insightful affirmations and tips for trauma-informed attachment healing.</p><p class='quote'>Many trauma survivors totally freeze up when we want to say no or communicate a boundary because in the past it wasn’t safe to do so. In the context of safe relationships we need to learn how to say no and communicate our boundaries. Learning to say no is part of trauma recovery. It protects our boundaries and breaks the trauma habit of going along with things we don’t want. Learning to say no is also about respecting our partner’s boundaries and understanding that safe partners don’t want to do things that their partners don’t really want. When we say no we are communicating trust and respect for our partners.</p>"
+		"body": "<p>Trauma healing writer, CSA/incest survivor, extremely LGBTQ/poly affirming. Insightful affirmations and tips for trauma-informed attachment healing and boundary navigation.</p><p class='quote'>Many trauma survivors totally freeze up when we want to say no or communicate a boundary because in the past it wasn’t safe to do so. In the context of safe relationships we need to learn how to say no and communicate our boundaries. Learning to say no is part of trauma recovery. It protects our boundaries and breaks the trauma habit of going along with things we don’t want. Learning to say no is also about respecting our partner’s boundaries and understanding that safe partners don’t want to do things that their partners don’t really want. When we say no we are communicating trust and respect for our partners.</p>"
 	},
 	"silvy-khoucasian": {
 		"title": "Silvy Khoucasian",
@@ -290,6 +290,12 @@
 		"title": "Pocket Self-Care Manual (fill it out yourself)",
 		"href": "https://gum.co/pocketselfcare",
 		"image": "images/pocketselfcare.jpg",
-		"body": "It can be frustratingly difficult to remember the basic self care steps, coping mechanisms, and affirmations that help most when I need them most, so I made a pocket self-care manual to help me lock those things in. Offers prompts that you provide your own answers to. Wait until you're feeling safe and relaxed to fill it out."
+		"body": "<p>It can be frustratingly difficult to remember the basic self care steps, coping mechanisms, and affirmations that help most when I need them most, so I made a pocket self-care manual to help lock those things in.</p><p>Offers prompts that you provide your own answers to, because no one else can tell you what works best for yourself! Wait until you're feeling relatively safe and relaxed to fill it out.</p>"
+	},
+	"complex-trauma-infographics": {
+		"title": "Complex Trauma Healing",
+		"href": "https://complextraumahealing.wordpress.com/",
+		"image": "images/4f-trauma.jpg",
+		"body": "A blog of infographics summarizing dense information from key complex trauma resources."
 	}
 }
