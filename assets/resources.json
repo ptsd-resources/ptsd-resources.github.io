@@ -10,13 +10,13 @@
   	"betterhelp": {
 		"title": "BetterHelp",
 		"type": "talk",
-		"body": "<p><b>Online therapy platform</b> that supports weekly live sessions and unlimited messaging for a monthly fee. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>My referral link</a> gives us both a free week. They use a questionnaire to match you with a counselor within a day or two, so it's a good way to quickly get on board with therapy even if you go with someone else later.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week.</p>",
+		"body": "<p><b>Online therapy platform</b> that supports weekly live sessions and unlimited messaging for a monthly fee. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>My referral link</a> gives us both a free week. They use a questionnaire to match you with a counselor within a day or two. It's a good way to quickly get on board with therapy even if you switch providers later, though it might be slower to find a good fit because you don't get upfront consults.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week.</p>",
 		"href": "https://www.betterhelp.com/"
 	},
 	"psychology-today": {
 		"title": "PsychologyToday",
 		"type": "talk",
-		"body": "<p>Detailed <b>therapist search engine</b> that lets you find therapists by particular parameters (insurance accepted, location, specialties, treatment modalities), and provides price ranges upfront. You contact therapists individually through it to set up consults.</p><p>Expect around ~$100-200/session. Many therapists offer need-based sliding scales.</p>",
+		"body": "<p>Detailed <b>therapist search engine</b> that lets you find therapists by particular parameters (insurance accepted, location, specialties, treatment modalities), and provides price ranges upfront. You contact therapists individually through it to set up consults.</p><p>Expect around ~$100-200/session. Many therapists offer need-based sliding scales, and most offer free 15-minute phone consults.</p>",
 		"href": "https://www.psychologytoday.com/us/therapists"
 	},
 	"open-path-collective": {
@@ -56,7 +56,7 @@
 		"title": "<i>A General Theory of Love</i> (Thomas Lewis, Fari Amini)",
 		"href": "https://amzn.to/2Y7bN5f",
 		"type": "book",
-		"body": "Great and empathetic overview of mammalian attachment, social attunement, emotional intimacy, and healthy interdependence. This is a general read, probably useful to anyone interested in attachment, co-regulation, and emotional intelligence."
+		"body": "Great and empathetic overview of mammalian attachment, social attunement, emotional intimacy, and healthy interdependence. This is a general read, probably useful to anyone interested in attachment, co-regulation, and emotional intelligence. Extremely validating about the human desire for safety, understanding, and love, and a nice counterpoint to perspectives that we should be able to thrive without support from anyone else."
 	},
 	"emotionally-immature-parents": {
 		"title": "<i>Adult Children of Emotionally Immature Parents</i> (Lindsay C. Gibson)",
@@ -71,7 +71,7 @@
 		"body": "<p>Empathetic framework & exercises for repairing dysfunctional patterns in committed relationships with an anxious-avoidant dynamic, by finding ways to gently build self-awareness of patterns, and bridge both partners’ seemingly conflicting needs for feeling safe.</p><p>Note that this framework requires a lot of vulnerability, and assumes that you are dealing with a merely dysfunctional relationship where both people want to put in work, and not a toxic/abusive relationship. If you think you might be in the latter situation, figure that out before proceeding.</p>"
 	},
 	"attached-levine": {
-		"title": "Attached: The New Science of Adult Attachment (Amir Levine, Rachel Heller)",
+		"title": "<i>Attached: The New Science of Adult Attachment</i> (Amir Levine, Rachel Heller)",
 		"href": "https://amzn.to/2KBaHHb",
 		"type": "book",
 		"body": "An introductory overview to what attachment tendencies look like in the context of romantic relationships. I didn't find it as personally actionable, clarifying, or flexible as the resources above, and thought it tended to demonize avoidant-leaning people in a way that didn’t seem conducive to building mutual understanding. Nevertheless, could be a useful intro read if your relationships have been more toxic, distressing, or inflexible, and you're unfamiliar with attachment theory."
@@ -313,6 +313,12 @@
 		"image": "images/what_happens_in_therapy.jpg",
 		"href": "https://www.instagram.com/p/CAVV57djzUV/",
 		"body": "<p class='footnote'>via <a href='https://www.instagram.com/p/CAVV57djzUV/' target='_blank'>@drmeganjohnson</a></p>"
+	},
+	"conscious-uncoupling": {
+		"title": "<i>Conscious Uncoupling</i> (Katherine Woodward Thomas)",
+		"href": "https://amzn.to/3e0qhZs",
+		"type": "book",
+		"body": "Incredibly actionable, affirming, and compassionate guide to mindfully transforming relationship-transition grief and pain into an intentional commitment toward mutual kindness and learning to become your most authentic and loving self. Can be used for navigating ongoing processes or for healing old breakup wounds."
 	},
 	"fancy-quotes": {
 		"title": "“”"
