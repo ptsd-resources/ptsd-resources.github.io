@@ -76,7 +76,7 @@
 		"title": "<i>Hold Me Tight</i> (Sue Johnson)",
 		"href": "https://amzn.to/2VCNA58",
 		"type": "book",
-		"body": "<p>Empathetic framework & exercises for repairing dysfunctional patterns in committed relationships with an anxious-avoidant dynamic, by finding ways to gently build self-awareness of patterns, and bridge both partners’ seemingly conflicting needs for feeling safe.</p><p>Note that this framework requires a lot of vulnerability, and assumes that you are dealing with a merely dysfunctional relationship where both people want to put in work, and not a toxic/abusive relationship. If you think you might be in the latter situation, figure that out before proceeding.</p>"
+		"body": "<p>Empathetic framework & exercises for repairing dysfunctional patterns in committed relationships with an anxious-avoidant dynamic, by finding ways to gently build self-awareness of patterns, and bridge both partners’ seemingly conflicting needs for feeling safe.</p><p>This is the first book I've seen that provides heartfelt, empathetic insight into the needs of people with avoidant tendencies, which can often be very difficult to figure out when said avoidant tendencies are active.</p><p>Note that this framework requires a lot of vulnerability, and assumes that you are dealing with a merely dysfunctional relationship where both people truly want to put in work, and not a toxic/abusive relationship. If you think you might be in the latter situation, figure that out before proceeding.</p>"
 	},
 	"attached-levine": {
 		"title": "<i>Attached: The New Science of Adult Attachment</i> (Amir Levine, Rachel Heller)",
@@ -331,7 +331,8 @@
 		"title": "<i>Conscious Uncoupling</i> (Katherine Woodward Thomas)",
 		"href": "https://amzn.to/3e0qhZs",
 		"type": "book",
-		"body": "Incredibly actionable, affirming, and compassionate guide to mindfully transforming relationship-transition grief and pain into an intentional commitment toward mutual kindness and learning to become your most authentic and loving self. Can be used for navigating ongoing processes or for healing old breakup wounds."
+		"starred": true,
+		"body": "Incredibly actionable, affirming, and compassionate guide to mindfully transforming relationship-transition grief and pain into an intentional commitment toward mutual kindness and learning how to become your most authentic and loving self. Can be used for navigating ongoing processes, or for healing older breakup scars."
 	},
 	"fancy-quotes": {
 		"title": "“”"
