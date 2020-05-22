@@ -16,6 +16,7 @@
 	"psychology-today": {
 		"title": "PsychologyToday",
 		"type": "talk",
+		"starred": true,
 		"body": "<p>Detailed <b>therapist search engine</b> that lets you find therapists by particular parameters (insurance accepted, location, specialties, treatment modalities), and provides price ranges upfront. You contact therapists individually through it to set up consults.</p><p>Expect around ~$100-180/session. Many therapists offer need-based sliding scales, and most offer free 15-minute phone consults.</p>",
 		"href": "https://www.psychologytoday.com/us/therapists"
 	},
@@ -28,6 +29,7 @@
 	"therapy-den-guide": {
 		"title": "Beginner's Guide To Therapy | TherapyDen",
 		"href": "https://www.therapyden.com/blog/a-beginners-guide-to-therapy-how-to-find-a-therapist",
+		"starred": true,
 		"body": "Affirming guide on figuring out what kind of therapist would be a good match for you, what to ask them in the consultation, what to expect, how to tell if the therapy is working for you, and more."
 	},
 	"trigger-protocol": {
@@ -49,13 +51,14 @@
 		"title": "<i>CPTSD: From Surviving To Thriving</i> (Pete Walker)",
 		"href": "https://amzn.to/2xOFc9O",
 		"type": "book",
+		"starred": true,
 		"body": "<p>Extraordinarily actionable handbook for people with cPTSD from relational abuse / neglect. Very applied, with lots of exercises and toolboxes. Structured so you can pick and choose the chapters that are relevant to you.</p><p>Written specifically for survivors of parental abuse / neglect. However, would also be useful for generally dealing with emotional impact from non-parental formative relationships. Big focus on dealing with Inner Critic feelings of self-loathing, shame, and blame.</p><p>Includes a great chapter supporting people who haven't sought help because they don't believe their experiences were 'traumatic enough'."
 	},
 	"bks": {
 		"title": "<i>The Body Keeps The Score</i> (Bessel van der Kolk)",
 		"href": "https://amzn.to/2W1Wvw8",
 		"type": "book",
-		"body": "<p>Foundational overview of PTSD research, the neurobiology of trauma, and how mind-body integrative treatments can help dislodge stuck trauma.</p><p>Big focus on cPTSD from childhood abuse since it's such a stubborn and widespread category of trauma experience. But it covers a lot of ground, and should be generally useful if you carry any kind of trauma you feel stuck on or overwhelmed by, or simply want to better understand a traumatized person in your life.</p><p>A bit research-heavy. Better read as a whole than in pieces. May be particularly useful if you don’t understand why your trauma is so difficult to work through, or if you prefer using a scientific framing to cement your psych understanding.</p>"
+		"body": "<p>Foundational overview of PTSD research, the neurobiology of trauma, and how somatic / mind-body integrative treatments can help dislodge stuck trauma.</p><p>Big focus on cPTSD from childhood abuse since it's such a stubborn and widespread category of trauma experience. But it covers a lot of ground, and should be generally useful if you carry any kind of trauma you feel stuck on or overwhelmed by, or simply want to better understand a traumatized person in your life.</p><p>A bit research-heavy. Better read as a whole than in pieces. May be particularly useful if you don’t understand why your trauma is so difficult to work through, or if you prefer using a scientific framing to cement your psych understanding. Helped convince me of the value of prioritizing somatically-informed approaches for myself, though of course your mileage may vary.</p>"
 	},
 	"general-theory-love": {
 		"title": "<i>A General Theory of Love</i> (Thomas Lewis, Fari Amini)",
@@ -131,6 +134,7 @@
 		"href": "https://www.instagram.com/silvykhoucasian/",
 		"image": "images/silvy-attachment-communication.png",
 		"type": "instagram",
+		"starred": true,
 		"body": "Attachment-focused coach/educator. Offers useful bite-sized prompts, tools, and perspective for people with boundary issues or childhood trauma. Also has a podcast, <a href='https://podcasts.apple.com/us/podcast/love-with-integrity/id1456831120?mt=2' target='_blank'>Love With Integrity</a>."
 	},
 	"liz-listens": {
@@ -149,7 +153,7 @@
 	"somatic-modalities": {
 		"title": "Somatic modalities",
 		"type": "info",
-		"body": "<p>Somatic therapy modalities take mind-body integration into account, and may combine physical techniques/mindfulness with traditional talk therapy. If you are feeling stuck or overwhelmed in your body, you may benefit from these.</p><p><b><a href='https://traumahealing.org/about-us/#about' target='_blank'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html' target='_blank'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history' target='_blank'>Hakomi method</a></b> are related treatment approaches that combine traditional therapy with utilizing or gently developing the client’s awareness of how a traumatic experience (or experiences in general) may be held in the body, and facilitating their ability to re-establish agency over their bodies and regulatory mechanisms while triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving interoception, learning to separate physical sensations from trauma emotions, and learning how to get out of dissociative states, especially in people whose trauma had a physical basis.</p><p><b>EMDR</b> is a somatically-informed treatment method that helps reintegrate and process stuck trauma more rapidly than conventional therapy alone. It also doesn't strictly require you to talk about your trauma to be helpful, so it can be helpful if you have difficulty opening up to a therapist. [<a href='https://www.ncbi.nlm.nih.gov/pubmed/17284128' target='_blank'>DOI: 10.4088/jcp.v68n0105</a>]</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research' target='_blank'>EFT/tapping</a></b>, which involves tapping on your own body while focusing on particular feelings you are having, can be done on your own.</p><p class='footnote'>For more on how these work, see <i><a href='https://amzn.to/2W1Wvw8' target='_blank'>The Body Keeps The Score</a></i>, Part 5.</p>"
+		"body": "<p>Somatic therapy modalities take mind-body integration into account, and may combine physical techniques/mindfulness with traditional talk therapy. If you are feeling stuck, overwhelmed, or out of touch with your body, you may benefit from these.</p><p><b><a href='https://traumahealing.org/about-us/#about' target='_blank'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html' target='_blank'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history' target='_blank'>Hakomi method</a></b> are related treatment approaches that combine traditional therapy with utilizing or gently developing the client’s awareness of how a traumatic experience (or experiences in general) may be held in the body, and facilitating their ability to re-establish agency over their bodies and regulatory mechanisms while triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving interoception, learning to separate physical sensations from trauma emotions, and learning how to get out of dissociative states, especially in people whose trauma had a physical basis.</p><p><b>EMDR</b> is a somatically-informed treatment method that helps reintegrate and process stuck trauma more rapidly than conventional therapy alone. It also doesn't strictly require you to talk about your trauma to be helpful, so it can be helpful if you have difficulty opening up to a therapist. [<a href='https://www.ncbi.nlm.nih.gov/pubmed/17284128' target='_blank'>DOI: 10.4088/jcp.v68n0105</a>]</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research' target='_blank'>EFT/tapping</a></b>, which involves tapping on your own body while focusing on particular feelings you are having, can be done on your own.</p><p class='footnote'>For more on how these work, see <i><a href='https://amzn.to/2W1Wvw8' target='_blank'>The Body Keeps The Score</a></i>, Part 5.</p>"
 	},
 	"polyvagal-overview": {
 		"title": "Polyvagal theory & nervous system regulation",
@@ -220,6 +224,7 @@
 		"title": "Where To Draw The Line (Anne Katherine)",
 		"href": "https://amzn.to/2YQw3Zf",
 		"type": "book",
+		"starred": true,
 		"body": "<p>Boundaries aren't just for fending off toxic people; they can also be used to nourish ourselves and increase trust and intimacy when communicated with enough clarity and kindness. Guidance for navigating and holding many kinds of healthy boundaries, with strangers, friends, partners, relatives, coworkers, etc.</p>"
 	},
 	"self-boundaries": {

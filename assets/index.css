@@ -127,6 +127,9 @@ a {
   float: right;
   padding-top: 4px;
 }
+#content .page-item .item-star {
+  color: #ffd341;
+}
 #content .page-item.vocab {
   border: none;
   border-left: 8px solid #eee;

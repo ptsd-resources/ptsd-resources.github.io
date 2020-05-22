@@ -147,10 +147,12 @@
 			<h3 ng-if="item.title"
 			    class="item-title">
 				<i ng-if="item.type !== undefined"
-				   class="fa item-icon {[getItemIconClasses(item.type)]}"></i>
+			   		class="fa item-icon {[getItemIconClasses(item.type)]}"></i>
 				<a href="{[item.href]}"
 				   target="_blank"
 				   ng-bind-html="item.title">{[item.title]}</a>
+				<i ng-if="item.starred === true"
+				   class="fa item-star fa-star"></i>
 			</h3>
 		</div>
 		<div ng-if="item.href === undefined">
@@ -162,7 +164,9 @@
 				ng-if="item.title">
 				<i ng-if="item.type !== undefined"
 				   class="fa item-icon {[getItemIconClasses(item.type)]}"></i>
-				{[item.title]}
+				{[item.title]} 	
+				<i ng-if="item.starred === true"
+				   class="fa item-star fa-star"></i>
 			</h3>
 		</div>
 		<!-- body -->
