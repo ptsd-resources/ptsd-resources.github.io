@@ -10,20 +10,25 @@
   	"betterhelp": {
 		"title": "BetterHelp",
 		"type": "talk",
-		"body": "<p><b>Online therapy platform</b> that supports weekly live sessions and unlimited messaging for a monthly fee. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>My referral link</a> gives us both a free week. They use a questionnaire to match you with a counselor within a day or two. It's a good way to quickly get on board with therapy even if you switch providers later, though it might be slower to find a good fit because you don't get upfront consults.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week.</p>",
+		"body": "<p><b>Online therapy platform</b> that supports weekly live sessions and unlimited messaging for a monthly fee. They use a questionnaire to match you with a counselor within a day or two. Since you can't have upfront consults before you're paired, it might be a slower trial-and-error process to find someone who feels like a good fit for you. However, you can request to be reassigned.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>Referral link</a> for a free trial week.</p>",
 		"href": "https://www.betterhelp.com/"
 	},
 	"psychology-today": {
 		"title": "PsychologyToday",
 		"type": "talk",
-		"body": "<p>Detailed <b>therapist search engine</b> that lets you find therapists by particular parameters (insurance accepted, location, specialties, treatment modalities), and provides price ranges upfront. You contact therapists individually through it to set up consults.</p><p>Expect around ~$100-200/session. Many therapists offer need-based sliding scales, and most offer free 15-minute phone consults.</p>",
+		"body": "<p>Detailed <b>therapist search engine</b> that lets you find therapists by particular parameters (insurance accepted, location, specialties, treatment modalities), and provides price ranges upfront. You contact therapists individually through it to set up consults.</p><p>Expect around ~$100-180/session. Many therapists offer need-based sliding scales, and most offer free 15-minute phone consults.</p>",
 		"href": "https://www.psychologytoday.com/us/therapists"
 	},
 	"open-path-collective": {
 		"title": "Open Path Collective",
 		"type": "talk",
-		"body": "<p>Nonprofit <b>therapy service network</b> providing low cost therapy to uninsured or underinsured people.</p><p>$59 for membership, then $30–60/session.</p>",
+		"body": "<p>Nonprofit <b>therapy service network</b> connecting uninsured or underinsured people with low-cost therapy.</p><p>$59 for membership, then $30–60/session. Many offer free phone consults.</p>",
 		"href": "https://openpathcollective.org/"
+	},
+	"therapy-den-guide": {
+		"title": "Beginner's Guide To Therapy | TherapyDen",
+		"href": "https://www.therapyden.com/blog/a-beginners-guide-to-therapy-how-to-find-a-therapist",
+		"body": "Affirming guide on figuring out what kind of therapist would be a good match for you, what to ask them in the consultation, what to expect, how to tell if the therapy is working for you, and more."
 	},
 	"trigger-protocol": {
 		"title": "13 Steps For Dealing With Emotional Flashbacks | Pete Walker",
@@ -99,10 +104,13 @@
 		"href": "https://podcasts.apple.com/us/podcast/the-healing-trauma-and-cptsd-podcast/id1444361384",
 		"type": "audio"
 	},
+	"go-to-therapy": {
+		"image": "images/gototherapy.png",
+		"body": "<p class='footnote'>via <a href='https://www.instagram.com/tonitalkstherapy/' target='_blank'>@tonitalkstherapy</a></p>"
+	},
 	"tonitalks": {
 		"title": "Toni Talks",
 		"href": "https://www.instagram.com/tonitalkstherapy/",
-		"image": "images/gototherapy.png",
 		"type": "instagram",
 		"body": "<p>Somatic trauma educator offering tips and encouragement for getting started with therapy, shopping for a therapist, and evaluating whether a therapist is a good fit for you. Also posts some basic exercises for de-triggering and mindfulness.</p><ul><li><a href='https://www.instagram.com/p/B_0zts_DkU9/' target='_blank'>Some questions to ask a potential new therapist</a></li><li><a href='https://www.instagram.com/p/B-YJvIPD7W6/' target='_blank'>Tips for online sessions</a></li><li><a href='https://www.instagram.com/p/B_3bY34jXZo/' target='_blank'>Tips for getting the most out of therapy, giving feedback, having an experimental/curious attitude</a></li></ul>"
 	},
