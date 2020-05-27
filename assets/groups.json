@@ -12,7 +12,7 @@
   {
     "title": "Finding a therapist",
     "id": "therapy",
-    "items": ["go-to-therapy", "therapy-den-guide", "psychology-today", "open-path-collective", "betterhelp", "glik-therapy-modalities", "whats-therapy-like", "tonitalks", "elleanderson", "pubmed-cptsd-efficacy"]
+    "items": ["go-to-therapy", "therapy-den-guide", "psychology-today", "open-path-collective", "betterhelp", "glik-therapy-modalities", "whats-therapy-like", "tonitalks", "elleanderson"]
   },
   {
     "title": "Self-help resources",
@@ -65,9 +65,9 @@
     "items": ["crabb-ethical-consent", "wildfell-consensuality", "clementine-morrigan"]
   },
   {
-    "title": "What is physically happening in my brain/body?",
+    "title": "Why does my trauma feel so hard to resolve? How can I get unstuck?",
     "id": "science",
-    "items": ["hijacking", "bks", "emotional-intelligence-goleman", "general-theory-love"]
+    "items": ["hijacking", "bks", "pubmed-cptsd-efficacy", "somatic-modalities", "emotional-intelligence-goleman", "general-theory-love", "janina-fisher"]
   },
   {
     "title": "Site",
