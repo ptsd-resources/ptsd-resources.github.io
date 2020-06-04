@@ -31,7 +31,7 @@
   {
     "title": "I had difficulty in my upbringing or a formative relationship",
     "id": "relational",
-    "items": ["was-it-abuse", "chronic-neglect", "cptsd-walker", "monique-cptsd", "bks", "complex-trauma-infographics", "janina-fisher", "emotionally-immature-parents", "general-theory-love"]
+    "items": ["was-it-abuse", "cptsd-walker", "monique-cptsd", "bks", "complex-trauma-infographics", "janina-fisher", "emotionally-immature-parents", "general-theory-love"]
   },
   {
     "title": "My body is sometimes a scary or confusing place to be",
@@ -67,7 +67,7 @@
   {
     "title": "Why does my trauma feel so hard to resolve? How can I get unstuck?",
     "id": "science",
-    "items": ["hijacking", "bks", "pubmed-cptsd-efficacy", "somatic-modalities", "emotional-intelligence-goleman", "general-theory-love", "janina-fisher"]
+    "items": ["hijacking", "bks", "pubmed-cptsd-efficacy", "somatic-modalities", "emotional-intelligence-goleman", "general-theory-love", "janina-fisher", "maps"]
   },
   {
     "title": "Site",
