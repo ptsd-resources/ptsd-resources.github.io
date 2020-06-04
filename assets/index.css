@@ -24,6 +24,10 @@ a .fa {
   color: #000;
 }
 
+.fa-github {
+  font-size: 18pt;
+}
+
 .footnote {
   font-size: 9pt;
   font-style: oblique;

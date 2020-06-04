@@ -30,6 +30,11 @@ This probably would have worked fine using Jekyll, but this janky approach was p
 - [x] switch to SASS
 - [x] import my nice sass mixins
 - [x] icons for resource types? (book, podcast, etc)
+- [x] source code link
+- [ ] set up more domains
+- [ ] set up https on alt domains
+- [ ] quick user interviews on friends w/ different trauma roots
+- [ ] quick user interviews on "oh I definitely don't have Trauma(TM)" friends
 
 ### quickies
 - [x] index/about page
