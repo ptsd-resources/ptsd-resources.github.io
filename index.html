@@ -117,7 +117,7 @@
 			<p class="center">
 				<a href="https://github.com/ptsd-resources/ptsd-resources.github.io"
 					 target="_blank"
-					 alt="source">
+					 alt="source code">
 					<i class="fa fa-github"></i>
 				</a>
 			</p>
@@ -149,7 +149,8 @@
 			   target="_blank"
 			   >
 				<img src="{[item.image]}"
-					  class="item-image" />
+					   class="item-image"
+						 alt="{[item.imageAlt || '']}" />
 			</a>
 			<h3 ng-if="item.title"
 			    class="item-title">
@@ -166,7 +167,8 @@
 			<!-- unlinked title/image -->
 			<img src="{[item.image]}"
 				 ng-if="item.image !== undefined" 
-				 class="item-image" />
+				 class="item-image"
+				 alt="{[item.imageAlt || '']}" />
 			<h3 class="item-title"
 				ng-if="item.title">
 				<i ng-if="item.type !== undefined"

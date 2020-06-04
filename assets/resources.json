@@ -110,6 +110,7 @@
 	},
 	"go-to-therapy": {
 		"image": "images/gototherapy.png",
+		"imageAlt": "You don't have to 'qualify' for therapy. Are you a human? You qualify. Reasons to go to therapy: build insight and awareness, obtain a diagnosis, explore your history, get to know yourself, be kinder to yourself, learn coping skills, adjust to a life transition, process a past trauma, process current events, work through relationship issues, get guidance for a specific issue, have someone to talk to, grieve a loss, explore your spirituality, you are curious, you want to. From Toni Talks Therapy.",
 		"body": "<p class='footnote'>via <a href='https://www.instagram.com/tonitalkstherapy/' target='_blank'>@tonitalkstherapy</a></p>"
 	},
 	"tonitalks": {
@@ -134,6 +135,7 @@
 		"title": "Silvy Khoucasian",
 		"href": "https://www.instagram.com/silvykhoucasian/",
 		"image": "images/silvy-attachment-communication.png",
+		"imageAlt": "Some example posts by Silvy Khoucasian on ways to communicate your needs, from attachment theory by John Bowlby and Mary Ainsworth -- if you have strong anxious tendencies or if you have strong dismissive-avoidant tendencies.",
 		"type": "instagram",
 		"starred": true,
 		"body": "Attachment-focused coach/educator. Offers useful bite-sized prompts, tools, and perspective for people with boundary issues or childhood trauma. Also has a podcast, <a href='https://podcasts.apple.com/us/podcast/love-with-integrity/id1456831120?mt=2' target='_blank'>Love With Integrity</a>."
@@ -148,6 +150,7 @@
 		"title": "Sit With Sharon",
 		"href": "https://www.instagram.com/sitwithsharon/",
 		"image": "images/sitwithsharon.png",
+		"imageAlt": "Some example posts by Sit With Sharon of internal boundaries, and how fear of intimacy shows up.",
 		"type": "instagram",
 		"body": "Attachment-focused therapy educator. Offers striking reframes of common dysregulated attachment mindsets, and extremely direct tips for people with dysregulated attachment to more healthily recognize their own needs and self-harming patterns."
 	},
@@ -159,6 +162,7 @@
 	"polyvagal-overview": {
 		"title": "Polyvagal theory & nervous system regulation",
 		"image": "images/polyvagal_chart_charissafry.jpg",
+		"imageAlt": "An infographic of polyvagal theory by Charissa Fry. In  the window of tolerance, or a ventral vagal activated state, we are resilient, safe, and able to socially engage and connect. In hyperarousal, or sympathetic nervous system activation, our fight or flight response is active and we are in survival mode. We can't register consequences, and may feel rage, panic, or fear. In hypoarousal, or dorsal vagal activated state, our freeze response is active and we are in survival mode. We may feel immobilized, numb, or in a trance.",
 		"type": "info",
 		"body": "<p class='footnote'>infographic via <a href='https://www.charissafry.com/resources/' target='_blank'>Charissa Fry</a></p><p><a href='https://en.wikipedia.org/wiki/Polyvagal_theory' target='_blank'>Polyvagal theory</a> describes our autonomic nervous system’s role in fight-flight-freeze responses, and how to identify and manage different states. If you carry physical trauma or find yourself often getting stuck in a triggered state such as primal anger/fear/terror and you have a lot of trouble deactivating, you might find this useful.</p><p>Quick intro: <a href='https://www.stitcher.com/podcast/justin-sunseri/polyvagal-podcast/e/68637148' target='_blank'>Complex PTSD and the Polyvagal Theory | Polyvagal Podcast</a></p>"
 	},
@@ -188,6 +192,7 @@
 	"engineer-mindfulness": {
 		"title": "An Engineer's Guide to Happiness",
 		"image": "images/engineer-mindfulness.png",
+		"imageAlt": "A flowchart illustrating meditation. Start by just inhaling and exhaling. If you get distracted, don't beat yourself up about it! Forgive yourself. It's possible to feel angry at yourself for being distracted, or even angry at your own anger. You don't need to meditate for a long time for it to be useful, but try to do it frequently!",
 		"href": "https://anengineersguide.com/post/190949175105/09-emotion-demotion",
 		"body": "Cute short webcomic for nerds who would like to be convinced that spending time building out an emotional toolkit will help make them more efficient in the long run."
 	},
@@ -298,6 +303,7 @@
 		"title": "Laura Anderson",
 		"href": "https://www.instagram.com/ms_elleanderson/",
 		"image": "images/elleanderson.png",
+		"imageAlt": "1. The moment we begin comparing our traumas OR how we are processing our trauma is the moment that shame begins. 2. Trauma becomes worse when we disconnect from ourselves and others. From Laura Anderson.",
 		"type": "instagram",
 		"body": "<p>Trauma educator offering tips on finding a therapist who really understands you, info about what you should be able to expect from a trauma-informed therapist, and affirmations about the more frustrating aspects of the healing process. (Specializes in complex trauma and religious cult trauma.)</p><ul><li><a href='https://www.instagram.com/p/B9E5e4aAoUq/' target='_blank'>Therapists should recognize that <i>you</i> are the expert on your life</a></li><li><a href='https://www.instagram.com/p/B8_1jjNgHLM/' target='_blank'>On prioritizing your feelings of safety during a session</a></li><li><a href='https://www.instagram.com/p/B89Mq24AGqo/' target='_blank'>The difference between treating trauma vs. treating symptoms</a></li></ul>"
 	},
@@ -305,12 +311,14 @@
 		"title": "Pocket Self-Care Manual (fill it out yourself)",
 		"href": "https://gum.co/pocketselfcare",
 		"image": "images/pocketselfcare.jpg",
+		"imageAlt": "Photo of a Choose Your Own Adventure Pocket Self-Care Manual.",
 		"body": "<p>It can be frustratingly difficult to remember the basic self care steps, coping mechanisms, and affirmations that help most when I need them most, so I made a pocket self-care manual to help lock those things in.</p><p>Offers prompts that you provide your own answers to, because no one else can tell you what works best for yourself! Wait until you're feeling relatively safe and relaxed to fill it out.</p>"
 	},
 	"complex-trauma-infographics": {
 		"title": "Complex Trauma Healing",
 		"href": "https://complextraumahealing.wordpress.com/",
 		"image": "images/4f-trauma.jpg",
+		"imageAlt": "Chart of the 4F personality types (Fight, Flight, Freeze, Fawn).",
 		"body": "A blog of infographics summarizing dense information from key complex trauma resources."
 	},
 	"love-languages": {
@@ -325,6 +333,7 @@
 	},
 	"whats-therapy-like": {
 		"image": "images/what_happens_in_therapy.jpg",
+		"imageAlt": "What I thought would happen in therapy: talk about my feelings, learn some coping skills, get advice. What actually happens in therapy: develop a cohesive life narrative, integrate the different versions of myself, have my value and worth unconditionally acknowledged, have my experiences validated, break patterns of generational trauma, have space to come to my own value-driven conclusions, experience a relationship with healthy boundaries, become aware of my self-talk and learn to talk back, have emotionally corrective experiences, make the unconscious conscious, resolve internal conflicts, cultivate self awareness and emotional intelligence. From Dr. Megan Johnson.",
 		"href": "https://www.instagram.com/p/CAVV57djzUV/",
 		"body": "<p class='footnote'>via <a href='https://www.instagram.com/p/CAVV57djzUV/' target='_blank'>@drmeganjohnson</a></p>"
 	},
