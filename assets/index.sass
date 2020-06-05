@@ -39,10 +39,14 @@ body
   margin: 0
   color: #000
 
-a
-  color: $teal-text
-  .fa
-    color: #000
+:not(.sidebar)
+  a
+    color: $teal-text
+    .fa
+      color: #000
+
+.fa.inline
+  margin: 0.25em
 
 .fa-github
   font-size: 18pt

@@ -17,11 +17,15 @@ body {
   color: #000;
 }
 
-a {
+:not(.sidebar) a {
   color: #04bbbb;
 }
-a .fa {
+:not(.sidebar) a .fa {
   color: #000;
+}
+
+.fa.inline {
+  margin: 0.25em;
 }
 
 .fa-github {
