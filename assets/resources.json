@@ -71,7 +71,7 @@
 		"title": "<i>Adult Children of Emotionally Immature Parents</i> (Lindsay C. Gibson)",
 		"type": "book",
 		"href": "https://amzn.to/3bHWLa2",
-		"body": "<p>Fantastic read on better understanding your childhood experiences and responses, understanding confusing mixed signals from one’s caregivers, and learning to set healthy, self-respecting boundaries.</p><p>This book doesn’t assume a particular degree of objective badness, only that you would like to work on dysregulation of some kind. So it seems like it’d probably be useful for addressing a very wide range of parental relationship dysfunction, from lovably frustrating to toxic.</p>"
+		"body": "<p>Fantastic read on better understanding your childhood experiences and responses, understanding confusing mixed signals from one’s caregivers, and learning to set healthy, self-respecting boundaries with one's caregivers.</p><p>This book doesn’t assume a particular degree of objective badness, only that you would like to work on dysregulation of some kind. So it seems like it’d probably be useful for addressing a very wide range of parental relationship dysfunction, from lovably frustrating to toxic narcissists.</p>"
 	},
 	"hold-me-tight": {
 		"title": "<i>Hold Me Tight</i> (Sue Johnson)",
@@ -241,7 +241,7 @@
 		"title": "The Gift of Fear (Gavin de Becker)",
 		"href": "https://amzn.to/2X1SW9R",
 		"type": "book",
-		"body": "<p>On re-harnessing survival intuition repressed by social norms. Not conducive to PTSD healing, but seems useful for helping to exit actively concerning situations, especially if you are susceptible to gaslighting and don't trust your self-preservation instincts.</p><p>I hesitate to unilaterally recommend this read as it encourages a bit of paranoia, trusting snap judgments, and hypervigilance. Probably most appropriate if you are in a potentially genuinely dangerous situation (stalking, abuse, exploitation, threats, very unnerving behavior from someone) and you need an extra push to overcome your mental aversion to GTFOing.</p>"
+		"body": "<p>On re-harnessing survival intuition repressed by social norms. Not conducive to PTSD healing, but seems useful for helping you reconnect with your self-preservation instincts if you are particularly susceptible to gaslighting and don't trust yourself.</p><p>I don't unilaterally recommend this read as it encourages a bit of paranoia, trusting snap judgments, and hypervigilance. It's more of a push to help you overcome your mental aversion to GTFO of a genuinely dangerous situation (stalking, abuse, exploitation, threats, very unnerving behavior from someone).</p>"
 	},
 	"was-it-abuse": {
 		"title": "“But I wasn't abused”",
@@ -353,6 +353,11 @@
 		"title": "MAPS (Multidisciplinary Association For Psychedelic Studies",
 		"href": "https://maps.org/resources",
 		"body": "A research & educatonal organization whose top priority is developing MDMA-assisted psychotherapy into a legal, FDA-approved PTSD treatment."
+	},
+	"reddit-crisis": {
+		"title": "r/CPTSD crisis resources",
+		"href": "https://old.reddit.com/r/CPTSD/wiki/index#wiki_crisis_support_resources",
+		"body": "Extensive community-organized collection of crisis, support, and emotional first-aid resources."
 	},
 	"fancy-quotes": {
 		"title": "“”"
