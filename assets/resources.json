@@ -10,14 +10,14 @@
   	"betterhelp": {
 		"title": "BetterHelp",
 		"type": "talk",
-		"body": "<p><b>Online therapy platform</b> that supports weekly live sessions, unlimited messaging, and 'groupinars' for a monthly fee. They use a questionnaire to match you with a counselor within a day or two. You can request reassignment, but there are no consults to shop around before you're paired.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>Referral link</a> for a free trial week.</p><p>BetterHelp is most appropriate if you want someone you can drop messages to on your own schedule, and if you don't feel it's important to you to get a sense of someone's conversational style before you start counseling.</p>",
+		"body": "<p><b>Online counseling platform</b> that supports weekly live sessions, unlimited messaging, and 'groupinars' for a monthly fee. They use a questionnaire to match you with a counselor within a day or two. You can request reassignment, but there are no consults to shop around before you're paired.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>Referral link</a> for a free trial week.</p><p>BetterHelp is most appropriate if you want someone you can drop messages to on your own schedule, and if you don't feel it's important to you to get a sense of someone's conversational style before you start counseling.</p>",
 		"href": "https://www.betterhelp.com/"
 	},
 	"psychology-today": {
 		"title": "PsychologyToday",
 		"type": "talk",
 		"starred": true,
-		"body": "<p>Detailed <b>therapist search engine</b> that lets you filter therapists by useful parameters (insurance accepted, location, specialties, treatment modalities), and provides price ranges upfront. You contact therapists individually through it to set up consults.</p><p>If paying out of pocket, expect around ~$100-180/session. Many therapists offer need-based sliding scales, and most offer free 15 minute phone consults so you can figure out if they're a good fit, ask questions, and get a feel for what it's like talking with them.</p>",
+		"body": "<p>Detailed <b>therapist search engine</b> that lets you filter therapists by useful parameters (insurance accepted, location, specialties, treatment modalities), and provides price ranges upfront. You contact therapists individually through it to set up consults.</p><p>If paying out of pocket, expect around ~$100-180/session. Many therapists offer need-based sliding scales. Most offer free 15 minute phone consults so you can figure out if they're a good fit, ask questions, and get a feel for what it's like talking with them.</p>",
 		"href": "https://www.psychologytoday.com/us/therapists"
 	},
 	"open-path-collective": {
@@ -45,14 +45,14 @@
 	},
 	"trigger-check": {
 		"title": "Are you triggered or flashbacked?",
-		"body": "<p><i>Do you...</i><ul><li>Feel overwhelmed by fear, shame, or confusion</li><li>Feel small, fragile, helpless, terrified</li><li>Feel frozen, shut down, unable to make sense of things, dissociated, emotionally numb</li><li>Feel enraged, critical of others, judgmental, perceive ulterior motives</li><li>Feel worthless, broken, self-loathing, self-disgust, self-hatred</li><li>Suddenly distrust your proven allies</li><li>Feel an evaporation of your usual self-esteem</li><li>Feel an overwhelming fear of catastrophe in response to a relatively mundane or innocuous situation</li></ul></p><p>Any of these may indicate you are having an emotional flashback.</p><p>Explicit flashbacks recall details of a traumatic event. But we can also have <a href='https://www.psychologytoday.com/us/blog/conquer-fear-flying/201408/is-what-you-are-feeling-flashback' target='_blank'>implicit/emotional flashbacks</a>, where the brain (often inappropriately) activates its alert system and projects strong emotions from a past traumatic situation onto present situations. This can erode our safe relationships if not recognized.</p><p class='footnote'>Paraphrased from <i><a href='https://amzn.to/2xOFc9O' target='_blank'>CPTSD: From Surviving To Thriving</a></i>, Ch. 8. If this feels relatable, you'll probably benefit from relational resources. If you're not sure where your triggers might stem from, you'll probably benefit from therapy, and possibly <i><a href='https://amzn.to/2xOFc9O' target='_blank'>CPTSD: From Surviving To Thriving</a></i>, Ch. 5."
+		"body": "<p><i>Do you...</i><ul><li>Feel overwhelmed by fear, shame, or confusion</li><li>Feel small, fragile, helpless, terrified</li><li>Feel frozen, shut down, unable to make sense of things, dissociated, emotionally numb</li><li>Feel enraged, critical of others, judgmental, perceive ulterior motives</li><li>Feel worthless, broken, self-loathing, self-disgust, self-hatred</li><li>Suddenly distrust your proven allies</li><li>Feel an evaporation of your usual self-esteem</li><li>Feel an overwhelming fear of catastrophe in response to a relatively mundane or innocuous situation</li></ul></p><p>Any of these may indicate you are having an emotional flashback.</p><p>Flashbacks don't need to involve specific memories. You can also have <a href='https://www.psychologytoday.com/us/blog/conquer-fear-flying/201408/is-what-you-are-feeling-flashback' target='_blank'>implicit/emotional flashbacks</a>, where the brain activates its alert system and (often inappropriately) projects the primal emotions from a past traumatic situation onto present situations. This can erode our safe relationships if not recognized.</p><p class='footnote'>Paraphrased from <i><a href='https://amzn.to/2xOFc9O' target='_blank'>CPTSD: From Surviving To Thriving</a></i>, Ch. 8. If this feels relatable, you may benefit from relational resources. If you're not sure where your triggers might stem from, you may benefit from therapy, and possibly <i><a href='https://amzn.to/2xOFc9O' target='_blank'>CPTSD: From Surviving To Thriving</a></i>, Ch. 5."
 	},
 	"cptsd-walker": {
 		"title": "<i>CPTSD: From Surviving To Thriving</i> (Pete Walker)",
 		"href": "https://amzn.to/2xOFc9O",
 		"type": "book",
 		"starred": true,
-		"body": "<p>Extraordinarily actionable handbook for people with cPTSD from relational abuse / neglect. Very applied, with lots of exercises and toolboxes. Structured so you can pick and choose the chapters that are relevant to you.</p><p>Written specifically for survivors of parental abuse / neglect. However, would also be useful for generally dealing with emotional impact from non-parental formative relationships. Big focus on dealing with Inner Critic feelings of self-loathing, shame, and blame.</p><p>Includes a great chapter supporting people who haven't sought help because they don't believe their experiences were 'traumatic enough'."
+		"body": "<p>Extraordinarily actionable handbook for people with cPTSD from relational abuse / neglect. Very applied, with lots of exercises and toolboxes. Structured so you can pick and choose the chapters that are relevant to you.</p><p>Written specifically for survivors of parental abuse / neglect. However, also seems generally useful for dealing with the impact of difficult non-parental formative relationships. Big focus on dealing with Inner Critic feelings of self-loathing, shame, and blame.</p><p>Includes a great chapter supporting people who haven't sought help because they don't believe their experiences were 'traumatic enough'."
 	},
 	"bks": {
 		"title": "<i>The Body Keeps The Score</i> (Bessel van der Kolk)",
@@ -65,13 +65,13 @@
 		"title": "<i>A General Theory of Love</i> (Thomas Lewis, Fari Amini)",
 		"href": "https://amzn.to/2Y7bN5f",
 		"type": "book",
-		"body": "Great and empathetic overview of mammalian attachment, social attunement, emotional intimacy, and healthy interdependence. This is a general read, probably useful to anyone interested in attachment, co-regulation, and emotional intelligence. Extremely validating about our biological imperative for safety, understanding, and love."
+		"body": "Great and empathetic overview of mammalian attachment, social attunement, emotional intimacy, and healthy interdependence. Extremely validating about our biological imperative for safety, understanding, co-regulation, and love."
 	},
 	"emotionally-immature-parents": {
 		"title": "<i>Adult Children of Emotionally Immature Parents</i> (Lindsay C. Gibson)",
 		"type": "book",
 		"href": "https://amzn.to/3bHWLa2",
-		"body": "<p>Fantastic read on better understanding your childhood experiences and responses, understanding confusing mixed signals from one’s caregivers, and learning to set healthy, self-respecting boundaries with one's caregivers.</p><p>This book doesn’t assume a particular degree of objective badness, only that you would like to work on dysregulation of some kind. So it seems like it’d probably be useful for addressing a very wide range of parental relationship dysfunction, from lovably frustrating to toxic narcissists.</p>"
+		"body": "<p>Fantastic read on better understanding your childhood experiences and responses, understanding confusing mixed signals from one’s caregivers, and learning to set healthy, self-respecting boundaries with one's caregivers.</p><p>This book doesn’t assume a particular degree of objective badness, only that you would like to work on dysregulation of some kind. So it seems like it’d probably be useful for addressing a wide range of parental relationship dysfunction, from lovably frustrating to toxic.</p>"
 	},
 	"hold-me-tight": {
 		"title": "<i>Hold Me Tight</i> (Sue Johnson)",
@@ -83,7 +83,7 @@
 		"title": "<i>Attached: The New Science of Adult Attachment</i> (Amir Levine, Rachel Heller)",
 		"href": "https://amzn.to/2KBaHHb",
 		"type": "book",
-		"body": "An introductory overview to what attachment tendencies look like in the context of romantic relationships. I didn't find it as personally actionable, clarifying, or flexible as the resources above, and thought it tended to demonize avoidant-leaning people in a way that didn’t seem conducive to building mutual understanding. Nevertheless, could be a useful intro read if your relationships have been more toxic, distressing, or inflexible, and you're unfamiliar with attachment theory."
+		"body": "An introductory overview to what attachment tendencies look like in the context of romantic relationships. I didn't personally find it as actionable, clarifying, or flexible as the resources above. I thought it demonized avoidant-leaning people in a way that didn’t seem conducive to building mutual understanding with them. Nevertheless, could be a useful intro read if your relationships have been more toxic, distressing, or inflexible."
 	},
 	"nvc": {
 		"title": "<i>Nonviolent Communication</i> (Marshall B. Rosenberg)",
@@ -95,13 +95,13 @@
 		"title": "<i>Crucial Conversations</i>",
 		"href": "https://amzn.to/2Senl2P",
 		"type": "book",
-		"body": "Communication skills for safely bringing up important conversations and having open dialogue. Between NVC and CC, CC seems more oriented toward anger/frustration management (‟be persuasive, not abrasive”, while NVC seems more oriented toward people-pleasers. Generally applicable to life, but CC case studies lean more often toward dialogue within workplaces and organizations."
+		"body": "Communication skills for safely bringing up important conversations and having open dialogue. Between NVC and CC, CC seems more oriented toward anger/frustration management (‟be persuasive, not abrasive”, and NVC seems more oriented toward people-pleasers. Generally applicable to life, but CC case studies lean more often toward dialogue within workplaces and organizations."
 	},
 	"emotional-intelligence-goleman": {
 		"title": "<i>Emotional Intelligence</i> (Daniel Goleman)",
 		"href": "https://amzn.to/3bBKeVH",
 		"type": "book",
-		"body": "<p>Thorough overview on the somatic nature of emotions and hijacking. Not trauma specific. Makes a case that emotional intelligence is often much more critical for happiness, and even for very societally conventional metrics of success, than conventional intelligence is.<p></p>This book went into great depth about emotional dysregulation, but didn’t offer much self-help advice. However, it was useful for helping me better grasp the physiological nature of emotions, and validating all this time I’ve been investing into emotional regulation that I could instead be spending on more normatively “useful” things.</p>"
+		"body": "<p>Thorough general overview on the somatic nature of emotions and hijacking. Makes a case that emotional intelligence is often much more critical for happiness, and even for very societally conventional metrics of success, than conventional intelligence is.<p></p>This book went into great depth about emotional dysregulation, but it is not a self-help book. However, it helped me better grasp the physiological nature of emotions, and validated all this time I’ve been investing into emotional regulation that I could instead be spending on more normatively “useful” things.</p>"
 	},
 	"monique-cptsd": {
 		"title": "Monique Koven's CPTSD podcast",
@@ -117,13 +117,13 @@
 		"title": "Toni Talks",
 		"href": "https://www.instagram.com/tonitalkstherapy/",
 		"type": "instagram",
-		"body": "<p>Somatic trauma educator offering tips and encouragement for getting started with therapy, shopping for a therapist, and evaluating whether a therapist is a good fit for you. Also posts some basic exercises for de-triggering and mindfulness.</p><ul><li><a href='https://www.instagram.com/p/B_0zts_DkU9/' target='_blank'>Some questions to ask a potential new therapist</a></li><li><a href='https://www.instagram.com/p/B-YJvIPD7W6/' target='_blank'>Tips for online sessions</a></li><li><a href='https://www.instagram.com/p/B_3bY34jXZo/' target='_blank'>Tips for getting the most out of therapy, giving feedback, having an experimental/curious attitude</a></li></ul>"
+		"body": "<p>Somatic trauma educator offering tips and encouragement for getting started with therapy, shopping for a therapist, and evaluating whether a therapist is a good fit for you. Also posts basic exercises for de-triggering and mindfulness.</p><ul><li><a href='https://www.instagram.com/p/B_0zts_DkU9/' target='_blank'>Some questions to ask a potential new therapist</a></li><li><a href='https://www.instagram.com/p/B-YJvIPD7W6/' target='_blank'>Tips for online sessions</a></li><li><a href='https://www.instagram.com/p/B_3bY34jXZo/' target='_blank'>Tips for getting the most out of therapy, giving feedback, having an experimental/curious attitude</a></li></ul>"
 	},
 	"andrea-glik": {
 		"title": "Andrea Glik",
 		"href": "https://www.instagram.com/somaticwitch/",
 		"type": "instagram",
-		"body": "<p>Somatic trauma educator, some LGBTQ/poly content. Relatable prompts and suggestions for replacing self-destructive thought patterns with a growth mindset, and a focus on nervous system regulation. Blogs, podcast interviews, and workshops on her <a href='https://www.andreaglik.com/'>website</a>.</p><p class='quote'>Instead of “I'm broken”, try “I am a trauma survivor/someone who has experienced trauma who is currently learning the impact of my experiences on my sense of self and working towards unlearning survival patterns.”</p>"
+		"body": "<p>Somatic trauma educator, some LGBTQ/poly content. Relatable prompts and suggestions for replacing self-destructive thought patterns with a growth mindset. Has a focus on nervous system regulation. Blogs, podcast interviews, and workshops on her <a href='https://www.andreaglik.com/'>website</a>.</p><p class='quote'>Instead of “I'm broken”, try “I am a trauma survivor/someone who has experienced trauma who is currently learning the impact of my experiences on my sense of self and working towards unlearning survival patterns.”</p>"
 	},
 	"clementine-morrigan": {
 		"title": "Clementine Morrigan",
@@ -152,19 +152,19 @@
 		"image": "images/sitwithsharon.png",
 		"imageAlt": "Some example posts by Sit With Sharon of internal boundaries, and how fear of intimacy shows up.",
 		"type": "instagram",
-		"body": "Attachment-focused therapy educator. Offers striking reframes of common dysregulated attachment mindsets, and extremely direct tips for people with dysregulated attachment to more healthily recognize their own needs and self-harming patterns."
+		"body": "Attachment-focused therapy educator. Offers striking reframes of common dysregulated attachment mindsets. Has extremely direct tips for people with dysregulated attachment to more healthily recognize their own needs and self-harming patterns."
 	},
 	"somatic-modalities": {
 		"title": "Somatic modalities",
 		"type": "info",
-		"body": "<p>Somatic therapy modalities take mind-body integration into account, and often combine physical techniques and mindfulness with talk therapy. If you are feeling stuck, overwhelmed, unpredictable, or out of touch with your body, you may benefit from these.</p><p><b><a href='https://traumahealing.org/about-us/#about' target='_blank'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html' target='_blank'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history' target='_blank'>Hakomi method</a></b> are related treatment approaches that combine traditional therapy with developing your physical self-awareness in a way that helps you re-establish conscious agency over yourself while triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving interoception, learning to separate physical sensations from trauma emotions, and learning how to get out of triggered states.</p><p><b>EMDR</b> is a somatically-informed treatment method that helps reintegrate and process stuck trauma more rapidly than conventional therapy alone. It doesn't strictly require you to talk out loud about your trauma to be helpful, so it can be helpful if you have difficulty opening up to a therapist. [<a href='https://www.ncbi.nlm.nih.gov/pubmed/17284128' target='_blank'>DOI: 10.4088/jcp.v68n0105</a>]</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research' target='_blank'>EFT/tapping</a></b>, which involves tapping on your own body to keep it grounded in the present while focusing on particular feelings you are having, can be done on your own.</p><p class='footnote'>For more on how these work, see <i><a href='https://amzn.to/2W1Wvw8' target='_blank'>The Body Keeps The Score</a></i>, Part 5.</p>"
+		"body": "<p>Somatic therapy modalities take mind-body integration into account. They often combine physical techniques and mindfulness with talk therapy. If you are feeling stuck, overwhelmed, unpredictable, or out of touch with your body, you may benefit from these.</p><p><b><a href='https://traumahealing.org/about-us/#about' target='_blank'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html' target='_blank'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history' target='_blank'>Hakomi method</a></b> are related treatment approaches. They combine traditional therapy with developing your physical self-awareness. This helps you re-establish conscious agency over yourself while triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving interoception, learning to separate physical sensations from trauma emotions, and learning how to get out of triggered states.</p><p><b>EMDR</b> is a somatically-informed treatment method that helps reintegrate and process stuck trauma more rapidly than conventional therapy alone. It doesn't strictly require you to talk out loud about your trauma to be helpful, so it can be helpful if you have difficulty opening up to a therapist. [<a href='https://www.ncbi.nlm.nih.gov/pubmed/17284128' target='_blank'>DOI: 10.4088/jcp.v68n0105</a>]</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research' target='_blank'>EFT/tapping</a></b>, involves tapping on your own body to keep it grounded in the present, while focusing on particular feelings you are having. This can be done on your own.</p><p class='footnote'>For more on how these work, see <i><a href='https://amzn.to/2W1Wvw8' target='_blank'>The Body Keeps The Score</a></i>, Part 5.</p>"
 	},
 	"polyvagal-overview": {
 		"title": "Polyvagal theory & nervous system regulation",
 		"image": "images/polyvagal_chart_charissafry.jpg",
 		"imageAlt": "An infographic of polyvagal theory by Charissa Fry. In  the window of tolerance, or a ventral vagal activated state, we are resilient, safe, and able to socially engage and connect. In hyperarousal, or sympathetic nervous system activation, our fight or flight response is active and we are in survival mode. We can't register consequences, and may feel rage, panic, or fear. In hypoarousal, or dorsal vagal activated state, our freeze response is active and we are in survival mode. We may feel immobilized, numb, or in a trance.",
 		"type": "info",
-		"body": "<p class='footnote'>infographic via <a href='https://www.charissafry.com/resources/' target='_blank'>Charissa Fry</a></p><p><a href='https://en.wikipedia.org/wiki/Polyvagal_theory' target='_blank'>Polyvagal theory</a> describes our autonomic nervous system’s role in fight-flight-freeze responses, and how to identify and manage different states. If you carry physical trauma or find yourself often getting stuck in a triggered state such as primal anger/fear/terror and you have a lot of trouble deactivating, you might find this useful.</p><p>Quick intro: <a href='https://www.stitcher.com/podcast/justin-sunseri/polyvagal-podcast/e/68637148' target='_blank'>Complex PTSD and the Polyvagal Theory | Polyvagal Podcast</a></p>"
+		"body": "<p class='footnote'>infographic via <a href='https://www.charissafry.com/resources/' target='_blank'>Charissa Fry</a></p><p><a href='https://en.wikipedia.org/wiki/Polyvagal_theory' target='_blank'>Polyvagal theory</a> describes our autonomic nervous system’s role in fight-flight-freeze responses, and how to identify and manage different states. If you often get stuck in a state of primal anger/fear/terror and you have a lot of trouble deactivating, you might find this useful.</p><p>Quick intro: <a href='https://www.stitcher.com/podcast/justin-sunseri/polyvagal-podcast/e/68637148' target='_blank'>Complex PTSD and the Polyvagal Theory | Polyvagal Podcast</a></p>"
 	},
 	"polyvagal-rosenberg": {
 		"title": "<i>Accessing the Healing Power of the Vagus Nerve</i> (Stanley Rosenberg)",
@@ -235,13 +235,13 @@
 	},
 	"self-boundaries": {
 		"title": "How are your boundaries?",
-		"body": "<p>If you feel bad in your emotions and aren't sure why, it's possible you have overextended your boundaries without realizing it, and allowed influences to enter your life that aren't as aligned with your emotional needs as they could be. These influences might not be Bad -- just not what you need or maybe more than you can handle right now.</p><p><i>Do you...</i></p><ul><li>Feel like you are giving a lot more than you receive?</li><li>Feel drained by certain interactions?</li><li>Feel chronically ignored, invalidated, or unvalued?</li><li>Feel pressured (whether explicitly or implicitly) to do things you have a core discomfort with?</li></ul><p>If so, you might benefit from clarifying your boundaries and core needs. Most of us don't have the privilege to choose exactly what we want in our lives, but many of us can hope to improve at least some things through communicating boundaries more explicitly. Toxic boundary violation is one thing, but people accidentally stepping on our boundaries because we haven't pointed them out is a different matter.</p><p class='footnote'>Paraphrased from resources in the section on healthy boundaries.</p>"
+		"body": "<p>If you feel bad in your emotions and aren't sure why, it's possible you have overextended your boundaries without realizing it, or neglected your own emotional needs. These influences might not be Bad -- just not what you need or maybe more than you can handle right now.</p><p><i>Do you...</i></p><ul><li>Feel like you are giving a lot more than you receive?</li><li>Feel drained by certain interactions?</li><li>Feel chronically ignored, invalidated, or unvalued?</li><li>Feel pressured (whether explicitly or implicitly) to do things you have a core discomfort with?</li></ul><p>If so, you might benefit from clarifying your boundaries and core needs. Most of us, especially <a href='https://www.thebipocproject.org/' target='_blank'>BIPOCs</a>, don't have the privilege to safely enforce all our boundaries. But most of us can at least improve our close relationships through more explicit boundary communication. Toxic boundary violation is one thing, but it's also surprisingly common for people to accidentally step on our boundaries because they aren't clear about them.</p><p class='footnote'>Paraphrased from resources in the section on healthy boundaries.</p>"
 	},
 	"gift-of-fear": {
 		"title": "The Gift of Fear (Gavin de Becker)",
 		"href": "https://amzn.to/2X1SW9R",
 		"type": "book",
-		"body": "<p>On re-harnessing survival intuition repressed by social norms. Not conducive to PTSD healing, but seems useful for helping you reconnect with your self-preservation instincts if you are particularly susceptible to gaslighting and don't trust yourself.</p><p>I don't unilaterally recommend this read as it encourages a bit of paranoia, trusting snap judgments, and hypervigilance. It's more of a push to help you overcome your mental aversion to GTFO of a genuinely dangerous situation (stalking, abuse, exploitation, threats, very unnerving behavior from someone).</p>"
+		"body": "<p>On re-harnessing survival intuition repressed by social norms. Not conducive to PTSD healing, but seems useful for helping you reconnect with your self-preservation instincts if you are particularly susceptible to gaslighting and don't trust your gut.</p><p>I don't unilaterally recommend this read as it encourages a bit of paranoia, trusting snap judgments, and hypervigilance. It's more of a push to help you overcome your mental aversion to GTFO of a genuinely dangerous situation (stalking, abuse, exploitation, threats, very unnerving behavior from someone).</p>"
 	},
 	"was-it-abuse": {
 		"title": "“But I wasn't abused”",
@@ -256,19 +256,19 @@
 		"title": "Attachment theory",
 		"href": "https://en.wikipedia.org/wiki/Attachment_theory",
 		"type": "vocab",
-		"body": "<div><p>Posits that we all share a common goal of wanting safety from an intimate bond when stressed, but may instinctively react in wildly different ways based on formative emotional experiences, often from our childhood caregivers or lack thereof.</p><p>For example, we may feel unsafe without constant reassurance <i>(anxious tendencies)</i>, or may feel unsafe with intimacy <i>(avoidant tendencies)</i>, or simultaneously seek out and fear closeness <i>(fearful-avoidant / disorganized tendencies)</i>, sometimes with self-destructive effects that undermine the very safety we seek.</p><p>Fortunately, it is possible to change attachment styles. The ultimate goal is being able to both comfortably participate in intimacy and not panic without constant reassurance <i>(secure attachment)</i>.</p></div>"
+		"body": "<div><p>Posits that we all share a common goal of wanting safety from an intimate bond when stressed. But our instinctive ways of seeking safety can be wildly different based on our formative emotional experiences, often from our childhood caregivers or lack thereof.</p><p>For example, we may feel unsafe without constant reassurance <i>(anxious tendencies)</i>, or may feel unsafe with intimacy <i>(avoidant tendencies)</i>, or simultaneously seek out and fear closeness <i>(fearful-avoidant / disorganized tendencies)</i>. This often has self-destructive effects that undermines the very safety we seek.</p><p>Fortunately, it is possible to change attachment styles. The ultimate goal is being comfortable with intimacy, but also not panicking if we don't have constant reassurance <i>(secure attachment)</i>.</p></div>"
 	},
 	"alexithymia": {
 		"title": "Alexithymia",
 		"href": "https://en.wikipedia.org/wiki/Alexithymia",
 		"type": "vocab",
-		"body": "The inability to identify emotions in oneself or others. This can be a general state for some people. But even if you’re usually fine at identifying emotions, it’s not uncommon to enter this state while feeling triggered or overwhelmed."
+		"body": "The inability to identify emotions (in oneself or others). For some people, this can be true all the time. But even if you’re usually fine at identifying emotions, it’s not uncommon to lose the ability if you're feeling triggered or overwhelmed."
 	},
 	"hijacking": {
 		"title": "Emotional hijacking",
 		"href": "https://en.wikipedia.org/wiki/Amygdala_hijack",
 		"type": "vocab",
-		"body": "The amygdala, which is associated with decision-making, emotional responses, and memory processing, sets off threat alerts and makes snap judgments a lot faster than our neocortex can make complex decisions. In other words, there’s a physiological explanation as to why rationalizations might not help us think straight when we're scared, triggered, or angry."
+		"body": "The amygdala is our center of emotional memory and survival alarms. It makes snap judgments a lot faster than our neocortex can make complex decisions. In other words, there’s a physiological explanation as to why rationalizations might not help us think straight when we're scared, triggered, or angry."
 	},
 	"interoception": {
 		"title": "Interoception",
@@ -285,13 +285,13 @@
 		"title": "<i>Consensuality: Navigating Feminism, Gender, and Boundaries Towards Loving Relationships</i> (Helen Wildfell)",
 		"href": "https://microcosmpublishing.com/catalog/books/5285",
 		"type": "book",
-		"body": "<p>Small book of anecdotes and exercises about overcoming dysfunctional boundaries and communicating healthily about consent, conflict, and emotional expression.</p><p class='quote'>Do you feel capable of expressing how you feel on the inside? Do the people close to you try to restrict your expression of how you feel? What are some healthy ways of manifesting and expressing these feelings?</p>"
+		"body": "<p>Anecdotes and exercises about overcoming dysfunctional boundaries and communicating healthily about consent, conflict, and emotional expression.</p><p class='quote'>Do you feel capable of expressing how you feel on the inside? Do the people close to you try to restrict your expression of how you feel? What are some healthy ways of manifesting and expressing these feelings?</p>"
 	},
 	"crabb-ethical-consent": {
 		"title": "<i>Learning Good Consent: Building Ethical Relationships in a Complicated World</i> (Cindy Crabb)",
 		"href": "https://microcosmpublishing.com/catalog/books/2879",
 		"type": "book",
-		"body": "<p>Zine of anecdotes and prompts to help you define your comfort zone, what consent means for you, and how you approach other people's consent.</p><p class='quote'>How might someone express that what is happening is not ok? Do you look only for verbal signs or are there other signs? How do you react if someone becomes uncomfortable with what you're doing, or if they don't want to do something?</p>"
+		"body": "<p>Anecdotes and prompts to help you define your comfort zone, what consent means for you, and how you approach other people's consent.</p><p class='quote'>How might someone express that what is happening is not ok? Do you look only for verbal signs or are there other signs? How do you react if someone becomes uncomfortable with what you're doing, or if they don't want to do something?</p>"
 	},
 	"tnh-love": {
 		"title": "<i>How To Love</i> (Thich Nhat Hanh)",
@@ -312,7 +312,7 @@
 		"href": "https://gum.co/pocketselfcare",
 		"image": "images/pocketselfcare.jpg",
 		"imageAlt": "Photo of a Choose Your Own Adventure Pocket Self-Care Manual.",
-		"body": "<p>It can be frustratingly difficult to remember the basic self care steps, coping mechanisms, and affirmations that help most when I need them most, so I made a pocket self-care manual to help lock those things in.</p><p>Offers prompts that you provide your own answers to, because no one else can tell you what works best for yourself! Wait until you're feeling relatively safe and relaxed to fill it out.</p>"
+		"body": "<p>It can be frustratingly difficult to remember the basic self care steps, coping mechanisms, and affirmations that help most when I need them most, so I made a pocket self-care manual to help lock those things in.</p><p>Offers prompts that you provide your own answers to, because no one else can tell you what works best for yourself! Wait until you're feeling relatively safe to fill it out.</p>"
 	},
 	"complex-trauma-infographics": {
 		"title": "Complex Trauma Healing",
@@ -329,7 +329,7 @@
 	"reassurance-box": {
 		"title": "Reassurance box",
 		"type": "tip",
-		"body": "<p>If you need frequent reassurance to feel safe, and would like to practice self-soothing more, it can be helpful to make an easily accessible box or digital folder full of reassurances that you can go through any time. Some ideas:</p><ul><li>screenshots of deeply reassuring or encouraging messages</li><li>reminders of reassuring things that loved ones have done for you, or times you felt safe</li><li>voice messages or photos from loved ones that make you feel good</li><li>reminders of ways you are safe now</li><li>written-out reasons why you know you can trust your allies</li><li>if worried about unpredictable events, written-out reasons & motivations to appreciate what you have in the present</li></ul>"
+		"body": "<p>If you need frequent reassurance to feel safe, and would like to practice self-soothing more, it can be helpful to make a box or digital folder full of reassurances that you can go through any time. Some ideas:</p><ul><li>screenshots of deeply reassuring or encouraging messages</li><li>reminders of reassuring things that loved ones have done for you, or times you felt safe</li><li>voice messages or photos from loved ones that make you feel good</li><li>reminders of ways you are safe now</li><li>written-out reasons why you know you can trust your allies</li><li>if worried about unpredictable events, written-out reasons & motivations to appreciate what you have in the present</li></ul>"
 	},
 	"whats-therapy-like": {
 		"image": "images/what_happens_in_therapy.jpg",
@@ -342,7 +342,7 @@
 		"href": "https://amzn.to/3e0qhZs",
 		"type": "book",
 		"starred": true,
-		"body": "<p>Incredibly actionable, emotionally affirming, and compassionate guide to mindfully transforming relationship-transition grief and pain into an intentional commitment toward mutual kindness, examining your own unhealthy patterns, and learning how to become your most authentic and loving self. Can be used for navigating ongoing processes, or for healing older breakup scars.</p><p class='footnote'>Caveat: Since fully standing up for your authentic self requires a certain degree of security in your basic survival needs, it's worth noting that some of the self-empowerment framings in this book could potentially feel invalidating if you currently have very little logistical agency, have recently been abused, or are still in an unsafe situation.</p>"
+		"body": "<p>Incredibly actionable, emotionally affirming, and compassionate guide on how to mindfully transform relationship-transition grief and pain into an intentional commitment toward mutual kindness, examining your own unhealthy patterns, and learning how to become your most authentic and loving self. Can be used for navigating ongoing processes, or for healing older breakup scars.</p><p class='footnote'>Caveat: Since fully standing up for your authentic self requires a certain degree of security in your basic survival needs, it's worth noting that some of the self-empowerment framings in this book might feel invalidating if you currently have very little logistical agency, have recently been abused, or are still in an unsafe situation.</p>"
 	},
 	"pubmed-cptsd-efficacy": {
 		"title": "Analysis of the inefficacy of evidence-based treatments for complex trauma",
