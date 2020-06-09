@@ -19,14 +19,14 @@
     "id": "self-help"
   },
   {
-    "title": "I'm triggered",
-    "id": "triggered",
-    "items": ["trigger-protocol", "simple-soothing", "pocketselfcare"]
-  },
-  {
     "title": "I feel bad and don't know why",
     "id": "feeling-bad",
     "items": ["alexithymia", "trigger-check", "was-it-abuse", "self-boundaries"]
+  },
+  {
+    "title": "I'm triggered",
+    "id": "triggered",
+    "items": ["trigger-protocol", "simple-soothing", "grounding-first-aid", "identify-triggers", "pocketselfcare"]
   },
   {
     "title": "I had difficulty in my upbringing or a formative relationship",
@@ -67,7 +67,7 @@
   {
     "title": "Why does my trauma feel so hard to resolve? How can I get unstuck?",
     "id": "science",
-    "items": ["hijacking", "bks", "pubmed-cptsd-efficacy", "somatic-modalities", "emotional-intelligence-goleman", "general-theory-love", "janina-fisher", "maps"]
+    "items": ["hijacking", "bks", "whats-cptsd", "pubmed-cptsd-efficacy", "somatic-modalities", "emotional-intelligence-goleman", "general-theory-love", "janina-fisher", "maps"]
   },
   {
     "title": "Site",
