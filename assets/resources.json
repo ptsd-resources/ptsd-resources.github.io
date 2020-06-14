@@ -53,7 +53,7 @@
 		"href": "https://amzn.to/2xOFc9O",
 		"type": "book",
 		"starred": true,
-		"body": "<p>Extraordinarily actionable handbook for people who grew up with emotional neglect or abuse. Very applied, with lots of exercises and toolboxes. Structured so you can pick and choose the chapters that are relevant to you. Big focus on deprogramming Critic feelings of self-loathing, toxic shame, and perfectionist demands.</p><p>Important takeaways:</p><ul><li>Emotional neglect can have a lasting impact, but isn't given as much attention as overt abuse.</li><li>Neglect includes: if your parents didn't show up for your emotional needs, or were incapacitated in some way.</li><li>It's hard to know what was missing if you never had it.</li></ul><p>If you feel like something is wrong but you haven't sought help because you don't believe your experiences were “traumatic enough” or “other people had it worse”, there is a chapter in this book written specifically for you.</p><p><a href='https://docs.google.com/document/d/1j_SQga22DL9Iix7aXTTdUH79m2ftmmTtczTHW358i8g/edit#' target='_blank'>My abridged cliff notes</a></p>"
+		"body": "<p>Extraordinarily actionable and affirming handbook for people who grew up with emotional neglect or abuse. Very applied, with lots of exercises and toolboxes. Structured so you can pick and choose the chapters that are relevant to you. Big focus on deprogramming Critic feelings of self-loathing, toxic shame, and perfectionist demands.</p><p>Important takeaways:</p><ul><li>Emotional neglect can have a lasting impact, but isn't given as much attention as overt abuse.</li><li>Neglect includes: if your parents didn't show up for your emotional needs, or were incapacitated in some way.</li><li>It's hard to know what was missing if you never had it.</li></ul><p>If you feel like something is wrong but you haven't sought help because you don't believe your experiences were “traumatic enough” or “other people had it worse”, there is a chapter in this book written specifically for you.</p><p><a href='https://docs.google.com/document/d/1j_SQga22DL9Iix7aXTTdUH79m2ftmmTtczTHW358i8g/edit#' target='_blank'>My abridged cliff notes</a></p>"
 	},
 	"bks": {
 		"title": "<i>The Body Keeps The Score</i> (Bessel van der Kolk)",
@@ -107,7 +107,7 @@
 		"title": "Monique Koven's CPTSD podcast",
 		"href": "https://podcasts.apple.com/us/podcast/the-healing-trauma-and-cptsd-podcast/id1444361384",
 		"type": "audio",
-		"body": "Comforting podcast for people with developmental childhood trauma. Advice for holding space for yourself, meeting your missing developmental needs, and finding the right practitioners and the kind of support you need to heal. Great for normalizing big, scary experiences common to childhood trauma survivors, and figuring out what to do about them."
+		"body": "Comforting podcast for people with childhood trauma. Advice for holding space for yourself, meeting your missing developmental needs, and finding the right practitioners and the kind of support you need to heal. Great for normalizing big, scary experiences common to childhood trauma survivors, and figuring out what to do about them."
 	},
 	"go-to-therapy": {
 		"image": "images/gototherapy.png",
@@ -381,6 +381,12 @@
 		"title": "What makes an effective CPTSD treatment plan?",
 		"type": "tip",
 		"body": "<ul><li>Neuroscientifically credible, even if we don't understand the exact healing mechanism.</li><li>Somatically informed. Trauma is stored in the body.</li><li>Holistic. Complex trauma is complex; there is often no pre-existing 'healthy' state to heal back to, and no single magic bullet.</li><li>Relationally informed. CPTSD is partially an attachment disorder.</li></ul><p class='footnote'>Drawn from <a href='https://amzn.to/2xOFc9O' target='_blank'>Surviving To Thriving</a>, and Parts 2 and 5 of <a href='https://amzn.to/2W1Wvw8' target='_blank'>The Body Keeps The Score</a>.</p>"
+	},
+	"cptsd-workbook-schwartz": {
+		"title": "The Complex PTSD Workbook (Arielle Schwartz)",
+		"href": "https://amzn.to/3e0Rw6v",
+		"type": "book",
+		"body": "<p>A workbook to normalize, process, and find the right treatments for childhood trauma/neglect. An excellent, compact tasting course to the many frameworks, concepts, and treatments relevant to childhood trauma. Prompts and exercises to feel out what frameworks stick or feel personally relevant to you.</p><p class='quote'>You are not broken, in need of fixing. Rather, you are deeply hurt, in need of care.</p>"
 	},
 	"fancy-quotes": {
 		"title": "“”"
