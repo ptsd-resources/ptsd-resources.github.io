@@ -10,7 +10,7 @@
   	"betterhelp": {
 		"title": "BetterHelp",
 		"type": "talk",
-		"body": "<p><b>Online counseling platform</b> that supports weekly live sessions, unlimited messaging, and 'groupinars' for a monthly fee. They use a questionnaire to match you with a counselor within a day or two. You can request reassignment, but there are no consults to shop around before you're paired.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>Referral link</a> for a free trial week.</p><p>BetterHelp is most appropriate if you want someone you can drop messages to on your own schedule, and if you don't feel it's important to you to get a sense of someone's conversational style before you start counseling.</p>",
+		"body": "<p><b>Online counseling platform</b> that supports weekly live sessions, unlimited messaging, and 'groupinars' for a monthly fee. They use a questionnaire to match you with a counselor within a day or two. You can request reassignment, but there are no consults to shop around before you're paired.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>Referral link</a> for a free trial week.</p><p>BetterHelp is most appropriate if you want someone you can drop messages to on your own schedule, you don't need a specialist in a particular issue, and you don't feel it's important to you to get a sense of someone's conversational style before you start counseling.</p>",
 		"href": "https://www.betterhelp.com/"
 	},
 	"psychology-today": {
@@ -375,7 +375,7 @@
 	"identify-triggers": {
 		"title": "Learn to identify your trigger signs",
 		"type": "tip",
-		"body": "<p>The most important first step of de-escalation is to learn how to quickly identify when you are triggered, so you can remember to use your tools. It can be hard to recognize the start of your more subtle triggers until they escalate out of control.</p><p>I find it helpful to keep a journal to find early warning signs and common threads. Some questions to ask yourself:</p><ul><li>How does my body feel? Where is the trigger feeling located?</li><li>What are my extreme, all-or-nothing thoughts during this trigger? <i>(“I'm worthless”, “I can never do anything right for them”, etc.)</i></li><li>Do I have ideas what the earliest root cause of this trigger is?</li></ul><p class='footnote'>Informed by <i><a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a></i>, Ch. 8. Highly recommend the entire book if you want to learn more about finding and resolving your trigger sources."
+		"body": "<p>The most important first step is to quickly identify when you are triggered, so you can remember to use your tools. It can be hard to recognize your more subtle triggers until they get out of control.</p><p>I find it helpful to keep a journal to find early warning signs and common threads. Some questions to ask yourself:</p><ul><li>How does my body feel? Where is the trigger feeling located?</li><li>What are my extreme, all-or-nothing thoughts during this trigger? <i>(“I'm worthless”, “I can never do anything right for them”, etc.)</i></li><li>Do I have ideas what the earliest root cause of this trigger is?</li></ul><p class='footnote'>Informed by <i><a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a></i>, Ch. 8. Highly recommend the entire book if you want to learn more about finding and resolving your trigger sources."
 	},
 	"effective-cptsd": {
 		"title": "What makes an effective CPTSD treatment plan?",
@@ -386,7 +386,7 @@
 		"title": "The Complex PTSD Workbook (Arielle Schwartz)",
 		"href": "https://amzn.to/3e0Rw6v",
 		"type": "book",
-		"body": "<p>A workbook to normalize, process, and find the right treatments for childhood trauma/neglect. An excellent, compact tasting course to the many frameworks, concepts, and treatments relevant to childhood trauma. Prompts and exercises to feel out what frameworks stick or feel personally relevant to you.</p><p class='quote'>You are not broken, in need of fixing. Rather, you are deeply hurt, in need of care.</p>"
+		"body": "<p>A workbook to normalize, process, and tackle childhood trauma/neglect. An excellent, compact tasting course to the many frameworks, concepts, and treatments relevant to childhood trauma. Prompts and exercises to feel out what frameworks stick or feel personally relevant to you.</p><p class='quote'>You are not broken, in need of fixing. Rather, you are deeply hurt, in need of care.</p>"
 	},
 	"fancy-quotes": {
 		"title": "“”"
