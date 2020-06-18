@@ -29,7 +29,7 @@
     "items": ["trigger-protocol", "simple-soothing", "grounding-first-aid", "identify-triggers", "pocketselfcare"]
   },
   {
-    "title": "There are things about my childhood that weren't the greatest",
+    "title": "I have hangups about my childhood",
     "id": "childhood",
     "items": ["was-it-abuse", "cptsd-walker", "cptsd-workbook-schwartz", "emotionally-immature-parents", "general-theory-love", "monique-cptsd", "bks", "complex-trauma-infographics", "janina-fisher"]
   },
@@ -40,14 +40,14 @@
     "items": ["bks", "somatic-modalities", "clementine-morrigan", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "andrea-glik", "janina-fisher"]
   },
   {
-    "title": "I want to be able to regulate myself better",
+    "title": "I want to regulate/understand myself better",
     "id": "self-regulate",
-    "items": ["interoception", "tnh-intro", "meditate-yumi", "engineer-mindfulness", "insight-timer-app", "plum-village-app", "nomudnolotus", "tnh-fear"]
+    "items": ["interoception", "tnh-intro", "meditate-yumi", "tiny-god", "engineer-mindfulness", "insight-timer-app", "plum-village-app", "nomudnolotus", "tnh-fear"]
   },
   {
     "title": "I have difficulty trusting others",
     "id": "attachment",
-    "items": ["attachment-theory", "general-theory-love", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "clementine-morrigan", "relational-healing", "cptsd-walker", "hold-me-tight", "love-languages", "reassurance-box", "conscious-uncoupling", "attached-levine"]
+    "items": ["attachment-theory", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "clementine-morrigan", "relational-healing", "cptsd-walker", "hold-me-tight", "love-languages", "reassurance-box", "conscious-uncoupling", "general-theory-love", "attached-levine"]
   },
   {
     "title": "I want to improve at communication",
@@ -55,19 +55,24 @@
     "items": ["nvc", "crucial-conversations"]
   },
   {
-    "title": "I want to develop healthier boundaries",
+    "title": "I want healthier boundaries",
     "id": "boundaries",
     "items": ["boundaries-katherine", "emotionally-immature-parents", "nvc", "silvy-khoucasian", "sit-with-sharon", "clementine-morrigan", "tnh-love"]
   },
   {
     "title": "I'm not always sure what consent means for me",
     "id": "consent",
-    "items": ["crabb-ethical-consent", "wildfell-consensuality", "clementine-morrigan"]
+    "items": ["crabb-ethical-consent", "wildfell-consensuality", "clementine-morrigan", "consent-madlib"]
   },
   {
     "title": "Why does my trauma feel so hard to resolve? How can I get unstuck?",
     "id": "science",
     "items": ["hijacking", "bks", "somatic-modalities", "whats-cptsd", "pubmed-cptsd-efficacy", "effective-cptsd", "cptsd-walker", "emotional-intelligence-goleman", "general-theory-love", "janina-fisher", "maps"]
+  },
+  {
+    "title": "How do I support/understand someone else who's triggered?",
+    "id": "support",
+    "items": ["trigger-support", "heather-tuba", "silvy-khoucasian", "emotional-flashback", "bks"]
   },
   {
     "title": "Site",

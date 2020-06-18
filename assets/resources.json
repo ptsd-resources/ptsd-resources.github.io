@@ -10,7 +10,7 @@
   	"betterhelp": {
 		"title": "BetterHelp",
 		"type": "talk",
-		"body": "<p><b>Online counseling platform</b> that supports weekly live sessions, unlimited messaging, and 'groupinars' for a monthly fee. They use a questionnaire to match you with a counselor within a day or two. You can request reassignment, but there are no consults to shop around before you're paired.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>Referral link</a> for a free trial week.</p><p>BetterHelp is most appropriate if you want someone you can drop messages to on your own schedule, you don't need a specialist in a particular issue, and you don't feel it's important to you to get a sense of someone's conversational style before you start counseling.</p>",
+		"body": "<p><b>Online counseling platform</b> that supports weekly live sessions, unlimited messaging, and 'groupinars' for a monthly fee. They use a questionnaire to match you with a counselor within a day or two. You can request reassignment, but there are no consults to shop around before you're paired.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>Referral link</a> for a free trial week.</p><p>BetterHelp seems most appropriate if you want someone you can drop messages to on your own schedule, you don't need a specialist in a particular area, and you <i>don't</i> feel it's important to you to get a sense of someone's conversational style before you start counseling.</p>",
 		"href": "https://www.betterhelp.com/"
 	},
 	"psychology-today": {
@@ -65,7 +65,7 @@
 		"title": "<i>The Body Keeps The Score</i> (Bessel van der Kolk)",
 		"href": "https://amzn.to/2W1Wvw8",
 		"type": "book",
-		"body": "<p>Foundational overview of PTSD & cPTSD research, the neurobiology of trauma, and how somatic / mind-body integrative treatments can help dislodge stuck trauma.</p><p>My biggest takeaways:</p><ul><li>Since trauma hijacks the body's survival system, even trauma with a completely non-physical origin can benefit hugely from somatic methods.</li><li>Trauma is not stored in the conscious, rational part of the brain. It's <i>fragmented</i> in the emotional brain, and must be accessed and processed in a way that recognizes that.</li></ul></p><p>Research-heavy. May be particularly useful if you don’t understand why your trauma is so difficult to work through, if feel like you've hit a plateau in conventional talk therapy, or if you need to feel validated by research.</p><p>TW: Contains some graphic descriptions of abuse.</p><ul class='footnote'><li>Skip Part 1 if you are already familiar with the experience of having PTSD.</li><li>Part 2 focuses on the neurobiology of PTSD.</li><li>Part 5 focuses on somatic healing methods.</li></ul>"
+		"body": "<p>Foundational overview of PTSD & cPTSD research, the neurobiology of trauma, and how somatic / mind-body integrative treatments can help dislodge stuck trauma.</p><p>My biggest takeaways:</p><ul><li>Since trauma hijacks the body's survival system, even trauma with a completely non-physical origin can benefit hugely from somatic methods.</li><li>Trauma is not stored in the conscious, rational part of the brain. It's <i>fragmented</i> in the emotional brain, and must be accessed and processed in a way that recognizes that.</li></ul></p><p>Research-heavy. May be particularly useful if you don’t understand why your trauma is so difficult to work through, if you want to understand someone else's trauma, if you feel like you've hit a plateau in conventional talk therapy, or if you need to feel validated by research.</p><p>TW: Contains some graphic descriptions of abuse.</p><ul class='footnote'><li>Skip Part 1 if you are already familiar with the experience of having PTSD.</li><li>Part 2 focuses on the neurobiology of PTSD.</li><li>Part 5 focuses on somatic healing methods.</li></ul>"
 	},
 	"general-theory-love": {
 		"title": "<i>A General Theory of Love</i> (Thomas Lewis, Fari Amini)",
@@ -145,7 +145,7 @@
 		"imageAlt": "Some example posts by Silvy Khoucasian on ways to communicate your needs, from attachment theory by John Bowlby and Mary Ainsworth -- if you have strong anxious tendencies or if you have strong dismissive-avoidant tendencies.",
 		"type": "instagram",
 		"starred": true,
-		"body": "Attachment-focused coach/educator. Offers useful bite-sized prompts, tools, and perspective for people with boundary issues or childhood trauma. Also has a podcast, <a href='https://podcasts.apple.com/us/podcast/love-with-integrity/id1456831120?mt=2' target='_blank'>Love With Integrity</a>."
+		"body": "Attachment-focused coach/educator. Offers useful bite-sized prompts, tools, and perspective for people with boundary issues or childhood hangups. Also has a podcast, <a href='https://podcasts.apple.com/us/podcast/love-with-integrity/id1456831120?mt=2' target='_blank'>Love With Integrity</a>."
 	},
 	"liz-listens": {
 		"title": "Liz Listens",
@@ -392,12 +392,34 @@
 		"title": "The Complex PTSD Workbook (Arielle Schwartz)",
 		"href": "https://amzn.to/3e0Rw6v",
 		"type": "book",
-		"body": "<p>A workbook to normalize, process, and tackle childhood trauma/neglect. An excellent, compact tasting course to the many frameworks, concepts, and treatments relevant to childhood trauma. Prompts and exercises to feel out what frameworks stick or feel personally relevant to you.</p><p class='quote'>You are not broken, in need of fixing. Rather, you are deeply hurt, in need of care.</p>"
+		"body": "<p>A workbook to normalize, process, and tackle lingering emotional hangups from childhood. An excellent, compact tasting course to the many frameworks, concepts, and treatments relevant to dysregulation from childhood. Prompts and exercises to feel out what frameworks stick or feel personally relevant to you.</p><p class='quote'>You are not broken, in need of fixing. Rather, you are deeply hurt, in need of care.</p>"
 	},
 	"relational-healing": {
 		"title": "If you have difficulty trusting humans at all",
 		"type": "tip",
 		"body": "<p>Some ways to relationally heal without direct human contact:</p><ul><li>Nature, plants</li><li>Pets or volunteering with animals</li><li>Reading validating self-help books or cathartic fiction</li><li>Movement arts to improve your relationship with your body</li></ul><p>Slowly easing into human relational healing:</p><ul><li>Receiving unconditional positive regard from a therapist</li><li>Support groups (in person or <a href='https://www.reddit.com/r/CPTSD/' target='_blank'>online</a>)</li></ul>"
+	},
+	"heather-tuba": {
+		"title": "Heather Tuba",
+		"type": "instagram",
+		"href": "https://www.instagram.com/heathertuba/",
+		"body": "Tips for partners/supporters of people with CPTSD."
+	},
+	"trigger-support": {
+		"title": "Helping with emotional first-aid",
+		"type": "tip",
+		"body": "<p>It's really difficult to communicate effectively when triggered. Depending how much internal work the person has done, it might be emotionally difficult for them to say what they need or what's happening to them, and sometimes no amount of verbal reassurance can help. You can help someone you care about by:</p><ul><li>Learning to recognize their trigger signs</li><li>Learning what's happening to them (what do they fear? are they frozen? numb? self-blaming? angry? do they need more space, or do they need to not be alone?)</li><li>Knowing what helps them de-escalate (deep breathing, a hug, quiet, music, etc.)</li><li><a href='http://pete-walker.com/lovinglyResolvingConflict.htm' target='_blank'>Taking time-outs</a></li><li>Supporting them in seeking therapy or other external support</li></ul><p>(Make sure you aren't neglecting your own needs, especially if you're also triggered.)</p>"
+	},
+	"tiny-god": {
+		"title": "Tiny God",
+		"href": "https://zwgarth.itch.io/tiny-god",
+		"body": "An adorable, business-card-sized set of prompts for imagining a tiny, mindful witness who follows you around and is very interested in all your feelings and what you have to say."
+	},
+	"consent-madlib": {
+		"title": "Consent Madlib",
+		"href": "https://www.redbubble.com/i/poster/Consent-Madlib-by-skollipsism/35148568.LVTDI",
+		"image": "images/consent_madlib.jpg",
+		"body": "The yes-no threshold can be in very different places for people with healthy boundaries vs. people who have been conditioned by fear, guilt, or shame. A simple visual guide I made to help untangle different levels of wantingness."
 	},
 	"fancy-quotes": {
 		"title": "“”"
