@@ -421,6 +421,17 @@
 		"image": "images/consent_madlib.jpg",
 		"body": "The yes-no threshold can be in very different places for people with healthy boundaries vs. people who have been conditioned by fear, guilt, or shame. A simple visual guide I made to help untangle different levels of wantingness."
 	},
+	"walker-conflict-resolution": {
+		"title": "Tips for lovingly resolving conflict",
+		"type": "tip",
+		"href": "http://pete-walker.com/lovinglyResolvingConflict.htm",
+		"body": "Pete Walker's tips for lovingly normalizing and resolving interpersonal conflict, including tips on how to use time-outs, helping both people get their feelings heard, staying self-aware, and taking responsibility."
+	},
+	"self-education": {
+		"title": "Self-education & self-awareness",
+		"type": "tip",
+		"body": "<p>Other people can't possibly know about your underlying feelings and wants if you don't clearly communicate them, and you can't communicate your feelings and wants to others if you don't understand yourself well in the first place.</p><p>Understanding and acknowledging your emotional baggage and how it affects you is the first step in improving your communication.</p>"
+	},
 	"fancy-quotes": {
 		"title": "“”"
 	}
