@@ -408,7 +408,7 @@
 	"trigger-support": {
 		"title": "Helping with emotional first-aid",
 		"type": "tip",
-		"body": "<p>It's really difficult to communicate effectively when triggered. Depending how much internal work the person has done, it might be emotionally difficult for them to say what they need or what's happening to them, and sometimes no amount of verbal reassurance can help. You can help someone you care about by:</p><ul><li>Learning to recognize their trigger signs</li><li>Learning what's happening to them (what do they fear? are they frozen? numb? self-blaming? angry? do they need more space, or do they need to not be alone?)</li><li>Knowing what helps them de-escalate (deep breathing, a hug, quiet, music, etc.)</li><li><a href='http://pete-walker.com/lovinglyResolvingConflict.htm' target='_blank'>Taking time-outs</a></li><li>Supporting them in seeking therapy or other external support</li></ul><p>(Make sure you aren't neglecting your own needs, especially if you're also triggered.)</p>"
+		"body": "<p>It's really difficult to communicate effectively when triggered. Depending how much internal work the person has done, it might be emotionally difficult for them to say what they need or what's happening to them, and sometimes no amount of verbal reassurance can help. You can help someone you care about by:</p><ul><li>Learning to recognize their trigger signs</li><li>Learning what's happening to them (what do they fear? are they frozen? numb? self-blaming? angry? do they need more space, or do they need to not be alone?)</li><li>Knowing what helps them de-escalate (deep breathing, a hug, quiet, music, etc.)</li><li><a href='http://pete-walker.com/lovinglyResolvingConflict.htm' target='_blank'>Taking time-outs</a></li><li>Being present and deeply listening to their pain</li><li>Supporting them in seeking therapy or other external support</li></ul><p>(Make sure you aren't neglecting your own needs, especially if you're also triggered.)</p>"
 	},
 	"tiny-god": {
 		"title": "Tiny God",
@@ -431,6 +431,16 @@
 		"title": "Self-education & self-awareness",
 		"type": "tip",
 		"body": "<p>Other people can't possibly know about your underlying feelings and wants if you don't clearly communicate them, and you can't communicate your feelings and wants to others if you don't understand yourself well in the first place.</p><p>Understanding and acknowledging your emotional baggage and how it affects you is the first step in improving your communication.</p>"
+	},
+	"samaran-shame": {
+		"title": "Connection in Practice: Tricks of Shame & Hope | Nora Samaran",
+		"href": "https://norasamaran.com/2016/07/30/cognitive-distortions/",
+		"body": "Article on deprogramming shame, guilt, and feelings of inadequacy. These prevent us from authentically connecting, and from recognizing the ways people show us that they value us."
+	},
+	"samaran-autonomy": {
+		"title": "For Men Who Desperately Want Autonomy | Nora Samaran",
+		"href": "https://norasamaran.com/2016/07/21/for-men-who-desperately-need-autonomy-make-it-dont-take-it/",
+		"body": "An article on balancing autonomy and intimacy for masculine-identified people in relationships. By being generally emotionally reliable, you can safely receive both intimacy and autonomy."
 	},
 	"fancy-quotes": {
 		"title": "“”"
