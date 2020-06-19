@@ -36,13 +36,13 @@
   {
     "title": "I have hangups about my childhood",
     "id": "childhood",
-    "items": ["was-it-abuse", "cptsd-walker", "cptsd-workbook-schwartz", "emotionally-immature-parents", "general-theory-love", "monique-cptsd", "bks", "complex-trauma-infographics", "janina-fisher"]
+    "items": ["was-it-abuse", "cptsd-walker", "cptsd-workbook-schwartz", "emotionally-immature-parents", "reparenting", "healing-aloneness", "monique-cptsd", "complex-trauma-infographics", "general-theory-love", "janina-fisher"]
   },
   {
     "title": "My body is sometimes a scary or confusing place to be",
     "id": "somatic",
     "subtitle": "If so, you might benefit from somatically-informed treatment modalities.",
-    "items": ["bks", "somatic-modalities", "clementine-morrigan", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "andrea-glik", "janina-fisher"]
+    "items": ["bks", "somatic-modalities", "clementine-morrigan", "andrea-glik", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "janina-fisher"]
   },
   {
     "title": "I have difficulty with shame",
@@ -50,14 +50,14 @@
     "items": ["samaran-shame", "cptsd-walker", "cptsd-workbook-schwartz"]
   },
   {
-    "title": "I have difficulty trusting others",
+    "title": "I have difficulty trusting or being vulnerable",
     "id": "attachment",
     "items": ["attachment-theory", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "clementine-morrigan", "relational-healing", "cptsd-walker", "hold-me-tight", "love-languages", "reassurance-box", "conscious-uncoupling", "general-theory-love", "samaran-autonomy", "attached-levine"]
   },
   {
     "title": "I want to improve at communication",
     "id": "communication",
-    "items": ["walker-conflict-resolution", "nvc", "crucial-conversations", "self-education"]
+    "items": ["walker-conflict-resolution", "self-education", "nvc", "crucial-conversations"]
   },
   {
     "title": "I want healthier boundaries",
