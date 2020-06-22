@@ -460,6 +460,12 @@
 		"type": "video",
 		"body": "<p>A 20 minute TEDx talk on toxic shame, connection, and vulnerability.</p><p class='footnote'>This talk is a good overview of personal characteristics that enable connection, but doesn't talk about how to practice and gain those capabilities. If you want an applied guide to undoing toxic shame in yourself and learning how to connect more deeply, try <a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a>.</p>"
 	},
+	"stimulus-discrimination": {
+		"title": "Stimulus discrimination",
+		"type": "vocab",
+		"href": "https://www.instagram.com/p/CBsujQfHNEG/",
+		"body": "The ability to discriminate between a trigger and a situation that is actually dangerous."
+	},
 	"fancy-quotes": {
 		"title": "“”"
 	}
