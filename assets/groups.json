@@ -57,7 +57,7 @@
   {
     "title": "I want to improve at communication",
     "id": "communication",
-    "items": ["walker-conflict-resolution", "self-education", "nvc", "crucial-conversations"]
+    "items": ["self-education", "walker-conflict-resolution", "nvc", "crucial-conversations"]
   },
   {
     "title": "I want healthier boundaries",
@@ -70,9 +70,9 @@
     "items": ["crabb-ethical-consent", "wildfell-consensuality", "clementine-morrigan", "consent-madlib"]
   },
   {
-    "title": "Why does my trauma feel so hard to resolve? How can I get unstuck?",
+    "title": "I feel stuck in my healing, or believe that things will never get better",
     "id": "science",
-    "items": ["hijacking", "bks", "somatic-modalities", "whats-cptsd", "pubmed-cptsd-efficacy", "effective-cptsd", "cptsd-walker", "emotional-intelligence-goleman", "general-theory-love", "janina-fisher", "maps"]
+    "items": ["hijacking", "bks", "somatic-modalities", "whats-cptsd", "effective-cptsd", "pubmed-cptsd-efficacy", "cptsd-walker", "maps", "emotional-intelligence-goleman", "general-theory-love", "janina-fisher"]
   },
   {
     "title": "I want to be more mindful",
