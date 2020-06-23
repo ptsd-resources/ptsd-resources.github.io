@@ -12,7 +12,7 @@
   {
     "title": "Finding a therapist",
     "id": "therapy",
-    "items": ["go-to-therapy", "therapy-den-guide", "psychology-today", "open-path-collective", "betterhelp", "glik-therapy-modalities", "whats-therapy-like", "tonitalks", "elleanderson"]
+    "items": ["go-to-therapy", "therapy-den-guide", "therapist-consult-setup", "psychology-today", "open-path-collective", "betterhelp", "glik-therapy-modalities", "whats-therapy-like", "tonitalks", "elleanderson"]
   },
   {
     "title": "Self-help resources",

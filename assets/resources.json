@@ -466,6 +466,11 @@
 		"href": "https://www.instagram.com/p/CBsujQfHNEG/",
 		"body": "The ability to discriminate between a trigger and a situation that is actually dangerous."
 	},
+	"therapist-consult-setup": {
+		"title": "Asking for a consultation",
+		"type": "tip",
+		"body": "<p>Contacting therapists for the first time may feel intimidating, but you can make it easier by writing one email and sending it to everyone you'd like to consult with. Some things to bring up in your email:</p><ul><li>Preliminary logistical questions: insurance, price range, whether they offer videochat sessions, etc.</li><li>Primary issues you want to work on (grief, trauma, triggers, relationship issues, depression, a specific issue in your life, etc).</li><li>If you don't know, it's valid to simply say <i>“I need help figuring out what I need help with”</i>.</li><li>Things you may require in order to be fully comfortable (LGBTQ-affirming? experience working with BIPoCs?)</li></ul>"
+	},
 	"fancy-quotes": {
 		"title": "“”"
 	}
