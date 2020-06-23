@@ -30,12 +30,13 @@
 		"title": "Beginner's Guide To Therapy | TherapyDen",
 		"href": "https://www.therapyden.com/blog/a-beginners-guide-to-therapy-how-to-find-a-therapist",
 		"starred": true,
+		"type": "article",
 		"body": "<p>Affirming guide on figuring out what kind of therapist would be a good match for you, what to ask them and yourself during a consultation, what to expect, how to tell if the therapy is working for you, and more. Some tips for getting started:</p><ul><li>You can use a free consult to ask for therapist matchmaking help! Even if someone isn't a great fit, they can refer you to someone whom they think would be a better fit for you.</li><li>Set up consults with at least three therapists before settling. The experience of speaking with someone can't be captured in their written profile.</li><li>What kind of <i>person</i> would you personally feel most comfortable opening up to? Someone warm and nurturing? Action-oriented? A source of tough love? Serious? Humorous? It's okay to be picky.</li><li>Most importantly, do you feel affirmed, heard, understood, and safe with this person when you talk about your experiences and concerns? Could you develop a vulnerable rapport with them?</li></ul>"
 	},
 	"trigger-protocol": {
 		"title": "13 Steps For Dealing With Emotional Flashbacks | Pete Walker",
 		"href": "http://pete-walker.com/13StepsManageFlashbacks.htm",
-		"type": "tip",
+		"type": "article",
 		"body": "The steps I personally start with: <ol><li>Recognize it is happening. Say, <i>“I am having a flashback.”</i></li><li>Take slow, deep breaths.</li><li>Remind yourself, <i>“I feel afraid but I am not in danger! I am safe in the present.”</i></li><li>Identify the pattern. By noticing that the same old pattern is subtly happening again, I can better recognize what parts of it are not based in reality.</li></ol>"
 	},
 	"glik-therapy-modalities": {
@@ -52,6 +53,7 @@
 	},
 	"trigger-check": {
 		"title": "Are you triggered or flashbacked?",
+		"type": "tip",
 		"body": "<p><i>Do you...</i><ul><li>Feel overwhelmed by fear, shame, or confusion</li><li>Feel small, fragile, helpless, terrified</li><li>Feel frozen, shut down, unable to make sense of things, dissociated, emotionally numb</li><li>Feel enraged, critical of others, judgmental, perceive ulterior motives</li><li>Feel worthless, broken, self-loathing, self-disgust, self-hatred</li><li>Suddenly distrust your proven allies</li><li>Feel an evaporation of your usual self-esteem</li><li>Feel an overwhelming fear of catastrophe in response to a relatively mundane or innocuous situation</li><li>Have all-or-nothing thoughts. <i>“People always leave”, “I can never get anything right”, etc.</i></li></ul></p><p>Any of these may indicate you are having an <a href='https://www.psychotherapy.net/article/complex-ptsd' target='_blank'>implicit flashback</a>.</p><p class='footnote'>Paraphrased from <i><a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a></i>, Ch. 8. If this feels relatable, you may benefit from relational resources. See the sections on <a href='#childhood' target='_blank'>childhood</a> and <a href='#attachment' target='_blank'>trust</a>. If you're not sure where your triggers might stem from, you may benefit from therapy, and possibly <i><a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a></i>, Ch. 5."
 	},
 	"cptsd-walker": {
@@ -188,6 +190,7 @@
 	"tnh-intro": {
 		"title": "Intro to mindfulness practice by Thich Nhat Hanh",
 		"href": "https://plumvillage.org/mindfulness-practice/",
+		"type": "article",
 		"body": "Thich Nhat Hanh is a Buddhist monk, community leader, civilian war survivor, and extremely compassionate writer whose teachings I often find to be a gentler way of addressing inner hurts and relaxing the brain than the more direct therapy approach."
 	},
 	"meditate-yumi": {
@@ -319,6 +322,7 @@
 		"href": "https://gum.co/pocketselfcare",
 		"image": "images/pocketselfcare.jpg",
 		"imageAlt": "Photo of a Choose Your Own Adventure Pocket Self-Care Manual.",
+		"type": "tip",
 		"body": "<p>It can be frustratingly difficult to remember the basic self care steps, coping mechanisms, and affirmations that help most when I need them most, so I made a pocket self-care manual to help lock those things in.</p><p>Offers prompts that you provide your own answers to, because no one else can tell you what works best for yourself! Wait until you're feeling relatively safe to fill it out.</p>"
 	},
 	"complex-trauma-infographics": {
@@ -326,6 +330,7 @@
 		"href": "https://complextraumahealing.wordpress.com/",
 		"image": "images/4f-trauma.jpg",
 		"imageAlt": "Chart of the 4F personality types (Fight, Flight, Freeze, Fawn).",
+		"type": "info",
 		"body": "A blog of infographics summarizing dense information from key complex trauma resources."
 	},
 	"love-languages": {
@@ -355,6 +360,7 @@
 	"pubmed-cptsd-efficacy": {
 		"title": "Analysis of the inefficacy of evidence-based treatments for complex trauma",
 		"href": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4478904/",
+		"type": "article",
 		"body": "<p>A PubMed validation for anyone who feels bad that they still have trauma and their progress has plateaued with “established” trauma treatment methodologies. Many expert-sanctioned approaches to complex trauma are “alternative”, because effective complex trauma treatments are intrinsically only partially compatible with scientific rigor.</p><p><i>Why?</i></p><ul><li>Complex trauma has many comorbidities. Comorbidities must be minimized to increase rigor, i.e. the certainty that the treatment is the sole cause of our observed results. As a result, complex trauma is underrepresented in studies.</li><li>Non-complex trauma receives more study funding because it is more economical to resolve, and has fewer comorbidities.</li><li>It is literally not possible to fully <a href='https://en.wikipedia.org/wiki/Blinded_experiment' target='_blank'>blind</a> a study that involves using personalized psychotherapy as a treatment.</li></ul><p class='footnote'>Choice excerpts from the article:</p><ul class='footnote'><li>Complex presentations are often excluded from studies because they do not fit neatly into the simple nosological categorisations required for research power. This means that the most severe disorders are not studied adequately and patients most affected by early trauma are often not recognised by services.</li><li>If research funding is not readily accessible for complex and prolonged interventions that are clinically applied in the phase-based treatment of complex PTSD, it is easy to arrive at the false conclusion that a lack of evidence for a particular therapy indicates that it is not effective.</li><li><b>Women were also excluded from the study if they were in a relationship with an abusive partner, a situation unfortunately all too common in this clinical population.</b></li><li>The lack of evidence is not an indicator that particular approaches do not work – only that they have not been rigorously tested. Testing procedures understandably but unhelpfully prefer simple, measurable attributes for economy of scale.</li></ul>"
 	},
 	"maps": {
@@ -436,11 +442,13 @@
 	"samaran-shame": {
 		"title": "Connection in Practice: Tricks of Shame & Hope | Nora Samaran",
 		"href": "https://norasamaran.com/2016/07/30/cognitive-distortions/",
+		"type": "article",
 		"body": "Article on deprogramming shame, guilt, and feelings of inadequacy. These prevent us from authentically connecting, and from recognizing the ways people show us that they value us."
 	},
 	"samaran-autonomy": {
 		"title": "For Men Who Desperately Want Autonomy | Nora Samaran",
 		"href": "https://norasamaran.com/2016/07/21/for-men-who-desperately-need-autonomy-make-it-dont-take-it/",
+		"type": "article",
 		"body": "An article on balancing autonomy and intimacy for masculine-identified people in relationships. By being generally emotionally reliable, you can safely receive both intimacy and autonomy."
 	},
 	"reparenting": {
