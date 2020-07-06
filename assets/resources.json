@@ -1,16 +1,16 @@
 {
   	"911": {
-  		"title": "In the case of an active emergency, call 911."
+  		"title": "In the case of a medical emergency or physical threat that will be clearly provable to law enforcement, call 911."
   	},
   	"crisis-hotlines": {
-  		"title": "Crisis hotlines",
+  		"title": "Hotlines",
   		"type": "talk",
-  		"body": "<p>If you are still in an actively traumatic situation, then PTSD is actually adaptive rather than maladaptive, and it's probably more pressing to work on exiting the situation or gathering resources and allies to increase your safety.</p><ul><li><a href='https://www.thehotline.org/'>National Domestic Abuse Hotline</a></li><li><a href='https://humantraffickinghotline.org/'>National Trafficking Hotline</a></li><li><a href='http://crisislink.org/crisislinks-text-hotline'>Crisis Link Hotline</a></li><li><a href='https://www.rainn.org/'>RAINN</a></li><li><a href='https://www.nilc.org/'>National Immigration Law Center</a></li></ul>"
+  		"body": "<p>If you are still in an actively traumatic situation, then PTSD is actually adaptive rather than maladaptive, and it's probably more pressing to work on exiting the situation or gathering resources and allies to increase your safety.</p><ul><li><a href='https://www.thehotline.org/'>National Domestic Abuse Hotline</a></li><li><a href='https://humantraffickinghotline.org/'>National Trafficking Hotline</a></li><li><a href='http://crisislink.org/crisislinks-text-hotline'>Crisis Link Hotline</a></li><li><a href='https://www.rainn.org/'>RAINN</a></li><li><a href='https://www.nilc.org/'>National Immigration Law Center</a></li></ul><p>A hotline is probably a better bet than 911 if you're being abused in a way that's difficult to physically prove to others, emotionally or financially controlled, or afraid of followup retaliation by your abuser.</p>"
   	},
   	"betterhelp": {
 		"title": "BetterHelp",
 		"type": "talk",
-		"body": "<p><b>Online counseling platform</b> that supports weekly live sessions, unlimited messaging, and 'groupinars' for a monthly fee. They use a questionnaire to match you with a counselor within a day or two. You can request reassignment, but there are no consults to shop around before you're paired.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>Referral link</a> for a free trial week.</p><p>BetterHelp seems most appropriate if you want someone you can drop messages to on your own schedule, you don't need a specialist in a particular area, and you <i>don't</i> feel it's important to you to get a sense of someone's conversational style before you start counseling.</p>",
+		"body": "<p><b>Online counseling platform</b> that supports weekly live sessions, unlimited messaging, and 'groupinars' for a monthly fee. They use a questionnaire to match you with a counselor within a day or two. You can request reassignment, but there are no consults to shop around before you're paired.</p><p>$70/week, billed by the month. Need-based sliding scale down to $40/week. <a href='https://www.betterhelp.com/rpc/cd0e69c0557b3d9b01'>Referral link</a> for a free trial week.</p><p>BetterHelp seems most appropriate if you want someone you can drop messages to on your own schedule, you <i>don't</i> need a specialist in a particular area, and you <i>don't</i> feel it's important to you to get a sense of someone's conversational style before you start counseling.</p>",
 		"href": "https://www.betterhelp.com/"
 	},
 	"psychology-today": {
@@ -61,7 +61,7 @@
 		"href": "https://amzn.to/2xOFc9O",
 		"type": "book",
 		"starred": true,
-		"body": "<p>Extraordinarily actionable and affirming handbook for people who grew up with emotional neglect, repression, or abuse. Very applied, with lots of exercises and toolboxes. Structured so you can pick and choose the chapters that are relevant to you. Big focus on deprogramming Critic feelings of self-loathing, toxic shame, and perfectionist demands.</p><p>Important takeaways:</p><ul><li>Emotional neglect can have a lasting impact, but isn't given as much attention as overt abuse.</li><li>Neglect includes: if your parents didn't show up for your emotional needs, or were incapacitated in some way.</li><li>It's hard to know what was missing if you never had it.</li></ul><p>If you feel like something is wrong but you haven't sought help because you don't believe your experiences were “traumatic enough” or “other people had it worse”, there is a chapter in this book written specifically for you.</p><p class='footnote'><a href='https://docs.google.com/document/d/1j_SQga22DL9Iix7aXTTdUH79m2ftmmTtczTHW358i8g/edit#' target='_blank'>My abridged 5-page summary</a> to try to convince anyone who's debating committing to this book.</p>"
+		"body": "<p>Extraordinarily actionable, affirming, layperson-oriented handbook for people who grew up with emotional neglect, repression, or abuse. Very applied, with lots of exercises and toolboxes. Structured so you can pick and choose the chapters that are relevant to you. Big focus on deprogramming Critic feelings of self-loathing, toxic shame, and perfectionist demands.</p><p>Important takeaways:</p><ul><li>Emotional neglect can have a lasting impact, but isn't given as much attention as overt abuse.</li><li>Neglect includes: if your parents didn't show up for your emotional needs, or were incapacitated in some way.</li><li>It's hard to know what was missing if you never had it.</li></ul><p>If you feel like something is wrong but you haven't sought help because you don't believe your experiences were “traumatic enough” or “other people had it worse”, there is a chapter in this book written specifically for you.</p><p>Written specifically for people who experienced dysfunctional parenting, but the tools in it are widely applicable to other issues.</p><p class='footnote'><a href='https://docs.google.com/document/d/1j_SQga22DL9Iix7aXTTdUH79m2ftmmTtczTHW358i8g/edit#' target='_blank'>My abridged 5-page summary</a> to try to convince anyone who's not sure about committing to this book. The cover unfortunately looks like a textbook, which is misleading. This is one of the most actionable self-help books I have ever read.</p>"
 	},
 	"bks": {
 		"title": "<i>The Body Keeps The Score</i> (Bessel van der Kolk)",
@@ -245,7 +245,7 @@
 	},
 	"self-boundaries": {
 		"title": "How are your boundaries?",
-		"body": "<p>If you feel bad in your emotions and aren't sure why, it's possible you have overextended your boundaries without realizing it, or neglected your own emotional needs. These influences might not be Bad -- just not what you need or maybe more than you can handle right now.</p><p><i>Do you...</i></p><ul><li>Feel like you are giving a lot more than you receive?</li><li>Feel drained by certain interactions?</li><li>Feel chronically ignored, invalidated, or unvalued?</li><li>Feel pressured (whether explicitly or implicitly) to do things you have a core discomfort with?</li></ul><p>If so, you might benefit from clarifying your boundaries and core needs. Most of us, especially <a href='https://www.thebipocproject.org/' target='_blank'>BIPOCs</a>, don't have the privilege to safely enforce all our boundaries. But most of us can at least improve our close relationships through more explicit boundary communication. Toxic boundary violation is one thing, but it's also surprisingly common for others to accidentally step on our boundaries because we don't even know what our own boundaries are.</p><p class='footnote'>Paraphrased from resources in the section on healthy boundaries.</p>"
+		"body": "<p>If you feel bad in your emotions and aren't sure why, it's possible you have overextended your boundaries without realizing it, or neglected your own emotional needs. These influences might not be Bad -- just not what you need or maybe more than you can handle right now.</p><p><i>Do you...</i></p><ul><li>Feel like you are giving a lot more than you receive?</li><li>Feel drained by certain interactions?</li><li>Feel chronically ignored, invalidated, or unvalued?</li><li>Feel pressured (whether explicitly or implicitly) to do things you have a core discomfort with?</li></ul><p>If so, you might benefit from clarifying your boundaries and core needs. Most of us, especially <a href='https://www.thebipocproject.org/' target='_blank'>BIPOCs</a>, don't have the privilege to safely enforce all our boundaries. But most of us can at least improve our close relationships through more explicit boundary communication. Toxic boundary violation is one thing, but it's also surprisingly common for others to accidentally step on our boundaries because we don't even know what our own boundaries are.</p><p class='footnote'>Paraphrased from resources in the section on healthy boundaries. If this feels relatable, you may also benefit from the section on feeling confused or resentful.</p>"
 	},
 	"gift-of-fear": {
 		"title": "The Gift of Fear (Gavin de Becker)",
@@ -371,7 +371,7 @@
 	"reddit-crisis": {
 		"title": "r/CPTSD crisis resources",
 		"href": "https://old.reddit.com/r/CPTSD/wiki/index#wiki_crisis_support_resources",
-		"body": "Extensive community-organized collection of crisis, support, and emotional first-aid resources."
+		"body": "Extensive community-organized collection of resources for crisis support and emotional first-aid."
 	},
 	"whats-cptsd": {
 		"title": "CPTSD / Complex PTSD",
@@ -399,7 +399,7 @@
 		"title": "The Complex PTSD Workbook (Arielle Schwartz)",
 		"href": "https://amzn.to/3e0Rw6v",
 		"type": "book",
-		"body": "<p>A workbook to normalize, process, and tackle lingering emotional hangups from childhood. A compact tasting course to the many frameworks, concepts, and treatments relevant to childhood dysregulation. Prompts and exercises to feel out what frameworks stick or feel personally relevant to you.</p><p class='quote'>You are not broken, in need of fixing. Rather, you are deeply hurt, in need of care.</p>"
+		"body": "<p>A workbook to normalize, process, and tackle lingering emotional hangups from childhood. A compact tasting course to the many frameworks, concepts, terms, and treatments relevant to childhood dysregulation. Prompts and exercises to feel out what frameworks stick or feel personally relevant to you.</p><p class='quote'>You are not broken, in need of fixing. Rather, you are deeply hurt, in need of care.</p>"
 	},
 	"relational-healing": {
 		"title": "If you have difficulty trusting humans at all",
@@ -413,9 +413,9 @@
 		"body": "Tips for partners/supporters of people with CPTSD."
 	},
 	"trigger-support": {
-		"title": "Helping with emotional first-aid",
+		"title": "Offering emotional first-aid",
 		"type": "tip",
-		"body": "<p>It's really difficult to communicate effectively when triggered. Depending how much internal work the person has done, it might be emotionally or even physically difficult for them to say what they need, and sometimes no amount of verbal reassurance can help. You can help someone you care about by:</p><ul><li>Learning to recognize their trigger signs</li><li>Learning what's happening to them (what do they fear? are they frozen? numb? self-blaming? angry? do they need more space, or more attention?)</li><li>Knowing what helps them de-escalate (deep breathing, a hug, quiet, music, etc.)</li><li><a href='http://pete-walker.com/lovinglyResolvingConflict.htm' target='_blank'>Taking time-outs</a></li><li>Being present and deeply listening to their pain</li><li>Supporting them in seeking therapy or other external support</li></ul><p>(Make sure you aren't neglecting your own needs, especially if you're also triggered.)</p>"
+		"body": "<p>It's really difficult to communicate effectively when triggered. Depending how much internal work someone has done, it might be emotionally or even physically difficult for them to say what they need, and sometimes no amount of reassurance can help. You can help someone you care about by:</p><ul><li>Learning to recognize their trigger signs</li><li>Learning what's happening to them (what do they fear? are they frozen? numb? self-blaming? angry? do they need more space, or more attention?)</li><li>Knowing what helps them de-escalate (deep breathing, a hug, quiet, music, etc.)</li><li><a href='http://pete-walker.com/lovinglyResolvingConflict.htm' target='_blank'>Taking time-outs</a></li><li>Being present and deeply listening to their pain</li><li>Supporting them in seeking therapy or other external support</li><li>Communicating and setting clearly defined boundaries if you aren't able to be present for them</li></ul><p>(Make sure you aren't neglecting your own needs, especially if you're triggered or have codependent tendencies. Caring for others is often helpful, but can enable dysfunctions if taken to an extreme.)</p>"
 	},
 	"tiny-god": {
 		"title": "Tiny God",
@@ -454,7 +454,7 @@
 	"reparenting": {
 		"title": "“Reparenting the Inner Child”",
 		"type": "vocab",
-		"body": "<p>The process of discovering your unmet developmental needs, where healthy behavior was never properly modeled for you, and learning how to meet those needs for yourself. If you never had something growing up, it's hard to know what's missing.</p><p>If we grew up with core beliefs that we were defective, unlovable, worthless, undeserving, or incapable, we may feel broken inside, treat ourselves badly, and crave things that temporarily fill the void. As long as we haven't addressed the core issues, we will not truly feel better inside, even if we treat specific addictions.</p><p>By reparenting, you gain self-respect, self-awareness, personal responsibility, internal security, and confidence to take care of your feelings and needs. You realize that you are the only person who can healthily be present for yourself 100% of the time.</p><p class='footnote'>For a great framework for processing your needs, see <a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a>.<br/>For reparenting scripts & troubleshooting help, check out <a href='https://amzn.to/2UXW0Dz' target='_blank'>Healing Your Aloneness</a>.</p>"
+		"body": "<p>The process of discovering your unmet developmental needs, where healthy behavior was never properly modeled for you, and learning how to meet those needs for yourself. If you never had something growing up, it's hard to know what's missing.</p><p>If we grew up with core beliefs that we were defective, unlovable, worthless, undeserving, or incapable, we may feel broken inside, treat ourselves badly, and become unhealthily addicted to things that temporarily fill the void, such as approval or attention. As long as we haven't addressed the core issues, we will not truly feel better inside.</p><p>By reparenting, you gain self-respect, self-awareness, personal responsibility, internal security, and confidence to take care of your feelings and needs. You realize that you are the only person who can healthily be present for yourself 100% of the time.</p><p class='footnote'>For a great framework for processing your needs, see <a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a>.<br/>For reparenting scripts & troubleshooting help, check out <a href='https://amzn.to/2UXW0Dz' target='_blank'>Healing Your Aloneness</a>.</p>"
 	},
 	"healing-aloneness": {
 		"title": "<i>Healing Your Aloneness</i> (Margaret Paul)",
@@ -477,29 +477,29 @@
 	"therapist-consult-setup": {
 		"title": "Asking for a consultation",
 		"type": "tip",
-		"body": "<p>Contacting therapists for the first time may feel intimidating, but you can make it easier by writing one email and sending it to everyone you'd like to consult with. Some things to bring up in your email:</p><ul><li>Primary issues you want to work on (grief, trauma, triggers, relationship issues, depression, a specific issue in your life, etc).</li><li>If you don't know, it's valid to simply say <i>“I need help figuring out what I need help with”</i>.</li><li>Things you may require in order to be fully comfortable (LGBTQ-affirming? experience working with BIPoCs?)</li></ul>"
+		"body": "<p>Contacting therapists for the first time may feel intimidating, but it's okay to just write one email about yourself and send it to everyone you'd like to consult with. Some things to mention:</p><ul><li>Primary issues you want to work on (grief, trauma, triggers, relationship issues, depression, a specific issue in your life, etc).</li><li>If you don't know, it's valid to simply say <i>“I feel ____ and don't know why, can you help me figure out a direction?”</i></li><li>Things you may require in order to be fully comfortable (LGBTQ-affirming? experience working with your cultural background?)</li></ul>"
 	},
 	"therapist-cost": {
 		"title": "Should I get cheaper therapy to cut costs",
 		"type": "tip",
-		"body": "<p>In my personal experience, receiving therapy that was misaligned with my specific needs was as stressful, in a different way, as not receiving help at all. The matching process is very important.</p><ul><li>Decide how much you're willing to commit to your therapy budget.</li><li>Pick the person within your budget who feels best for your needs, even if you could save money elsewhere.</li><li>It's worth consulting with people who are outside your price range. Even if you can't afford them, they can refer you to other therapists who deal with similar issues.</li><li>If you're underemployed or on a tight budget, you can ask therapists if they offer a sliding price scale.</li></ul>"
+		"body": "<p>In my personal experience, receiving therapy that was misaligned with my specific needs was as stressful, in a different way, as not receiving help at all. The matching process is of utmost importance.</p><ul><li>Decide how much you're willing to commit to your therapy budget.</li><li>Pick the person within your budget who feels best for your needs, even if you could save money elsewhere.</li><li>It's worth consulting with people who are outside your price range. Even if you can't afford them, they can refer you to colleagues who deal with similar issues.</li><li>If you're underemployed or on a tight budget, you can ask therapists if they offer a sliding price scale.</li><li>If you can connect with a training clinic, a student therapist who is still training for their license will charge much less.</li></ul>"
 	},
 	"psychoeducation": {
 		"title": "Psychoeducate yourself",
 		"type": "tip",
-		"body": "<p>Learn what it means to have a healthy sense of self, how events may have shaped you, and tools and concepts for constructive healing. Believe it or not, <i>many</i> people share problems similar to yours, and their shared wisdom can be helpful.</p><p>If you never realize you were missing things, you won’t think to look there. If you don't realize there are methods designed to help with the difficulties you are going through, you might not realize help is even possible.</p><p>When you understand that your dysfunctions do not mean you are fundamentally bad or broken, but simply responding in a normal human way to a difficult situation, you become more motivated to engage in self-help.</p>"
+		"body": "<p>Your dysfunctions do not mean you are fundamentally bad or broken; you simply have normal learned responses to difficult past situations, and you can choose to unlearn them.</p><p>Learn what it means to have a healthy sense of self, how events may have shaped you, and tools and concepts for constructive healing. Believe it or not, no matter how shameful you may feel your problems are, <i>many</i> people share problems similar to yours, and their shared wisdom can be helpful.</p><p>If you never realize you have always been missing something, you won’t think to look in that gap. If you don't realize there are methods designed to help with the difficulties you are going through, you might not realize help is even possible.</p><p class='footnote'>Paraphrased from a combination of my personal life and Chapter 1 of <a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a>.</p>"
 	},
 	"deflection": {
 		"title": "Deflection",
 		"href": "https://tealswan.com/resources/articles/deflection-the-coping-mechanism-from-hell-r234/",
 		"type": "vocab",
-		"body": "<p class='quote'>When something someone communicates causes someone to feel triggered, and instead of taking it in, they either ignore, deny or turn away from it. Or worse, turn it back towards the other person. This is done to avoid painful emotions and thoughts, but it also prevents the person from being self-aware.</p><p class='quote'>Essentially, when the fault is in fact with us, we project the blame and fault onto someone else.  We feel we cannot take responsibility or blame for something and feel positive about ourselves at the same time.  We are unwilling to feel guilt or shame.</p><p>Example: If a parent is not able to soothe their child’s distress, and the parent is not able to own their feelings of inadequacy, they may deflect their shame by deciding that something is wrong with the child.</p>"
+		"body": "<p class='quote'>When something someone communicates causes someone to feel triggered, and instead of taking it in, they either ignore, deny or turn away from it. Or worse, turn it back towards the other person. This is done to avoid painful emotions and thoughts, but it also prevents the person from being self-aware.</p><p class='quote'>Essentially, when the fault is in fact with us, we project the blame and fault onto someone else.  We feel we cannot take responsibility or blame for something and feel positive about ourselves at the same time.  We are unwilling to feel guilt or shame.</p><p>Example: If a parent is not able to soothe their child’s distress, and the parent is not able to own up to their feelings of inadequacy, they may deflect their shame by deciding that something is wrong with the child.</p>"
 	},
 	"gaslighting": {
 		"title": "Gaslighting",
 		"href": "https://www.nbcnews.com/better/health/what-gaslighting-how-do-you-know-if-it-s-happening-ncna890866",
 		"type": "vocab",
-		"body": "<p>When someone chronically overwrites the reality of someone who trusts their word, making it difficult for the victim to believe their own intuition. Can be done intentionally out of a desire for control, but is often done unintentionally by people who have inner work to do. Gaslighting is not just one small mistake, but a pattern that adds up over time, often months.</p><p><i>Controlling example: Continually lying or changing your story about things you've said in the past, to derail criticism directed at you.</i></p><p><i>Unintentional example: Acting passive-aggressive at a partner, but continually denying it because you have genuine difficulty recognizing when you are upset.</i></p>"
+		"body": "<p>When someone chronically overwrites the reality of someone who trusts their word, making it difficult for the victim to believe their own intuition. Can be done intentionally, but is often done unintentionally by people who have inner work to do. Gaslighting is not just one small mistake, but a pattern that adds up over time, often months.</p><p><i>Self-aware example: Consciously lying or changing your story about things you've said in the past, to derail criticism directed at you.</i></p><p><i>Non-self-aware example: Acting passive-aggressive at a partner, but continually denying it when they ask about it, because you have genuine difficulty recognizing when you are upset.</i></p>"
 	},
 	"tealswan-shame": {
 		"title": "How To Overcome Shame - Teal Swan",
@@ -543,10 +543,10 @@
 		"body": "Online educator on trauma, freeing yourself from codependent patterns, and creating healthy boundaries."
 	},
 	"fawn-response": {
-		"title": "Fawning / codependence",
+		"title": "Codependence / fawning",
 		"type": "vocab",
 		"href": "http://pete-walker.com/codependencyFawnResponse.htm",
-		"body": "<p>An unhealthy, one-sided relationship dynamic where there is a huge imbalance, and one person meets all the other's needs without giving much weight to their own needs. Weak boundaries, low self-esteem, high reactivity, and excessive caretaking often lead to codependent dynamics.</p><p>Along with fight, flight, and freeze, Pete Walker posits that fawning, or instinctively becoming codependent, is a fourth major trigger response in people who were conditioned by overly demanding, neglectful, or otherwise emotionally unhealthy parents.</p><p class='footnote'>To learn about this response and how to reduce its hold over your life, see <a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a>.</p>"
+		"body": "<p>An unhealthy, one-sided relationship dynamic where there is a huge imbalance, and one person meets all the other's needs without giving much weight to their own needs. Weak boundaries, low self-esteem, high reactivity, and excessive caretaking often lead to codependent dynamics.</p><p>Along with fight, flight, and freeze, Pete Walker posits that fawning, or instinctively becoming codependent, is a fourth major trigger response in people who were conditioned by dysfunctional parenting.</p><p class='footnote'>To learn about how to reduce your codependent tendencies, see <a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a>.</p>"
 	},
 	"lerner-apologies": {
 		"title": "<i>Why Won't You Apologize?: Healing Big Betrayals and Everyday Hurts</i> (Harriet Lerner)",
@@ -558,7 +558,7 @@
 		"title": "<i>The Drama of the Gifted Child</i> (Alice Miller)",
 		"href": "https://amzn.to/2D662MG",
 		"type": "book",
-		"body": "Misleading title; the “Gift” is learning to survive a dysfunctional childhood. A book on how chronically repressed emotions in childhood lead to dysfunctional repressed anger & pain in adulthood, and how to break out of those patterns."
+		"body": "<p>Misleading title; the “Gift” is the dysfunctional behaviors one may adopt in learning to survive a dysfunctional childhood. About the ways maladjusted parents tend to train their children to chronically repress certain emotions and stop expressing needs, how this leads to dysfunctional repressed anger & pain in adulthood, and some ways people have broken out of those patterns.</p><p class='footnote'>Mostly a collection of anecdotes and examples that may be good for helping someone identify how their issues connect to their childhood. For a more actionable handbook, see <a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a>.</p>"
 	},
 	"fancy-quotes": {
 		"title": "“”"
