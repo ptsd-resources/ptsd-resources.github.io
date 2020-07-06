@@ -131,5 +131,55 @@ app.controller('myCtrl', function($scope, $http, $sce, $q) {
 	}
 	setup();
 
-
 });
+
+// Bind html & also angular compile the bound contents
+// Modified from: incuna/angular-bind-html-compile
+app.directive('bindHtmlCompile', ['$compile', function ($compile) {
+    return {
+        restrict: 'A',
+        link: function (scope, element, attrs) {
+            scope.$watch(function () {
+                return scope.$eval(attrs.bindHtmlCompile);
+            }, function (value) {
+                // In case value is a TrustedValueHolderType, sometimes it
+                // needs to be explicitly called into a string in order to
+                // get the HTML string.
+                element.html(value && value.toString());
+                // If scope is provided use it, otherwise use parent scope
+                var compileScope = scope;
+                if (attrs.bindHtmlScope) {
+                    compileScope = scope.$eval(attrs.bindHtmlScope);
+                }
+                $compile(element.contents())(compileScope);
+            });
+        }
+    };
+}]);
+
+
+/* Inline hyperlink to a defined resource
+   Usage: <a resource-link resource-id="some-id"></a>
+*/ 
+app.directive('resourceLink', function() {
+	return {
+		restrict: 'A',
+		replace: true,
+		scope: {
+			'resourceId': '@', // required
+		},
+		template: (
+			'<a href="{[resource.href]}" ' +
+			'   bind-html-compile="displayTitle" ' +
+			'   ></a>'
+		),
+		link: function(scope, element, attributes) {
+			// Grab resource object from parent scope
+			scope.resource = scope.$parent.resources[scope.resourceId];
+
+			scope.displayTitle = (
+				scope.resource.shortTitle || scope.resource.title);
+		},
+	};
+});
+

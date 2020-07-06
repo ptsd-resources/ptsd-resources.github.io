@@ -20,10 +20,16 @@ $grey-icon: #bbb
 
 /* PAGE MIXINS */
 
-=grey-oblique
+=oblique
   font-style: oblique
-  color: #666
   font-weight: normal
+
+=grey
+  color: #666
+
+=grey-oblique
+  +grey
+  +oblique
 
 /* PAGE STYLES */
 
@@ -53,9 +59,8 @@ body
 
 .footnote 
   font-size: 9pt
-  font-style: oblique
-  color: #666
   line-height: 1.2em
+  +oblique
 
 .center
   text-align: center
@@ -153,12 +158,9 @@ body
     &.vocab
       border: none
       border-left: 8px solid #eee
-      color: #666
+      +grey
 
-      a
-        color: #666
-
-      h3
+      .item-title, .item-title a
         +grey-oblique
 
 
