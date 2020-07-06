@@ -12,7 +12,7 @@
   {
     "title": "Finding a therapist",
     "id": "therapy",
-    "items": ["go-to-therapy", "therapy-den-guide", "therapist-consult-setup", "psychology-today", "open-path-collective", "betterhelp", "glik-therapy-modalities", "whats-therapy-like", "tonitalks", "elleanderson"]
+    "items": ["go-to-therapy", "whats-therapy-like", "therapist-consult-setup", "psychology-today", "open-path-collective", "therapy-den-guide", "betterhelp", "therapist-cost", "glik-therapy-modalities", "tonitalks", "elleanderson"]
   },
   {
     "title": "Self-help resources",
@@ -21,7 +21,7 @@
   {
     "title": "I feel bad and don't know why",
     "id": "feeling-bad",
-    "items": ["alexithymia", "trigger-check", "emotional-flashback", "was-it-abuse", "self-boundaries"]
+    "items": ["trigger-check", "emotional-flashback", "was-it-abuse", "alexithymia", "self-boundaries", "psychoeducation"]
   },
   {
     "title": "I'm triggered",
@@ -36,7 +36,7 @@
   {
     "title": "I have hangups about my childhood",
     "id": "childhood",
-    "items": ["was-it-abuse", "cptsd-walker", "cptsd-workbook-schwartz", "emotionally-immature-parents", "reparenting", "healing-aloneness", "whats-cptsd", "monique-cptsd", "complex-trauma-infographics", "general-theory-love", "janina-fisher"]
+    "items": ["was-it-abuse", "cptsd-walker", "cptsd-workbook-schwartz", "emotionally-immature-parents", "reparenting", "healing-aloneness", "whats-cptsd", "monique-cptsd", "complex-trauma-infographics", "miller-gifted", "general-theory-love", "janina-fisher"]
   },
   {
     "title": "My body is sometimes a scary or confusing place to be",
@@ -47,7 +47,12 @@
   {
     "title": "I have difficulty with shame",
     "id": "shame",
-    "items": ["samaran-shame", "brene-brown-vulnerability", "cptsd-walker", "cptsd-workbook-schwartz"]
+    "items": ["samaran-shame", "deflection", "brene-brown-vulnerability", "tealswan-shame", "cptsd-walker", "cptsd-workbook-schwartz"]
+  },
+  {
+    "title": "I feel confused or resentful in a relationship",
+    "id": "confusion",
+    "items": ["deflection", "gaslighting", "nat-lue", "nedra-tawwab", "fawn-response", "emotional-abuse", "love-abuse", "emotional-abuser", "emotional-abuser-signs", "lerner-apologies"]
   },
   {
     "title": "I have difficulty trusting or being vulnerable",
@@ -57,7 +62,7 @@
   {
     "title": "I want to improve at communication",
     "id": "communication",
-    "items": ["self-education", "walker-conflict-resolution", "nvc", "crucial-conversations"]
+    "items": ["self-education", "walker-conflict-resolution", "nvc", "crucial-conversations", "lerner-apologies"]
   },
   {
     "title": "I want healthier boundaries",

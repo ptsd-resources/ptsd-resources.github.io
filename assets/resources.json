@@ -31,7 +31,7 @@
 		"href": "https://www.therapyden.com/blog/a-beginners-guide-to-therapy-how-to-find-a-therapist",
 		"starred": true,
 		"type": "article",
-		"body": "<p>Affirming guide on figuring out what kind of therapist would be a good match for you, what to ask them and yourself during a consultation, what to expect, how to tell if the therapy is working for you, and more. Some tips for getting started:</p><ul><li>You can use a free consult to ask for therapist matchmaking help! Even if someone isn't a great fit, they can refer you to someone whom they think would be a better fit for you.</li><li>Set up consults with at least three therapists before settling. The experience of speaking with someone can't be captured in their written profile.</li><li>What kind of <i>person</i> would you personally feel most comfortable opening up to? Someone warm and nurturing? Action-oriented? A source of tough love? Serious? Humorous? It's okay to be picky.</li><li>Most importantly, do you feel affirmed, heard, understood, and safe with this person when you talk about your experiences and concerns? Could you develop a vulnerable rapport with them?</li></ul>"
+		"body": "<p>Affirming guide on getting started with therapy. Some tips:</p><ul><li>You can use a free consult to ask for therapist matchmaking help! Even if someone isn't a great fit, they can refer you to someone whom they think would be a better fit for you.</li><li>Set up consults with at least three therapists before settling. The experience of speaking with someone can't be captured in writing.</li><li>What kind of <i>person</i> would you personally feel most comfortable opening up to? Someone warm and nurturing? Serious? Humorous? Tough? Gentle? It's okay to be picky.</li><li>Most importantly, could you develop a vulnerable rapport with this person? Do you feel affirmed, heard, and safe with them when you bring up difficult things?</li></ul>"
 	},
 	"trigger-protocol": {
 		"title": "13 Steps For Dealing With Emotional Flashbacks | Pete Walker",
@@ -43,7 +43,7 @@
 		"href": "https://www.instagram.com/p/B0n67YRFjtM/",
 		"title": "Advice on therapy modalities | Andrea Glik",
 		"type": "instagram",
-		"body": "Quick rundown of different therapy modalities, and how they might fit different needs and wants."
+		"body": "<p>There are many different kinds of therapy modalities! Some are designed for particular purposes, such as:</p><ul><li>Building concrete coping skills</li><li>Healing trauma roots instead of just symptoms</li><li>Providing a safe container to unpack scary emotions or triggers</li><li>Providing a safe container to feel validated in</li></ul>"
 	},
 	"emotional-flashback": {
 		"title": "Implicit/emotional flashback",
@@ -166,7 +166,7 @@
 	"somatic-modalities": {
 		"title": "Somatic modalities",
 		"type": "info",
-		"body": "<p>Somatic therapy modalities take mind-body integration into account. They often combine physical techniques and mindfulness with talk therapy. If you are feeling stuck, overwhelmed, unpredictable, out of touch with your body, or have trauma, you may benefit from these.</p><p><b><a href='https://traumahealing.org/about-us/#about' target='_blank'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html' target='_blank'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history' target='_blank'>Hakomi method</a></b> are related treatment approaches which combine traditional therapy with developing your physical self-awareness. This helps you re-establish body agency when triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving self-awareness, learning to distinguish physical sensations from trauma emotions, and learning how to get out of triggered states.</p><p><b>EMDR</b> is a somatic method that helps reintegrate and process stuck trauma more rapidly than conventional therapy alone. It doesn't strictly require you to describe the details of your trauma to be helpful, so it can be helpful if you have difficulty opening up to a therapist. [<a href='https://www.ncbi.nlm.nih.gov/pubmed/17284128' target='_blank'>DOI: 10.4088/jcp.v68n0105</a>]</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research' target='_blank'>EFT/tapping</a></b>, involves tapping on your own body to keep it grounded in the present. This can be done on your own.</p><p class='footnote'>For more on how these work, see <i><a href='https://amzn.to/2W1Wvw8' target='_blank'>The Body Keeps The Score</a></i>, Part 5.</p>"
+		"body": "<p>Somatic therapy modalities take mind-body integration into account. They often combine physical techniques and mindfulness with talk therapy. If you are feeling stuck, overwhelmed, unpredictable, out of touch with your body, or have trauma, you may benefit from these.</p><p><b><a href='https://traumahealing.org/about-us/#about' target='_blank'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html' target='_blank'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history' target='_blank'>Hakomi method</a></b> are related treatment approaches which combine traditional therapy with developing your physical self-awareness. This helps you re-establish body agency when triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving self-awareness, learning to distinguish physical sensations from trauma emotions, and learning how to get out of triggered states.</p><p><b>EMDR</b> is a somatic method that helps reintegrate and process stuck trauma more rapidly than conventional therapy alone. It doesn't strictly require you to describe the details of your trauma to be helpful, so it can be helpful if you have difficulty opening up to a therapist. [<a href='https://www.ncbi.nlm.nih.gov/pubmed/17284128' target='_blank'>DOI: 10.4088/jcp.v68n0105</a>]</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research' target='_blank'>EFT/tapping</a></b> involves tapping on your own body to keep it grounded in the present. This can be done on your own.</p><p class='footnote'>For more on how these work, see <i><a href='https://amzn.to/2W1Wvw8' target='_blank'>The Body Keeps The Score</a></i>, Part 5.</p>"
 	},
 	"polyvagal-overview": {
 		"title": "Polyvagal theory & nervous system regulation",
@@ -348,7 +348,7 @@
 		"image": "images/what_happens_in_therapy.jpg",
 		"imageAlt": "What I thought would happen in therapy: talk about my feelings, learn some coping skills, get advice. What actually happens in therapy: develop a cohesive life narrative, integrate the different versions of myself, have my value and worth unconditionally acknowledged, have my experiences validated, break patterns of generational trauma, have space to come to my own value-driven conclusions, experience a relationship with healthy boundaries, become aware of my self-talk and learn to talk back, have emotionally corrective experiences, make the unconscious conscious, resolve internal conflicts, cultivate self awareness and emotional intelligence. From Dr. Megan Johnson.",
 		"href": "https://www.instagram.com/p/CAVV57djzUV/",
-		"body": "<p class='footnote'>via <a href='https://www.instagram.com/p/CAVV57djzUV/' target='_blank'>@drmeganjohnson</a></p>"
+		"body": "<p class='footnote'>via <a href='https://www.instagram.com/p/CAVV57djzUV/' target='_blank'>@drmeganjohnson</a></p><p>A tasting course of some ways therapists may create space for you and engage with you. Media portrayals of therapy are often outdated, oversimplified, or inaccurate.</p>"
 	},
 	"conscious-uncoupling": {
 		"title": "<i>Conscious Uncoupling</i> (Katherine Woodward Thomas)",
@@ -361,7 +361,7 @@
 		"title": "Analysis of the inefficacy of evidence-based treatments for complex trauma",
 		"href": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4478904/",
 		"type": "article",
-		"body": "<p>A PubMed validation for anyone who feels bad that they still have trauma and their progress has plateaued with “established” trauma treatment methodologies. Many expert-sanctioned approaches to complex trauma are “alternative”, because effective complex trauma treatments are intrinsically only partially compatible with scientific rigor.</p><p><i>Why?</i></p><ul><li>Complex trauma has many comorbidities. Comorbidities must be minimized to increase rigor, i.e. the certainty that the treatment is the sole cause of our observed results. As a result, complex trauma is underrepresented in studies.</li><li>Non-complex trauma receives more study funding because it is more economical to resolve, and has fewer comorbidities.</li><li>It is literally not possible to fully <a href='https://en.wikipedia.org/wiki/Blinded_experiment' target='_blank'>blind</a> a study that involves using personalized psychotherapy as a treatment.</li></ul><p class='footnote'>Choice excerpts from the article:</p><ul class='footnote'><li>Complex presentations are often excluded from studies because they do not fit neatly into the simple nosological categorisations required for research power. This means that the most severe disorders are not studied adequately and patients most affected by early trauma are often not recognised by services.</li><li>If research funding is not readily accessible for complex and prolonged interventions that are clinically applied in the phase-based treatment of complex PTSD, it is easy to arrive at the false conclusion that a lack of evidence for a particular therapy indicates that it is not effective.</li><li><b>Women were also excluded from the study if they were in a relationship with an abusive partner, a situation unfortunately all too common in this clinical population.</b></li><li>The lack of evidence is not an indicator that particular approaches do not work – only that they have not been rigorously tested. Testing procedures understandably but unhelpfully prefer simple, measurable attributes for economy of scale.</li></ul>"
+		"body": "<p>A PubMed validation for anyone who feels bad that they still have trauma and their progress has plateaued with “established” trauma treatment methodologies. Many effective complex trauma treatments are “alternative”, because complex trauma treatment is only partially compatible with scientific rigor.</p><p><i>Why?</i></p><ul><li>Complex trauma has many comorbidities. If you want a certain level of study rigor, i.e. level of certainty that the treatment is the sole possible cause of your observed results, you need to exclude subjects with comorbidities. As a result, complex trauma is underrepresented in studies.</li><li>Non-complex trauma receives more study funding because it is more economical to resolve, and has fewer comorbidities.</li><li>It is literally not possible to fully <a href='https://en.wikipedia.org/wiki/Blinded_experiment' target='_blank'>blind</a> a study on personalized psychotherapy. (Blind evaluation is compatible, though.)</li></ul><p class='footnote'>Choice excerpts from the article:</p><ul class='footnote'><li>Complex presentations are often excluded from studies because they do not fit neatly into the simple nosological categorisations required for research power. This means that the most severe disorders are not studied adequately and patients most affected by early trauma are often not recognised by services.</li><li>If research funding is not readily accessible for complex and prolonged interventions that are clinically applied in the phase-based treatment of complex PTSD, it is easy to arrive at the false conclusion that a lack of evidence for a particular therapy indicates that it is not effective.</li><li><b>Women were also excluded from the study if they were in a relationship with an abusive partner, a situation unfortunately all too common in this clinical population.</b></li><li>The lack of evidence is not an indicator that particular approaches do not work – only that they have not been rigorously tested. Testing procedures understandably but unhelpfully prefer simple, measurable attributes for economy of scale.</li></ul>"
 	},
 	"maps": {
 		"title": "MAPS (Multidisciplinary Association For Psychedelic Studies)",
@@ -415,7 +415,7 @@
 	"trigger-support": {
 		"title": "Helping with emotional first-aid",
 		"type": "tip",
-		"body": "<p>It's really difficult to communicate effectively when triggered. Depending how much internal work the person has done, it might be emotionally or even physically difficult for them to say what they need, and sometimes no amount of verbal reassurance can help. You can help someone you care about by:</p><ul><li>Learning to recognize their trigger signs</li><li>Learning what's happening to them (what do they fear? are they frozen? numb? self-blaming? angry? do they need more space, or do they need to not be alone?)</li><li>Knowing what helps them de-escalate (deep breathing, a hug, quiet, music, etc.)</li><li><a href='http://pete-walker.com/lovinglyResolvingConflict.htm' target='_blank'>Taking time-outs</a></li><li>Being present and deeply listening to their pain</li><li>Supporting them in seeking therapy or other external support</li></ul><p>(Make sure you aren't neglecting your own needs, especially if you're also triggered.)</p>"
+		"body": "<p>It's really difficult to communicate effectively when triggered. Depending how much internal work the person has done, it might be emotionally or even physically difficult for them to say what they need, and sometimes no amount of verbal reassurance can help. You can help someone you care about by:</p><ul><li>Learning to recognize their trigger signs</li><li>Learning what's happening to them (what do they fear? are they frozen? numb? self-blaming? angry? do they need more space, or more attention?)</li><li>Knowing what helps them de-escalate (deep breathing, a hug, quiet, music, etc.)</li><li><a href='http://pete-walker.com/lovinglyResolvingConflict.htm' target='_blank'>Taking time-outs</a></li><li>Being present and deeply listening to their pain</li><li>Supporting them in seeking therapy or other external support</li></ul><p>(Make sure you aren't neglecting your own needs, especially if you're also triggered.)</p>"
 	},
 	"tiny-god": {
 		"title": "Tiny God",
@@ -454,19 +454,19 @@
 	"reparenting": {
 		"title": "“Reparenting the Inner Child”",
 		"type": "vocab",
-		"body": "<p>The process of discovering your unmet developmental needs, where healthy behavior was never properly modeled for you, and learning how to meet those needs for yourself. If you never had something growing up, it's hard to know what's missing.</p><p>If we grew up with core beliefs that we were defective, unlovable, worthless, or incapable, we may feel broken inside, treat ourselves badly, and crave stimulation, distraction, or approval to feel temporarily better. As long as we haven't addressed the core issues, we will continue craving endlessly without truly feeling better inside, even if our specific addictions are treated.</p><p>By reparenting, you gain self-respect, self-awareness, personal responsibility, internal security, and confidence to take care of your feelings and needs. You realize that you are the only person who can healthily be present for yourself 100% of the time.</p><p class='footnote'>For a great framework for processing your needs, see <a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a>.<br/>For reparenting scripts & troubleshooting help, check out <a href='https://amzn.to/2UXW0Dz' target='_blank'>Healing Your Aloneness</a>.</p>"
+		"body": "<p>The process of discovering your unmet developmental needs, where healthy behavior was never properly modeled for you, and learning how to meet those needs for yourself. If you never had something growing up, it's hard to know what's missing.</p><p>If we grew up with core beliefs that we were defective, unlovable, worthless, undeserving, or incapable, we may feel broken inside, treat ourselves badly, and crave things that temporarily fill the void. As long as we haven't addressed the core issues, we will not truly feel better inside, even if we treat specific addictions.</p><p>By reparenting, you gain self-respect, self-awareness, personal responsibility, internal security, and confidence to take care of your feelings and needs. You realize that you are the only person who can healthily be present for yourself 100% of the time.</p><p class='footnote'>For a great framework for processing your needs, see <a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a>.<br/>For reparenting scripts & troubleshooting help, check out <a href='https://amzn.to/2UXW0Dz' target='_blank'>Healing Your Aloneness</a>.</p>"
 	},
 	"healing-aloneness": {
 		"title": "<i>Healing Your Aloneness</i> (Margaret Paul)",
 		"href": "https://amzn.to/2UXW0Dz",
 		"type": "book",
-		"body": "<p>A guide to reparenting yourself to heal your core abandonment pain, with a lot of useful scripts, encouragement, and guides to get unstuck from common roadblocks (such as fear of your own anger, fear of being fully responsible for yourself, and fear of failing to improve).</p><p class='footnote'>I found about half the book (Chapters 1, 2, 6, 7, 8, 9, 10) very applied and useful, and I didn't benefit much from the other half. FYI, the book also made some queer-phobic remarks, and felt socially dated.</p>"
+		"body": "<p>A guide to reparenting yourself to heal your core abandonment pain, with a lot of useful scripts, encouragement, and guides to get unstuck from common roadblocks (such as fear of your own anger, fear of being fully responsible for yourself, and fear of failing to improve).</p><p class='footnote'>I found about half the book (Chapters 1, 2, 6, 7, 8, 9, 10) very applied and useful, and I didn't take away much from the rest. FYI, the book also made some queer-phobic remarks, and felt socially dated.</p>"
 	},
 	"brene-brown-vulnerability": {
 		"title": "Brené Brown - The Power of Vulnerability",
 		"href": "https://www.ted.com/talks/brene_brown_the_power_of_vulnerability",
 		"type": "video",
-		"body": "<p>A 20 minute TEDx talk on toxic shame, connection, and vulnerability.</p><p class='footnote'>This talk is a good overview of personal characteristics that enable connection, but doesn't talk about how to practice and gain those capabilities. If you want an applied guide to undoing toxic shame in yourself and learning how to connect more deeply, try <a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a>.</p>"
+		"body": "<p>A 20 minute TEDx description of toxic shame, connection, and vulnerability.</p><p class='footnote'>This talk is a good overview of personal characteristics that enable connection, but doesn't talk about how to practice and gain those capabilities. If you want an applied guide to undoing toxic shame in yourself and learning how to connect more deeply, try <a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a>.</p>"
 	},
 	"stimulus-discrimination": {
 		"title": "Stimulus discrimination",
@@ -477,7 +477,88 @@
 	"therapist-consult-setup": {
 		"title": "Asking for a consultation",
 		"type": "tip",
-		"body": "<p>Contacting therapists for the first time may feel intimidating, but you can make it easier by writing one email and sending it to everyone you'd like to consult with. Some things to bring up in your email:</p><ul><li>Preliminary logistical questions: insurance, price range, whether they offer videochat sessions, etc.</li><li>Primary issues you want to work on (grief, trauma, triggers, relationship issues, depression, a specific issue in your life, etc).</li><li>If you don't know, it's valid to simply say <i>“I need help figuring out what I need help with”</i>.</li><li>Things you may require in order to be fully comfortable (LGBTQ-affirming? experience working with BIPoCs?)</li></ul>"
+		"body": "<p>Contacting therapists for the first time may feel intimidating, but you can make it easier by writing one email and sending it to everyone you'd like to consult with. Some things to bring up in your email:</p><ul><li>Primary issues you want to work on (grief, trauma, triggers, relationship issues, depression, a specific issue in your life, etc).</li><li>If you don't know, it's valid to simply say <i>“I need help figuring out what I need help with”</i>.</li><li>Things you may require in order to be fully comfortable (LGBTQ-affirming? experience working with BIPoCs?)</li></ul>"
+	},
+	"therapist-cost": {
+		"title": "Should I get cheaper therapy to cut costs",
+		"type": "tip",
+		"body": "<p>In my personal experience, receiving therapy that was misaligned with my specific needs was as stressful, in a different way, as not receiving help at all. The matching process is very important.</p><ul><li>Decide how much you're willing to commit to your therapy budget.</li><li>Pick the person within your budget who feels best for your needs, even if you could save money elsewhere.</li><li>It's worth consulting with people who are outside your price range. Even if you can't afford them, they can refer you to other therapists who deal with similar issues.</li><li>If you're underemployed or on a tight budget, you can ask therapists if they offer a sliding price scale.</li></ul>"
+	},
+	"psychoeducation": {
+		"title": "Psychoeducate yourself",
+		"type": "tip",
+		"body": "<p>Learn what it means to have a healthy sense of self, how events may have shaped you, and tools and concepts for constructive healing. Believe it or not, <i>many</i> people share problems similar to yours, and their shared wisdom can be helpful.</p><p>If you never realize you were missing things, you won’t think to look there. If you don't realize there are methods designed to help with the difficulties you are going through, you might not realize help is even possible.</p><p>When you understand that your dysfunctions do not mean you are fundamentally bad or broken, but simply responding in a normal human way to a difficult situation, you become more motivated to engage in self-help.</p>"
+	},
+	"deflection": {
+		"title": "Deflection",
+		"href": "https://tealswan.com/resources/articles/deflection-the-coping-mechanism-from-hell-r234/",
+		"type": "vocab",
+		"body": "<p class='quote'>When something someone communicates causes someone to feel triggered, and instead of taking it in, they either ignore, deny or turn away from it. Or worse, turn it back towards the other person. This is done to avoid painful emotions and thoughts, but it also prevents the person from being self-aware.</p><p class='quote'>Essentially, when the fault is in fact with us, we project the blame and fault onto someone else.  We feel we cannot take responsibility or blame for something and feel positive about ourselves at the same time.  We are unwilling to feel guilt or shame.</p><p>Example: If a parent is not able to soothe their child’s distress, and the parent is not able to own their feelings of inadequacy, they may deflect their shame by deciding that something is wrong with the child.</p>"
+	},
+	"gaslighting": {
+		"title": "Gaslighting",
+		"href": "https://www.nbcnews.com/better/health/what-gaslighting-how-do-you-know-if-it-s-happening-ncna890866",
+		"type": "vocab",
+		"body": "<p>When someone chronically overwrites the reality of someone who trusts their word, making it difficult for the victim to believe their own intuition. Can be done intentionally out of a desire for control, but is often done unintentionally by people who have inner work to do. Gaslighting is not just one small mistake, but a pattern that adds up over time, often months.</p><p><i>Controlling example: Continually lying or changing your story about things you've said in the past, to derail criticism directed at you.</i></p><p><i>Unintentional example: Acting passive-aggressive at a partner, but continually denying it because you have genuine difficulty recognizing when you are upset.</i></p>"
+	},
+	"tealswan-shame": {
+		"title": "How To Overcome Shame - Teal Swan",
+		"type": "video",
+		"href": "https://www.youtube.com/watch?v=Lg9KvmK-E0U",
+		"body": "<p>17-minute video about identity-based toxic shame, how it damages our interactions, and an overview of some ways to consciously release toxic shame. Focuses on religion-based shame and reparenting work.</p><p>Shame is common when children are not taught to differentiate between <i>feeling</i> bad and <i>being</i> bad.</p>"
+	},
+	"emotional-abuser": {
+		"title": "The Healing Journey of the Emotional Abuser",
+		"type": "article",
+		"href": "https://theoverwhelmedbrain.com/the-healing-journey-of-the-emotional-abuser/",
+		"body": "Article from a self-professed reformed emotional abuser on recognizing and changing their own emotional abuse."
+	},
+	"love-abuse": {
+		"title": "Love & Abuse",
+		"href": "https://loveandabuse.com/",
+		"body": "<p>Resources for identifying and addressing toxic emotional behavior in relationships, by a self-professed former emotional abuser.</p><p><i class='fa fa-podcast item-icon'></i> <a href='https://loveandabuse.com/the-podcast/'>Love & Abuse Podcast</a></p><ul><li><a href='https://loveandabuse.com/you-will-never-ever-be-good-enough-for-a-manipulative-and-controlling-person/' target='_blank'>You will never, ever be good enough for a manipulative and controlling person</a></li><li><a href='https://loveandabuse.com/an-analysis-of-emotional-abuse-breaking-down-the-bad-behavior/' target='_blank'>An analysis of emotional abuse</a></li></ul>"
+	},
+	"emotional-abuse": {
+		"title": "How to identify & cope with emotional abuse",
+		"type": "article",
+		"href": "https://www.verywellmind.com/identify-and-cope-with-emotional-abuse-4156673"
+	},
+	"emotional-abuser-signs": {
+		"title": "Signs you might be emotionally abusive",
+		"type": "article",
+		"body": "<ul><li><a href='https://www.bustle.com/p/11-signs-you-might-be-emotionally-abusive-without-realizing-it-54403' target='_blank'>via Bustle</a></li><li><a href='https://www.yourtango.com/experts/dr-tarra-batesduford/am-i-emotionally-abusive-signs-of-emotional-abuse-in-relationships' target='_blank'>via YourTango</a></li></ul>"
+	},
+	"nat-lue": {
+		"title": "Nat Lue",
+		"type": "instagram",
+		"href": "https://www.instagram.com/natlue/",
+		"image": "images/natlue.jpg",
+		"body": "<p>Online educator on codependency, identifying manipulation, and breaking out of people-pleasing habits.</p><p><i class='fa fa-podcast item-icon'></i> <a href='https://podcasts.apple.com/gb/podcast/the-baggage-reclaim-sessions/id1032835304' target='_blank'>Podcast - The Baggage Reclaim Sessions</a></p>"
+	},
+	"nedra-tawwab": {
+		"title": "Nedra Tawwab",
+		"href": "https://www.instagram.com/nedratawwab/",
+		"type": "instagram",
+		"image": "images/nedra_tawwab.jpg",
+		"body": "Online educator on trauma, freeing yourself from codependent patterns, and creating healthy boundaries."
+	},
+	"fawn-response": {
+		"title": "Fawning / codependence",
+		"type": "vocab",
+		"href": "http://pete-walker.com/codependencyFawnResponse.htm",
+		"body": "<p>An unhealthy, one-sided relationship dynamic where there is a huge imbalance, and one person meets all the other's needs without giving much weight to their own needs. Weak boundaries, low self-esteem, high reactivity, and excessive caretaking often lead to codependent dynamics.</p><p>Along with fight, flight, and freeze, Pete Walker posits that fawning, or instinctively becoming codependent, is a fourth major trigger response in people who were conditioned by overly demanding, neglectful, or otherwise emotionally unhealthy parents.</p><p class='footnote'>To learn about this response and how to reduce its hold over your life, see <a href='https://amzn.to/2xOFc9O' target='_blank'>From Surviving To Thriving</a>.</p>"
+	},
+	"lerner-apologies": {
+		"title": "<i>Why Won't You Apologize?: Healing Big Betrayals and Everyday Hurts</i> (Harriet Lerner)",
+		"href": "https://amzn.to/3eYCAX4",
+		"type": "book",
+		"body": "<p>Short primer on truly sincere apologies that genuinely empathize with the other person and try to repair harm, while also holding healthy boundaries. Written for both under-apologizers and over-apologizers.</p><p class='footnote'>Has a bit of overlap with <a href='https://amzn.to/2VCNA58' target='_blank'><i>Hold Me Tight</i></a>.</p>"
+	},
+	"miller-gifted": {
+		"title": "<i>The Drama of the Gifted Child</i> (Alice Miller)",
+		"href": "https://amzn.to/2D662MG",
+		"type": "book",
+		"body": "Misleading title; the “Gift” is learning to survive a dysfunctional childhood. A book on how chronically repressed emotions in childhood lead to dysfunctional repressed anger & pain in adulthood, and how to break out of those patterns."
 	},
 	"fancy-quotes": {
 		"title": "“”"
