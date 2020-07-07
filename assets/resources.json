@@ -110,6 +110,7 @@
 	},
 	"emotional-intelligence-goleman": {
 		"title": "<i>Emotional Intelligence</i> (Daniel Goleman)",
+		"shortTitle": "Emotional Intelligence",
 		"href": "https://amzn.to/3bBKeVH",
 		"type": "book",
 		"body": "<p>Thorough general overview on the somatic nature of emotions and hijacking. Makes a case that emotional intelligence is often much more critical for happiness, and even for very societally conventional metrics of success, than conventional intelligence is.</p><p>This book went into great depth about emotional dysregulation, but it is not a self-help book. However, it helped me better grasp the physiological nature of emotions, and validated all this time I’ve been investing into emotional regulation that I could instead be spending on more normatively “useful” things.</p>"
@@ -150,7 +151,7 @@
 		"imageAlt": "Some example posts by Silvy Khoucasian on ways to communicate your needs, from attachment theory by John Bowlby and Mary Ainsworth -- if you have strong anxious tendencies or if you have strong dismissive-avoidant tendencies.",
 		"type": "instagram",
 		"starred": true,
-		"body": "<p>Attachment-focused coach/educator. Offers useful bite-sized prompts, tools, and perspective for people with boundary issues or childhood hangups.</p><p><i class='fa fa-podcast item-icon'></i> Podcast: <a href='https://podcasts.apple.com/us/podcast/love-with-integrity/id1456831120?mt=2'>Love With Integrity</a>."
+		"body": "<p>Attachment-focused coach/educator. Offers useful bite-sized prompts, tools, and perspective for people with boundary issues or childhood hangups.</p><p>Podcast: <a icon-link icon-type='audio' href='https://podcasts.apple.com/us/podcast/love-with-integrity/id1456831120?mt=2'>Love With Integrity</a>."
 	},
 	"liz-listens": {
 		"title": "Liz Listens",
@@ -244,7 +245,7 @@
 		"href": "https://amzn.to/2YQw3Zf",
 		"type": "book",
 		"starred": true,
-		"body": "<p>Boundaries aren't just for fending off toxic people; they can also be used to nourish ourselves and increase trust and intimacy when communicated with enough clarity and kindness. Guidance for navigating and holding many kinds of healthy boundaries, with strangers, friends, partners, relatives, coworkers, etc.</p>"
+		"body": "<p>Boundaries aren't just for fending off toxic people. Walls shut out everything, but healthy boundaries can be used to nourish trust and intimacy when set thoughtfully. Guidance for navigating and holding many kinds of healthy boundaries, with strangers, friends, partners, relatives, coworkers, etc.</p>"
 	},
 	"self-boundaries": {
 		"title": "How are your boundaries?",
@@ -419,7 +420,7 @@
 	"trigger-support": {
 		"title": "Offering emotional first-aid",
 		"type": "tip",
-		"body": "<p>You can support someone else by:</p><ul><li>Taking a timeout from other things until de-escalated</li><li>Asking what they need</li><li>Asking what helps them de-escalate (suggestions: deep breathing, a hug, a blanket, music, quiet, yelling into a pillow, etc.)</li><li>Being deeply present with their pain</li><li>Supporting them in seeking therapy or other external support, knowing you can't “fix” someone else's problems</li><li>Communicating and setting clearly defined boundaries if you aren't able to be present for them</li></ul><p>It can be emotionally or even physically difficult for someone to communicate while triggered, and sometimes no amount of reassurance can help. It might be helpful to learn more when they're <i>not</i> triggered. (Do they need to be left alone, or to <i>not</i> be alone? What signs might indicate they are dissociated?)</p><p>Make sure you aren't neglecting your own needs or accepting bad treatment, especially if you have codependent tendencies or are also triggered. Caring for others is often helpful, but can be dysfunctional if taken to an extreme.</p><p class='footnote'>Extrapolated from Chapter 8 of <a resource-link resource-id='cptsd-walker'></a>, Part 2 of <a resource-link resource-id='bks'></a>, and partially wishful personal experience.</p>"
+		"body": "<p>You can support someone else by:</p><ul><li>Taking a timeout from other things until de-escalated</li><li>Asking what they need</li><li>Asking what helps them de-escalate (suggestions: deep breathing, a hug, a blanket, music, quiet, yelling into a pillow, etc.)</li><li>Being deeply present with their pain</li><li>Supporting them in seeking therapy or other external support, knowing you can't “fix” someone else's problems</li><li>Communicating and setting clearly defined boundaries if you aren't able to be present for them</li></ul><p>It can be emotionally or even physically difficult for someone to communicate while triggered, and sometimes no amount of reassurance can help. It might be helpful to learn more when they're <i>not</i> triggered. (Do they need to be left alone, or to <i>not</i> be alone? What signs might indicate they are dissociated?)</p><p>Make sure you aren't neglecting your own needs or accepting bad treatment, especially if you have codependent tendencies or are also triggered. Caring for others is often helpful, but can be dysfunctional if the other person isn't taking much accountability or respecting you.</p><p class='footnote'>Extrapolated from Chapter 8 of <a resource-link resource-id='cptsd-walker'></a>, Part 2 of <a resource-link resource-id='bks'></a>, and partially wishful personal experience.</p>"
 	},
 	"tiny-god": {
 		"title": "Tiny God",
@@ -477,7 +478,7 @@
 		"title": "Stimulus discrimination",
 		"type": "vocab",
 		"href": "https://www.instagram.com/p/CBsujQfHNEG/",
-		"body": "The ability to discriminate between a trigger and a situation that is actually dangerous."
+		"body": "The ability to discriminate between a trigger and a situation that is actually dangerous or unhealthy."
 	},
 	"therapist-consult-setup": {
 		"title": "Asking for a consultation",
@@ -492,7 +493,7 @@
 	"psychoeducation": {
 		"title": "Psychoeducate yourself",
 		"type": "tip",
-		"body": "<p>Your dysfunctions do not mean you are fundamentally bad or broken; you simply have normal learned responses to difficult past situations, and you can choose to unlearn them.</p><p>Learn what it means to have a healthy sense of self, how your past may have shaped you, and tools for healing. Believe it or not, no matter how shameful you may feel about your problems, <i>many</i> people share problems similar to yours, and their shared wisdom can be helpful.</p><p>If you never realize you have always been missing something, you won’t think to look in that gap. If you don't realize there are methods designed to help with the difficulties you are going through, you might not realize help is even possible.</p><p class='footnote'>Paraphrased from Chapter 1 of <a resource-link resource-id='cptsd-walker'></a> and bolstered by hindsight. For a compact tasting course on psychoeducation, see <a resource-link resource-id='cptsd-workbook-schwartz'></a>.</p>"
+		"body": "<p>Your dysfunctions do not mean you are fundamentally bad or broken; you simply have normal learned responses to difficult past situations, and you can choose to unlearn them.</p><p>Learn what it means to have a healthy sense of self, how your past may have shaped you, and tools for healing. Believe it or not, no matter how shameful you may feel about your problems, <i>many</i> people share problems similar to yours, and their shared wisdom can be helpful.</p><p>If you never realize you have always been missing something, you won’t think to look in that gap. If you don't realize there are methods designed to help with the exact difficulties you are going through, you might stay too intimidated by your problems to try working on them.</p><p class='footnote'>Paraphrased from Chapter 1 of <a resource-link resource-id='cptsd-walker'></a> and bolstered by hindsight. For a compact tasting course on psychoeducation, see <a resource-link resource-id='cptsd-workbook-schwartz'></a>.</p>"
 	},
 	"deflection": {
 		"title": "Deflection",
@@ -504,7 +505,13 @@
 		"title": "Gaslighting",
 		"href": "https://www.nbcnews.com/better/health/what-gaslighting-how-do-you-know-if-it-s-happening-ncna890866",
 		"type": "vocab",
-		"body": "<p>When someone chronically overwrites the reality of someone who trusts their word, making it difficult for the victim to believe their own intuition. Can be done intentionally, but is often done unintentionally by people who have inner work to do. Gaslighting is not just one small mistake, but a pattern that adds up over time, often months.</p><p><i>Self-aware example: Consciously lying or changing your story about things you've said in the past, to derail criticism directed at you.</i></p><p><i>Non-self-aware example: Acting passive-aggressive at a partner, but frequently denying it when they ask about it, because you have genuine difficulty recognizing when you are upset.</i></p>"
+		"body": "<p>When someone chronically overwrites the reality of someone who trusts them, making it difficult for the victim to believe their own intuition. Can be done intentionally, but is often done unintentionally by people who have inner work to do. Gaslighting is not just one small mistake, but a pattern that adds up over time, often months.</p><p><i>Self-aware example: Consciously lying or changing your story about things you've said in the past, to derail criticism directed at you.</i></p><p><i>Non-self-aware example: Acting passive-aggressive at a partner, but frequently denying it when they ask about it, because you have genuine difficulty recognizing when you are upset.</i></p><p><a icon-link icon-type='audio' href='https://podcasts.apple.com/gb/podcast/the-emperor-has-no-clothes-on-lets-talk-about-gaslighting/id1032835304?i=1000476140909'>The Baggage Reclaim Sessions - Ep. 185: Gaslighting</a></p>"
+	},
+	"stonewalling": {
+		"title": "Stonewalling",
+		"type": "vocab",
+		"href": "https://www.goodtherapy.org/blog/psychpedia/stonewalling",
+		"body": "<p>When someone chronically & passive-aggressively evades, ignores, or dismisses attempts to constructively communicate (without actively setting a clearly defined communication boundary). Often comes from a desire to avoid conflict and hope problems will disappear if ignored, but tends to destroy trust because problems just get worse when you don't talk about them.</p><p>Can be a form of gaslighting. It is normal to feel confused, devastated, and even suicidal when stonewalled by someone you deeply trust.</p><p><a icon-link icon-type='article' href='https://www.gottman.com/blog/the-four-horsemen-stonewalling/'>Stop stonewalling | The Gottman Institute</a></p><p><a icon-link icon-type='audio' href='https://podcasts.apple.com/gb/podcast/ep-173-its-time-to-talk-about-stonewalling/id1032835304?i=1000467636933'>The Baggage Reclaim Sessions - Ep. 173: Stonewalling</a></p><p><a icon-link icon-type='audio' href='https://theoverwhelmedbrain.com/stonewalling-expectations-of-friends-emotional-abuse-follows-you-get-away-to-get-closer-to-people/#more-6590'>The damage of stonewalling | The Overwhelmed Brain</a></p><p><a icon-link icon-type='article' href='https://thoughtcatalog.com/shahida-arabi/2018/04/stonewalling-and-the-silent-treatment-when-the-narcissists-silence-is-deafening/'>The silent treatment | Thought Catalog</a></p><p class='footnote'>For more on the somatic component of stonewalling, see <a resource-link resource-id='emotional-intelligence-goleman'></a>. If someone is stonewalling because they're triggered, they may be having an overwhelming freeze response.</p><p class='footnote'>For a handbook on taking responsibility to improve your emotional regulation, see <a resource-link resource-id='cptsd-walker'></a>.</p>"
 	},
 	"tealswan-shame": {
 		"title": "How To Overcome Shame - Teal Swan",
@@ -512,16 +519,10 @@
 		"href": "https://www.youtube.com/watch?v=Lg9KvmK-E0U",
 		"body": "<p>17-minute video about identity-based toxic shame, how it damages our interactions, and an overview of some ways to consciously release toxic shame. Focuses on religion-based shame and reparenting work.</p><p>Shame is common when children are not taught to differentiate between <i>feeling</i> bad and <i>being</i> bad.</p>"
 	},
-	"emotional-abuser": {
-		"title": "The Healing Journey of the Emotional Abuser",
-		"type": "article",
-		"href": "https://theoverwhelmedbrain.com/the-healing-journey-of-the-emotional-abuser/",
-		"body": "Article from a self-professed reformed emotional abuser on recognizing and changing their own emotional abuse."
-	},
 	"love-abuse": {
 		"title": "Love & Abuse",
 		"href": "https://loveandabuse.com/",
-		"body": "<p>Resources for identifying and addressing toxic emotional behavior in relationships, by a self-professed former emotional abuser.</p><p><i class='fa fa-podcast item-icon'></i> <a href='https://loveandabuse.com/the-podcast/'>Love & Abuse Podcast</a></p><ul><li><a href='https://loveandabuse.com/you-will-never-ever-be-good-enough-for-a-manipulative-and-controlling-person/'>You will never, ever be good enough for a manipulative and controlling person</a></li><li><a href='https://loveandabuse.com/an-analysis-of-emotional-abuse-breaking-down-the-bad-behavior/'>An analysis of emotional abuse</a></li></ul>"
+		"body": "<p>Resources for identifying and addressing toxic emotional behavior in relationships, by a self-professed former emotional abuser.</p><p><a icon-link icon-type='audio' href='https://loveandabuse.com/the-podcast/'>Love & Abuse Podcast</a></p><ul><li><a href='https://loveandabuse.com/you-will-never-ever-be-good-enough-for-a-manipulative-and-controlling-person/'>You will never, ever be good enough for a manipulative and controlling person</a></li><li><a href='https://loveandabuse.com/an-analysis-of-emotional-abuse-breaking-down-the-bad-behavior/'>An analysis of emotional abuse</a></li></ul>"
 	},
 	"emotional-abuse": {
 		"title": "How to identify & cope with emotional abuse",
@@ -531,14 +532,25 @@
 	"emotional-abuser-signs": {
 		"title": "Signs you might be emotionally abusive",
 		"type": "article",
-		"body": "<ul><li><a href='https://www.bustle.com/p/11-signs-you-might-be-emotionally-abusive-without-realizing-it-54403'>via Bustle</a></li><li><a href='https://www.yourtango.com/experts/dr-tarra-batesduford/am-i-emotionally-abusive-signs-of-emotional-abuse-in-relationships'>via YourTango</a></li></ul>"
+		"body": "<ul><li><a href='https://theoverwhelmedbrain.com/the-healing-journey-of-the-emotional-abuser/'>The Healing Journey of the Emotional Abuser</a></li><li><a href='https://www.yourtango.com/experts/dr-tarra-batesduford/am-i-emotionally-abusive-signs-of-emotional-abuse-in-relationships'>YourTango listicle</a></li></ul>"
 	},
-	"nat-lue": {
+	"natlue": {
 		"title": "Nat Lue",
 		"type": "instagram",
 		"href": "https://www.instagram.com/natlue/",
 		"image": "images/natlue.jpg",
-		"body": "<p>Online educator on codependency, identifying manipulation, and breaking out of people-pleasing habits.</p><p><i class='fa fa-podcast item-icon'></i> Podcast: <a href='https://podcasts.apple.com/gb/podcast/the-baggage-reclaim-sessions/id1032835304'>The Baggage Reclaim Sessions</a></p>"
+		"body": "<p>Online educator on codependency, identifying manipulation, breaking out of people-pleasing habits, learning how to better respect yourself, and not enabling others to take advantage of you.</p><p>Podcast: <a icon-link icon-type='audio' href='https://podcasts.apple.com/gb/podcast/the-baggage-reclaim-sessions/id1032835304'>The Baggage Reclaim Sessions</a></p><ul><li><a href='https://podcasts.apple.com/gb/podcast/ep-176-voicing-issues-to-be-better-than-before/id1032835304?i=1000469692889'>Ep. 176: Non-communication creates more problems than imperfect communication</a></li><li><a href='https://podcasts.apple.com/gb/podcast/ep-174-lets-not-be-cool-taking-advantage-or-being-taken/id1032835304?i=1000468326190'>Ep. 174: Let's not be cool with taking advantage or being taken advantage of</a></li></ul>"
+	},
+	"natlue-176": {
+		"title": "The Baggage Reclaim Sessions, Ep. 176",
+		"type": "audio",
+		"href": "https://podcasts.apple.com/gb/podcast/ep-176-voicing-issues-to-be-better-than-before/id1032835304?i=1000469692889",
+		"body": "Sometimes we don't speak up about something problematic because we're afraid to cause more problems. But hiding our feelings creates more problems than if we'd spoken up in the first place."
+	},
+	"natlue-shame": {
+		"title": "The Baggage Reclaim Sessions, on shame",
+		"type": "audio",
+		"body": "<ul><li><a href='https://podcasts.apple.com/gb/podcast/ep-154-why-dont-we-express-our-feelings/id1032835304?i=1000452282272'>Ep. 154: Why don't we express our feelings?</li><li><a href='https://podcasts.apple.com/gb/podcast/ep-149-theres-no-shame-in-having-needs/id1032835304?i=1000444852574'>Ep. 149: There's no shame in having needs</a></li><li><a href='https://podcasts.apple.com/gb/podcast/ep-176-voicing-issues-to-be-better-than-before/id1032835304?i=1000469692889'>Ep. 176: Non-communication creates more problems than imperfect communication</a></li></ul>"
 	},
 	"nedra-tawwab": {
 		"title": "Nedra Tawwab",
@@ -564,6 +576,10 @@
 		"href": "https://amzn.to/2D662MG",
 		"type": "book",
 		"body": "<p>Misleading title; the “Gift” is the dysfunctional behaviors one may adopt in learning to survive a dysfunctional childhood. Maladjusted parents tend to train their children to adjust to the parents' emotional needs, by withholding care unless they chronically repress certain emotions and needs. This leads to dysfunctional repressed anger & pain in adulthood.</p><p class='footnote'>Mostly a Freudian-leaning psychoanalytical collection of anecdotes and examples that may be useful for helping someone identify how their issues connect to their childhood. For a more actionable handbook, see <a resource-link resource-id='cptsd-walker'></a>.</p>"
+	},
+	"brene-brown-podcast": {
+		"title": "Brené Brown",
+		"body": "<p>Talks about connection & vulnerability, with a focus on toxic shame that holds us back from connection.</p><p>Podcast: <a icon-link icon-type='audio' href='https://podcasts.apple.com/gb/podcast/unlocking-us-with-bren%C3%A9-brown/id1494350511'>Unlocking Us</a></p><ul><li><a href='https://podcasts.apple.com/gb/podcast/bren%C3%A9-on-shame-and-accountability/id1494350511?i=1000480887474'>On shame and accountability</a></li></ul>"
 	},
 	"fancy-quotes": {
 		"title": "“”"

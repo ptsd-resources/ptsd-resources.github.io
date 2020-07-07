@@ -40,12 +40,12 @@
   {
     "title": "Communication",
     "id": "communication",
-    "items": ["self-education", "walker-conflict-resolution", "nvc", "crucial-conversations", "lerner-apologies"]
+    "items": ["self-education", "walker-conflict-resolution", "nvc", "crucial-conversations", "lerner-apologies", "natlue-176"]
   },
   {
-    "title": "Confusion or resentment in relationships",
+    "title": "Confusion or resentment with others",
     "id": "confusion",
-    "items": ["fawn-response", "nat-lue", "nedra-tawwab", "deflection", "gaslighting", "emotional-abuse", "love-abuse", "emotional-abuser", "emotional-abuser-signs", "lerner-apologies"]
+    "items": ["fawn-response", "natlue", "nedra-tawwab", "gaslighting", "stonewalling", "emotional-abuse", "love-abuse", "emotional-abuser-signs", "deflection", "lerner-apologies"]
   },
   {
     "title": "Consent",
@@ -53,7 +53,7 @@
     "items": ["crabb-ethical-consent", "wildfell-consensuality", "clementine-morrigan", "consent-madlib"]
   },
   {
-    "title": "Feeling stuck or hopeless",
+    "title": "Feeling stuck in your healing",
     "id": "somatic",
     "items": ["somatic-modalities", "clementine-morrigan", "andrea-glik", "cptsd-walker", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "janina-fisher"]
   },
@@ -75,7 +75,7 @@
   {
     "title": "Shame",
     "id": "shame",
-    "items": ["samaran-shame", "deflection", "cptsd-walker", "cptsd-workbook-schwartz"]
+    "items": ["samaran-shame", "deflection", "cptsd-walker", "cptsd-workbook-schwartz", "natlue-shame", "brene-brown-podcast"]
   },
   {
     "title": "Trust, vulnerability, and attachment",

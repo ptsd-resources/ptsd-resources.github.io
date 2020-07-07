@@ -160,7 +160,7 @@ app.directive('bindHtmlCompile', ['$compile', function ($compile) {
 
 /* Inline hyperlink to a defined resource
    Usage: <a resource-link resource-id="some-id"></a>
-*/ 
+ */ 
 app.directive('resourceLink', function() {
 	return {
 		restrict: 'A',
@@ -183,3 +183,26 @@ app.directive('resourceLink', function() {
 	};
 });
 
+/* Hyperlink with a resource-type icon attached
+   Usage: <a icon-link icon-type="audio" text="link" href="https://..."></a>
+ */
+app.directive('iconLink', function() {
+	return {
+		restrict: 'A',
+		transclude: true,
+		scope: {
+			'href': '@', // required
+			'iconType': '@',
+		},
+		template: (
+			'<span>' +
+			'  <i class="fa {[iconClass]} item-icon"></i>' +
+			'  <a href="{[href]}" ng-transclude></a>' +
+			'</span>'
+		),
+		link: function(scope, element, attrs) {
+			// Grab resource object from parent scope
+			scope.iconClass = scope.$parent.itemIconClasses[scope.iconType];
+		},
+	};
+});
