@@ -18,6 +18,13 @@ $grey-border: #ccc
 $light-grey-fill: #f1f1f1
 $grey-icon: #bbb
 
+$space-lg: 28px
+$space-med: 22px
+$space-sm: 16px
+$space-xsm: 8px
+
+$bar-width: $space-xsm
+
 /* PAGE MIXINS */
 
 =oblique
@@ -81,24 +88,28 @@ body
 
   h1, h2, h3, .footnote
     +grey-oblique
-    padding: 0 22px
+    padding: 0 $space-med
 
   a h1
     padding: 0
-    margin: 0.5em 0 0
+    margin: $space-xsm 0 0
 
   .header
-    margin-bottom: 22px
+    margin-bottom: $space-med
+
+  .subheader
+    margin-top: $space-lg
+    
 
   /* Sidebar links */
   a 
     display: block
     color: black
-    padding: 14px 22px
+    padding: $space-sm $space-med
     text-decoration: none
     
     &.selected 
-      border-right: 8px $teal-text solid
+      border-right: $bar-width $teal-text solid
       +transition(border-right 0.2s)
     
     &:hover:not(.active)//:not(.selected) 
@@ -114,12 +125,12 @@ body
   line-height: 1.5em
   margin-left: 350px
   max-width: 650px
-  padding: 16px 16px
+  padding: $space-sm
 
   .page-head, .page-item
-    margin: 28px
+    margin: $space-lg
     box-sizing: border-box
-    padding: 21px
+    padding: $space-med
     border-radius: 5px
     word-wrap: break-word
 
@@ -136,7 +147,7 @@ body
       +grey-oblique
       line-height: 1.1em
 
-    border: 8px dashed #eee
+    border: $bar-width dashed #eee
 
   .page-item 
     border: 1px solid $grey-border
@@ -157,7 +168,7 @@ body
 
     &.vocab
       border: none
-      border-left: 8px solid #eee
+      border-left: $bar-width solid #eee
       +grey
 
       .item-title, .item-title a
@@ -220,7 +231,7 @@ body
   #content
     padding: 0
     .page-head, .page-item
-      margin: 16px
+      margin: $space-sm
 
 /* On wider screens, hide responsive-only elements */
 @media screen and (min-width: 901px)

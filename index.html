@@ -79,7 +79,8 @@
 
 	<!-- Nav items -->
 	<div ng-repeat="page in getOrderedPages()">
-		<h3 ng-if="page.items === undefined && page.href === undefined">
+		<h3 ng-if="page.items === undefined && page.href === undefined"
+		    class="subheader">
 			{[page.title]}
 		</h3>
 		<a ng-if="page.items !== undefined"
