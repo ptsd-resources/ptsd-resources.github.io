@@ -5,7 +5,7 @@
   	"crisis-hotlines": {
   		"title": "Hotlines",
   		"type": "talk",
-  		"body": "<p>If you are still in an actively traumatic situation, then PTSD is actually adaptive rather than maladaptive, and it's probably more pressing to work on exiting the situation or gathering resources and allies to increase your safety.</p><ul><li><a href='https://www.thehotline.org/'>National Domestic Abuse Hotline</a></li><li><a href='https://humantraffickinghotline.org/'>National Trafficking Hotline</a></li><li><a href='http://crisislink.org/crisislinks-text-hotline'>Crisis Link Hotline</a></li><li><a href='https://www.rainn.org/'>RAINN</a></li><li><a href='https://www.nilc.org/'>National Immigration Law Center</a></li></ul><p>A hotline is probably a better bet than 911 if you're being abused in a way that's difficult to physically prove to others, emotionally or financially controlled, or afraid of followup retaliation by your abuser.</p>"
+  		"body": "<p>Probably a better bet than 911 if you're being abused in a way that's difficult to physically prove to others, emotionally or financially controlled, or afraid of followup retaliation by your abuser. They may be able to give you advice or resources to help you prepare to safely exit the abusive situation.</p><ul><li><a href='https://www.thehotline.org/'>National Domestic Abuse Hotline</a></li><li><a href='https://humantraffickinghotline.org/'>National Trafficking Hotline</a></li><li><a href='http://crisislink.org/crisislinks-text-hotline'>Crisis Link Hotline</a></li><li><a href='https://www.rainn.org/'>RAINN</a></li><li><a href='https://www.nilc.org/'>National Immigration Law Center</a></li></ul>"
   	},
   	"betterhelp": {
 		"title": "BetterHelp",
@@ -49,12 +49,12 @@
 		"title": "Implicit/emotional flashback",
 		"href": "https://www.psychotherapy.net/article/complex-ptsd",
 		"type": "vocab",
-		"body": "<p>Not all flashbacks involve specific memories. In an implicit flashback, the brain activates its alert system and projects scary primal emotions from an unresolved past situation onto a present-day situation which may actually not be threatening.</p><p>It is common to have implicit flashbacks to distant childhood situations where we were powerless. This can break down our safe relationships if we don't learn how to recognize the signs.</p><p class='footnote'>Excerpted from <a resource-link resource-id='cptsd-walker'></a>.<br/>For the neurological explanation, see <a href='https://en.wikipedia.org/wiki/Amygdala_hijack'>amygdala hijacking</a>.</p>"
+		"body": "<p>Not all flashbacks involve specific memories. In an implicit flashback, the brain activates its alert system and projects scary primal emotions from an unresolved past situation onto a present-day situation which may actually not be threatening.</p><p>It is common to have implicit flashbacks to distant childhood situations where we were powerless. This can break down our safe relationships if we don't learn how to recognize the signs.</p><p class='footnote'>Article is excerpted from <a resource-link resource-id='cptsd-walker'></a>.<br/>For the neurological explanation, see <a href='https://en.wikipedia.org/wiki/Amygdala_hijack'>amygdala hijacking</a>.</p>"
 	},
 	"trigger-check": {
 		"title": "Are you triggered or flashbacked?",
 		"type": "tip",
-		"body": "<p><i>Do you...</i><ul><li>Feel overwhelmed by fear, shame, or confusion</li><li>Feel small, fragile, helpless, terrified</li><li>Feel frozen, shut down, unable to make sense of things, dissociated, emotionally numb</li><li>Feel enraged, critical of others, judgmental, perceive ulterior motives</li><li>Feel worthless, broken, self-loathing, self-disgust, self-hatred</li><li>Suddenly distrust your proven allies</li><li>Feel an evaporation of your usual self-esteem</li><li>Feel an overwhelming fear of catastrophe in response to a relatively mundane or innocuous situation</li><li>Have all-or-nothing thoughts. <i>“People always leave”, “I can never get anything right”, etc.</i></li></ul></p><p>Any of these may indicate you are having an <a href='https://www.psychotherapy.net/article/complex-ptsd'>implicit flashback</a>.</p><p class='footnote'>Paraphrased from <a resource-link resource-id='cptsd-walker'></a>, Ch. 8. If this feels relatable, you may benefit from relational resources. See the sections on <a href='#childhood'>childhood</a> and <a href='#attachment'>trust</a>. If you're not sure where your triggers might stem from, you may benefit from therapy, and possibly <i><a resource-link resource-id='cptsd-walker'></a></i>, Ch. 5."
+		"body": "<p><i>Do you...</i><ul><li>Feel overwhelmed by fear, shame, or confusion</li><li>Feel small, fragile, helpless, terrified</li><li>Feel frozen, shut down, unable to make sense of things, dissociated, emotionally numb</li><li>Feel enraged, critical of others, judgmental, perceive ulterior motives</li><li>Feel worthless, broken, self-loathing, self-disgust, self-hatred</li><li>Suddenly distrust your proven allies</li><li>Feel an evaporation of your usual self-esteem</li><li>Feel an overwhelming fear of catastrophe in response to a relatively mundane or innocuous situation</li><li>Have all-or-nothing thoughts. <i>“People always leave me”, “I can never get anything right”, “Everyone hates me”, etc.</i></li></ul></p><p>Any of these may indicate you are having an <a href='https://www.psychotherapy.net/article/complex-ptsd'>implicit flashback</a>.</p><p class='footnote'>Paraphrased from <a resource-link resource-id='cptsd-walker'></a>, Ch. 8. If this feels relatable, you may benefit from relational resources. See the sections on <a href='#childhood'>childhood</a> and <a href='#attachment'>trust</a>. If you're not sure where your triggers might stem from, you may benefit from therapy, and possibly <i><a resource-link resource-id='cptsd-walker'></a></i>, Ch. 5."
 	},
 	"cptsd-walker": {
 		"title": "<i>From Surviving To Thriving</i> (Pete Walker)",
@@ -62,7 +62,7 @@
 		"href": "https://amzn.to/2xOFc9O",
 		"type": "book",
 		"starred": true,
-		"body": "<p>Extraordinarily actionable, affirming, layperson-oriented handbook for people who grew up with emotional neglect, repression, or abuse. Very applied, with lots of exercises and toolboxes. Structured so you can pick and choose the chapters that are relevant to you. Big focus on deprogramming Critic feelings of self-loathing, toxic shame, and perfectionist demands.</p><p>Important takeaways:</p><ul><li>Emotional neglect can have a lasting impact, but isn't given as much attention as overt abuse.</li><li>Neglect includes: if your parents didn't show up for your emotional needs, or were incapacitated in some way.</li><li>It's hard to know what was missing if you never had it.</li></ul><p>If you feel like something is wrong but you haven't sought help because you don't believe your experiences were “traumatic enough” or “other people had it worse”, there is a chapter in this book written specifically for you.</p><p>Written specifically for people who experienced dysfunctional parenting, but the tools in it are widely applicable to other issues.</p><p class='footnote'><a href='https://docs.google.com/document/d/1j_SQga22DL9Iix7aXTTdUH79m2ftmmTtczTHW358i8g/edit#'>My abridged 5-page summary</a> to try to convince anyone who's not sure about committing to this book. The cover unfortunately looks like a textbook, which is misleading. This is one of the most actionable self-help books I have ever read.</p>"
+		"body": "<p>An applied handbook for people who grew up with emotional neglect, repression, or abuse, with lots of exercises and toolboxes. Extraordinarily actionable, affirming, and layperson-oriented. Structured so you can pick and choose the chapters that are relevant to you. Big focus on deprogramming Critic feelings of self-loathing, toxic shame, and perfectionist demands.</p><p>Important takeaways:</p><ul><li>Emotional neglect can have a lasting impact, but isn't given as much attention as overt abuse.</li><li>Neglect includes: if your parents didn't show up for normal emotional needs, or were incapacitated in some way, even if they behaved lovingly in certain ways.</li><li>It's hard to know what was missing if you never had it.</li></ul><p>If you feel like something is wrong but you haven't sought help because you don't believe your experiences were “traumatic enough” or “other people had it worse”, there is a chapter in this book written specifically for you.</p><p>Written specifically for people who experienced dysfunctional parenting, but the tools in it are widely applicable to other issues.</p><p class='footnote'><a href='https://docs.google.com/document/d/1j_SQga22DL9Iix7aXTTdUH79m2ftmmTtczTHW358i8g/edit#'>My abridged 5-page summary</a> to try to convince anyone who's not sure about committing to this book. The book cover unfortunately looks like a textbook, which is misleading. This is one of the most actionable self-help books I have ever read.</p>"
 	},
 	"bks": {
 		"title": "<i>The Body Keeps The Score</i> (Bessel van der Kolk)",
@@ -112,7 +112,7 @@
 		"title": "<i>Emotional Intelligence</i> (Daniel Goleman)",
 		"href": "https://amzn.to/3bBKeVH",
 		"type": "book",
-		"body": "<p>Thorough general overview on the somatic nature of emotions and hijacking. Makes a case that emotional intelligence is often much more critical for happiness, and even for very societally conventional metrics of success, than conventional intelligence is.<p></p>This book went into great depth about emotional dysregulation, but it is not a self-help book. However, it helped me better grasp the physiological nature of emotions, and validated all this time I’ve been investing into emotional regulation that I could instead be spending on more normatively “useful” things.</p>"
+		"body": "<p>Thorough general overview on the somatic nature of emotions and hijacking. Makes a case that emotional intelligence is often much more critical for happiness, and even for very societally conventional metrics of success, than conventional intelligence is.</p><p>This book went into great depth about emotional dysregulation, but it is not a self-help book. However, it helped me better grasp the physiological nature of emotions, and validated all this time I’ve been investing into emotional regulation that I could instead be spending on more normatively “useful” things.</p>"
 	},
 	"monique-cptsd": {
 		"title": "Monique Koven's CPTSD podcast",
@@ -167,9 +167,9 @@
 		"body": "Attachment-focused therapy educator. Offers striking reframes of common dysregulated attachment mindsets. Has extremely direct tips for people with dysregulated attachment to more healthily recognize their own needs and self-harming patterns."
 	},
 	"somatic-modalities": {
-		"title": "Somatic modalities",
+		"title": "Somatic therapy",
 		"type": "info",
-		"body": "<p>Somatic therapy modalities take mind-body integration into account. They often combine physical techniques and mindfulness with talk therapy. If you are feeling stuck, overwhelmed, unpredictable, out of touch with your body, or have trauma, you may benefit from these.</p><p><b><a href='https://traumahealing.org/about-us/#about'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history'>Hakomi method</a></b> are related treatment approaches which combine traditional therapy with developing your physical self-awareness. This helps you re-establish body agency when triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving self-awareness, learning to distinguish physical sensations from trauma emotions, and learning how to get out of triggered states.</p><p><b>EMDR</b> is a somatic method that helps reintegrate and process stuck trauma more rapidly than conventional therapy alone. It doesn't strictly require you to describe the details of your trauma to be helpful, so it can be helpful if you have difficulty opening up to a therapist. [<a href='https://www.ncbi.nlm.nih.gov/pubmed/17284128'>DOI: 10.4088/jcp.v68n0105</a>]</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research'>EFT/tapping</a></b> involves tapping on your own body to keep it grounded in the present. This can be done on your own.</p><p class='footnote'>For more on how these work, see <a resource-link resource-id='bks'></a>, Part 5.</p>"
+		"body": "<p>Somatic modalities are informed by the way trauma is fragmented in your brain and accessed differently from normal experiences. They sometimes combine physical techniques with talk therapy to help access and reprogram trauma. If you are feeling stuck, overwhelmed, unpredictable, out of touch with your body, or have trauma, you may benefit from these.</p><p><b><a href='https://traumahealing.org/about-us/#about'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history'>Hakomi method</a></b> are related treatment approaches which combine traditional therapy with developing your physical self-awareness. This helps you re-establish body agency when triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving self-awareness, learning to distinguish physical sensations from trauma emotions, and learning how to get out of triggered states.</p><p><b>EMDR</b> is a somatic method that helps reintegrate and process stuck trauma more rapidly than conventional therapy alone. It doesn't strictly require you to describe the details of your trauma to be helpful, so it can be helpful if you have difficulty opening up to a therapist. [<a href='https://www.ncbi.nlm.nih.gov/pubmed/17284128'>DOI: 10.4088/jcp.v68n0105</a>]</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research'>EFT/tapping</a></b> involves tapping on your own body to keep it grounded in the present so you can reduce dissociation. This can be done on your own.</p><p class='footnote'>For more on how these work, see <a resource-link resource-id='bks'></a>, Part 5.</p>"
 	},
 	"polyvagal-overview": {
 		"title": "Polyvagal theory & nervous system regulation",
@@ -258,7 +258,7 @@
 	},
 	"was-it-abuse": {
 		"title": "“But I wasn't abused”",
-		"body": "<ol><li>Abuse comes in many different forms.</li><li>You can have trauma without abuse.</li><li>If you were abandoned, chronically neglected, <a href='https://www.goodtherapy.org/blog/psychpedia/enmeshment'>enmeshed</a>, or expected to repress certain feelings as a child, you can develop lasting trauma from that.</li></ol>"
+		"body": "<ol><li>Abuse comes in many different forms and degrees.</li><li>You can have trauma without abuse.</li><li>If you were abandoned, chronically neglected, <a href='https://www.goodtherapy.org/blog/psychpedia/enmeshment'>enmeshed</a>, punished for not being perfect, or chronically expected to repress certain feelings as a child, you can develop lasting dysfunctions from that.</li></ol>"
 	},
 	"chronic-neglect": {
 		"title": "Chronic emotional neglect",
@@ -278,10 +278,10 @@
 		"body": "The inability to identify emotions (in oneself or others). For some people, this can be true all the time. But even if you’re usually fine at identifying emotions, it’s not uncommon to lose the ability if you're feeling triggered or overwhelmed."
 	},
 	"hijacking": {
-		"title": "Emotional hijacking",
+		"title": "Amygdala hijacking",
 		"href": "https://en.wikipedia.org/wiki/Amygdala_hijack",
 		"type": "vocab",
-		"body": "The amygdala is our center of emotional memory and survival alarms. It makes snap judgments a lot faster than our neocortex can make complex decisions. In other words, there’s a physiological explanation as to why rationalizations might not help us think straight when we're scared, triggered, or angry."
+		"body": "<p>The amygdala is our center of emotional memory and our survival alarm system. It can activate our body's physiological survival response when it believes we are threatened, flooding us with hormones.</p><p>The amygdala makes snap judgments a lot faster than our neocortex can make complex decisions. In other words, there’s a physiological explanation as to why rationalizations might not help us think straight when we're scared, triggered, or angry.</p>"
 	},
 	"interoception": {
 		"title": "Interoception",
@@ -358,7 +358,7 @@
 		"href": "https://amzn.to/3e0qhZs",
 		"type": "book",
 		"starred": true,
-		"body": "<p>Incredibly actionable, emotionally affirming, and compassionate guide on how to mindfully transform relationship-transition grief and pain into an intentional commitment toward mutual kindness, examining your own unhealthy patterns, and learning how to become your most authentic and loving self. Can be used for navigating ongoing processes, or for healing older breakup scars.</p><p class='footnote'>Caveat: Since fully standing up for your authentic self requires a certain degree of security in your basic survival needs, it's worth noting that some of the self-empowerment framings in this book might feel invalidating if you currently have very little logistical agency, have recently been abused, or are still in an actively unsafe situation.</p>"
+		"body": "<p>Incredibly actionable, emotionally affirming, and compassionate guide on how to mindfully transform relationship-transition grief and pain into an intentional commitment toward mutual kindness, examining your own unhealthy patterns, and learning how to become your most authentic and loving self. Can be used for navigating ongoing processes, or for healing older breakup scars.</p><p class='footnote'>Caveat: Since fully standing up for your authentic self requires a certain degree of security in your basic survival needs, it's worth noting that some of the self-empowerment framings in this book might throw you off if you currently have very little logistical agency, have recently been abused, are still in an actively unsafe situation, or have codependent tendencies.</p>"
 	},
 	"pubmed-cptsd-efficacy": {
 		"title": "Analysis of the inefficacy of evidence-based treatments for complex trauma",
@@ -400,6 +400,7 @@
 	},
 	"cptsd-workbook-schwartz": {
 		"title": "The Complex PTSD Workbook (Arielle Schwartz)",
+		"shortTitle": "The Complex PTSD Workbook",
 		"href": "https://amzn.to/3e0Rw6v",
 		"type": "book",
 		"body": "<p>A workbook to normalize, process, and tackle lingering emotional hangups from childhood. A compact tasting course to the many frameworks, concepts, terms, and treatments relevant to childhood dysregulation. Prompts and exercises to feel out what frameworks stick or feel personally relevant to you.</p><p class='quote'>You are not broken, in need of fixing. Rather, you are deeply hurt, in need of care.</p>"
@@ -407,7 +408,7 @@
 	"relational-healing": {
 		"title": "If you have difficulty trusting humans at all",
 		"type": "tip",
-		"body": "<p>Ways to increase your relational capacity without direct human contact:</p><ul><li>Nature or gardening</li><li>Taking care of animals</li><li>Reading validating self-help books or cathartic fiction</li><li>Art & writing by people with similar emotional baggage</li><li>Movement arts to increase your comfort with your body (yoga, flow arts, dance)</li></ul><p>Slowly easing into human relational healing:</p><ul><li>Receiving unconditional positive regard from a therapist</li><li>Support groups (in person or <a href='https://www.reddit.com/r/CPTSD/'>online</a>)</li></ul>"
+		"body": "<p>Ways to increase your relational capacity without direct human contact:</p><ul><li>Nature or gardening</li><li>Taking care of animals</li><li>Cathartic fiction or art by people with similar emotional baggage</li><li>Reading affirming & relatable self-help material</li><li>Movement arts to increase your comfort with your body (yoga, flow arts, dance)</li></ul><p>Slowly easing into human relational healing:</p><ul><li>Receiving unconditional positive regard from a therapist</li><li>Support groups (in person or <a href='https://www.reddit.com/r/CPTSD/'>online</a>)</li></ul>"
 	},
 	"heather-tuba": {
 		"title": "Heather Tuba",
@@ -418,7 +419,7 @@
 	"trigger-support": {
 		"title": "Offering emotional first-aid",
 		"type": "tip",
-		"body": "<p>It's really difficult to communicate effectively when triggered. Depending how much internal work someone has done, it might be emotionally or even physically difficult for them to say what they need, and sometimes no amount of reassurance can help. You can help someone you care about by:</p><ul><li>Learning to recognize their trigger signs</li><li>Learning what's happening to them (what do they fear? are they frozen? numb? self-blaming? angry? do they need more space, or more attention?)</li><li>Knowing what helps them de-escalate (deep breathing, a hug, quiet, music, etc.)</li><li><a href='http://pete-walker.com/lovinglyResolvingConflict.htm'>Taking time-outs</a></li><li>Being present and deeply listening to their pain</li><li>Supporting them in seeking therapy or other external support</li><li>Communicating and setting clearly defined boundaries if you aren't able to be present for them</li></ul><p>(Make sure you aren't neglecting your own needs, especially if you're triggered or have codependent tendencies. Caring for others is often helpful, but can enable dysfunctions if taken to an extreme.)</p>"
+		"body": "<p>You can support someone else by:</p><ul><li>Taking a timeout from other things until de-escalated</li><li>Asking what they need</li><li>Asking what helps them de-escalate (suggestions: deep breathing, a hug, a blanket, music, quiet, yelling into a pillow, etc.)</li><li>Being deeply present with their pain</li><li>Supporting them in seeking therapy or other external support, knowing you can't “fix” someone else's problems</li><li>Communicating and setting clearly defined boundaries if you aren't able to be present for them</li></ul><p>It can be emotionally or even physically difficult for someone to communicate while triggered, and sometimes no amount of reassurance can help. It might be helpful to learn more when they're <i>not</i> triggered. (Do they need to be left alone, or to <i>not</i> be alone? What signs might indicate they are dissociated?)</p><p>Make sure you aren't neglecting your own needs or accepting bad treatment, especially if you have codependent tendencies or are also triggered. Caring for others is often helpful, but can be dysfunctional if taken to an extreme.</p><p class='footnote'>Extrapolated from Chapter 8 of <a resource-link resource-id='cptsd-walker'></a>, Part 2 of <a resource-link resource-id='bks'></a>, and partially wishful personal experience.</p>"
 	},
 	"tiny-god": {
 		"title": "Tiny God",
@@ -481,7 +482,7 @@
 	"therapist-consult-setup": {
 		"title": "Asking for a consultation",
 		"type": "tip",
-		"body": "<p>Contacting therapists for the first time may feel intimidating, but it's okay to just write one email about yourself and send it to everyone you'd like to consult with. Some things to mention:</p><ul><li>Primary issues you want to work on (grief, trauma, triggers, relationship issues, depression, a specific issue in your life, etc).</li><li>If you don't know, it's valid to simply say <i>“I feel ____ and don't know why, can you help me figure out a direction?”</i></li><li>Things you may require in order to be fully comfortable (LGBTQ-affirming? experience working with your cultural background?)</li></ul>"
+		"body": "<p>Contacting therapists for the first time may feel intimidating, but it's okay to just write one email about yourself and send it to everyone you'd like to consult with. Some things to mention:</p><ul><li>Primary issues you want to work on (grief, trauma, triggers, relationship issues, depression, a specific issue in your life, etc).</li><li>If you don't know, it's valid to simply say <i>“I feel ____ and don't know why, can you help me figure out the next step?”</i></li><li>Things you may require in order to be fully comfortable (LGBTQ-affirming? experience working with your cultural background?)</li></ul>"
 	},
 	"therapist-cost": {
 		"title": "Should I get cheaper therapy to cut costs",
@@ -491,7 +492,7 @@
 	"psychoeducation": {
 		"title": "Psychoeducate yourself",
 		"type": "tip",
-		"body": "<p>Your dysfunctions do not mean you are fundamentally bad or broken; you simply have normal learned responses to difficult past situations, and you can choose to unlearn them.</p><p>Learn what it means to have a healthy sense of self, how events may have shaped you, and tools and concepts for constructive healing. Believe it or not, no matter how shameful you may feel your problems are, <i>many</i> people share problems similar to yours, and their shared wisdom can be helpful.</p><p>If you never realize you have always been missing something, you won’t think to look in that gap. If you don't realize there are methods designed to help with the difficulties you are going through, you might not realize help is even possible.</p><p class='footnote'>Paraphrased from a combination of my personal life and Chapter 1 of <a resource-link resource-id='cptsd-walker'></a>.</p>"
+		"body": "<p>Your dysfunctions do not mean you are fundamentally bad or broken; you simply have normal learned responses to difficult past situations, and you can choose to unlearn them.</p><p>Learn what it means to have a healthy sense of self, how your past may have shaped you, and tools for healing. Believe it or not, no matter how shameful you may feel about your problems, <i>many</i> people share problems similar to yours, and their shared wisdom can be helpful.</p><p>If you never realize you have always been missing something, you won’t think to look in that gap. If you don't realize there are methods designed to help with the difficulties you are going through, you might not realize help is even possible.</p><p class='footnote'>Paraphrased from Chapter 1 of <a resource-link resource-id='cptsd-walker'></a> and bolstered by hindsight. For a compact tasting course on psychoeducation, see <a resource-link resource-id='cptsd-workbook-schwartz'></a>.</p>"
 	},
 	"deflection": {
 		"title": "Deflection",
@@ -503,7 +504,7 @@
 		"title": "Gaslighting",
 		"href": "https://www.nbcnews.com/better/health/what-gaslighting-how-do-you-know-if-it-s-happening-ncna890866",
 		"type": "vocab",
-		"body": "<p>When someone chronically overwrites the reality of someone who trusts their word, making it difficult for the victim to believe their own intuition. Can be done intentionally, but is often done unintentionally by people who have inner work to do. Gaslighting is not just one small mistake, but a pattern that adds up over time, often months.</p><p><i>Self-aware example: Consciously lying or changing your story about things you've said in the past, to derail criticism directed at you.</i></p><p><i>Non-self-aware example: Acting passive-aggressive at a partner, but continually denying it when they ask about it, because you have genuine difficulty recognizing when you are upset.</i></p>"
+		"body": "<p>When someone chronically overwrites the reality of someone who trusts their word, making it difficult for the victim to believe their own intuition. Can be done intentionally, but is often done unintentionally by people who have inner work to do. Gaslighting is not just one small mistake, but a pattern that adds up over time, often months.</p><p><i>Self-aware example: Consciously lying or changing your story about things you've said in the past, to derail criticism directed at you.</i></p><p><i>Non-self-aware example: Acting passive-aggressive at a partner, but frequently denying it when they ask about it, because you have genuine difficulty recognizing when you are upset.</i></p>"
 	},
 	"tealswan-shame": {
 		"title": "How To Overcome Shame - Teal Swan",
@@ -537,7 +538,7 @@
 		"type": "instagram",
 		"href": "https://www.instagram.com/natlue/",
 		"image": "images/natlue.jpg",
-		"body": "<p>Online educator on codependency, identifying manipulation, and breaking out of people-pleasing habits.</p><p><i class='fa fa-podcast item-icon'></i> <a href='https://podcasts.apple.com/gb/podcast/the-baggage-reclaim-sessions/id1032835304'>Podcast - The Baggage Reclaim Sessions</a></p>"
+		"body": "<p>Online educator on codependency, identifying manipulation, and breaking out of people-pleasing habits.</p><p><i class='fa fa-podcast item-icon'></i> Podcast: <a href='https://podcasts.apple.com/gb/podcast/the-baggage-reclaim-sessions/id1032835304'>The Baggage Reclaim Sessions</a></p>"
 	},
 	"nedra-tawwab": {
 		"title": "Nedra Tawwab",
@@ -550,19 +551,19 @@
 		"title": "Codependence / fawning",
 		"type": "vocab",
 		"href": "http://pete-walker.com/codependencyFawnResponse.htm",
-		"body": "<p>An unhealthy, one-sided relationship dynamic where there is a huge imbalance, and one person meets all the other's needs without giving much weight to their own needs. Weak boundaries, low self-esteem, high reactivity, and excessive caretaking often lead to codependent dynamics.</p><p>Along with fight, flight, and freeze, Pete Walker posits that fawning, or instinctively becoming codependent, is a fourth major trigger response in people who were conditioned by dysfunctional parenting.</p><p class='footnote'>To learn about how to reduce your codependent tendencies, see <a resource-link resource-id='cptsd-walker'></a>.</p>"
+		"body": "<p>An unhealthy, one-sided relationship dynamic where there is a huge imbalance, and one person meets all the other's needs without giving much weight to their own needs. Weak boundaries, low self-esteem, high reactivity, and excessive caretaking often lead to codependent dynamics.</p><p>Along with fight, flight, and freeze, Pete Walker posits that fawning, or compulsively trying to please others, is a fourth major trigger response in people who were conditioned by dysfunctional parenting.</p><p class='footnote'>To learn about how to reduce your codependent tendencies, see <a resource-link resource-id='cptsd-walker'></a>.</p>"
 	},
 	"lerner-apologies": {
 		"title": "<i>Why Won't You Apologize?: Healing Big Betrayals and Everyday Hurts</i> (Harriet Lerner)",
 		"href": "https://amzn.to/3eYCAX4",
 		"type": "book",
-		"body": "<p>Short primer on truly sincere apologies that genuinely empathize with the other person and try to repair harm, while also holding healthy boundaries. Written for both under-apologizers and over-apologizers.</p><p class='footnote'>Has a bit of overlap with <a resource-link resource-id='hold-me-tight'></a>.</p>"
+		"body": "<p>Short primer on truly sincere apologies that genuinely empathize with the other person and try to repair harm, while also holding healthy boundaries. Written for both under-apologizers and over-apologizers.</p><p class='footnote'>The relationship-oriented chapter has overlap with <a resource-link resource-id='hold-me-tight'></a>.</p>"
 	},
 	"miller-gifted": {
 		"title": "<i>The Drama of the Gifted Child</i> (Alice Miller)",
 		"href": "https://amzn.to/2D662MG",
 		"type": "book",
-		"body": "<p>Misleading title; the “Gift” is the dysfunctional behaviors one may adopt in learning to survive a dysfunctional childhood. About the ways maladjusted parents tend to train their children to chronically repress certain emotions and stop expressing needs, how this leads to dysfunctional repressed anger & pain in adulthood, and some ways people have broken out of those patterns.</p><p class='footnote'>Mostly a collection of anecdotes and examples that may be good for helping someone identify how their issues connect to their childhood. For a more actionable handbook, see <a resource-link resource-id='cptsd-walker'></a>.</p>"
+		"body": "<p>Misleading title; the “Gift” is the dysfunctional behaviors one may adopt in learning to survive a dysfunctional childhood. Maladjusted parents tend to train their children to adjust to the parents' emotional needs, by withholding care unless they chronically repress certain emotions and needs. This leads to dysfunctional repressed anger & pain in adulthood.</p><p class='footnote'>Mostly a Freudian-leaning psychoanalytical collection of anecdotes and examples that may be useful for helping someone identify how their issues connect to their childhood. For a more actionable handbook, see <a resource-link resource-id='cptsd-walker'></a>.</p>"
 	},
 	"fancy-quotes": {
 		"title": "“”"

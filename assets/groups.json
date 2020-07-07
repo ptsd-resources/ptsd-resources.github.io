@@ -15,8 +15,8 @@
     "items": ["go-to-therapy", "whats-therapy-like", "therapist-consult-setup", "psychology-today", "open-path-collective", "therapy-den-guide", "betterhelp", "therapist-cost", "glik-therapy-modalities", "tonitalks", "elleanderson"]
   },
   {
-    "title": "Self-help resources",
-    "id": "self-help"
+    "title": "Emotional first-aid",
+    "id": "first-aid"
   },
   {
     "title": "I feel bad and don't know why",
@@ -26,63 +26,66 @@
   {
     "title": "I'm triggered",
     "id": "triggered",
-    "items": ["stimulus-discrimination", "trigger-protocol", "simple-soothing", "grounding-first-aid", "identify-triggers", "pocketselfcare"]
+    "items": ["stimulus-discrimination", "trigger-protocol", "simple-soothing", "grounding-first-aid", "identify-triggers", "reddit-crisis", "pocketselfcare"]
   },
   {
-    "title": "I want to support & understand someone else who's triggered",
+    "title": "Supporting someone else",
     "id": "support",
     "items": ["trigger-support", "heather-tuba", "silvy-khoucasian", "emotional-flashback", "bks"]
   },
   {
-    "title": "I have hangups about my childhood",
-    "id": "childhood",
-    "items": ["was-it-abuse", "cptsd-walker", "cptsd-workbook-schwartz", "emotionally-immature-parents", "reparenting", "healing-aloneness", "whats-cptsd", "monique-cptsd", "complex-trauma-infographics", "miller-gifted", "general-theory-love", "janina-fisher"]
+    "title": "Self-help resources",
+    "id": "self-help"
   },
   {
-    "title": "My body is sometimes a scary or confusing place to be",
-    "id": "somatic",
-    "subtitle": "If so, you might benefit from somatically-informed treatment modalities.",
-    "items": ["bks", "somatic-modalities", "clementine-morrigan", "andrea-glik", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "janina-fisher"]
-  },
-  {
-    "title": "I have difficulty with shame",
-    "id": "shame",
-    "items": ["samaran-shame", "deflection", "brene-brown-vulnerability", "tealswan-shame", "cptsd-walker", "cptsd-workbook-schwartz"]
-  },
-  {
-    "title": "I feel confused or resentful in a relationship",
-    "id": "confusion",
-    "items": ["deflection", "gaslighting", "nat-lue", "nedra-tawwab", "fawn-response", "emotional-abuse", "love-abuse", "emotional-abuser", "emotional-abuser-signs", "lerner-apologies"]
-  },
-  {
-    "title": "I have difficulty trusting or being vulnerable",
-    "id": "attachment",
-    "items": ["attachment-theory", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "clementine-morrigan", "relational-healing", "cptsd-walker", "hold-me-tight", "love-languages", "reassurance-box", "conscious-uncoupling", "general-theory-love", "samaran-autonomy", "attached-levine"]
-  },
-  {
-    "title": "I want to improve at communication",
+    "title": "Communication",
     "id": "communication",
     "items": ["self-education", "walker-conflict-resolution", "nvc", "crucial-conversations", "lerner-apologies"]
   },
   {
-    "title": "I want healthier boundaries",
-    "id": "boundaries",
-    "items": ["boundaries-katherine", "emotionally-immature-parents", "nvc", "silvy-khoucasian", "sit-with-sharon", "clementine-morrigan", "tnh-love"]
+    "title": "Confusion or resentment in relationships",
+    "id": "confusion",
+    "items": ["fawn-response", "nat-lue", "nedra-tawwab", "deflection", "gaslighting", "emotional-abuse", "love-abuse", "emotional-abuser", "emotional-abuser-signs", "lerner-apologies"]
   },
   {
-    "title": "I'm not always sure what consent means for me",
+    "title": "Consent",
     "id": "consent",
     "items": ["crabb-ethical-consent", "wildfell-consensuality", "clementine-morrigan", "consent-madlib"]
   },
   {
-    "title": "I feel stuck in my healing, or believe that things will never get better",
-    "id": "science",
-    "items": ["hijacking", "bks", "somatic-modalities", "whats-cptsd", "effective-cptsd", "pubmed-cptsd-efficacy", "cptsd-walker", "maps", "emotional-intelligence-goleman", "general-theory-love", "janina-fisher"]
+    "title": "Feeling stuck or hopeless",
+    "id": "somatic",
+    "items": ["somatic-modalities", "clementine-morrigan", "andrea-glik", "cptsd-walker", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "janina-fisher"]
   },
   {
-    "title": "I want to be more mindful",
+    "title": "Hangups about childhood",
+    "id": "childhood",
+    "items": ["was-it-abuse", "cptsd-walker", "cptsd-workbook-schwartz", "emotionally-immature-parents", "reparenting", "healing-aloneness", "whats-cptsd", "monique-cptsd", "complex-trauma-infographics", "general-theory-love", "janina-fisher"]
+  },
+  {
+    "title": "Healthy boundaries",
+    "id": "boundaries",
+    "items": ["boundaries-katherine", "emotionally-immature-parents", "silvy-khoucasian", "sit-with-sharon", "clementine-morrigan"]
+  },
+  {
+    "title": "Mindfulness",
     "id": "self-regulate",
     "items": ["interoception", "tnh-intro", "meditate-yumi", "tiny-god", "engineer-mindfulness", "insight-timer-app", "plum-village-app", "nomudnolotus", "tnh-fear"]
+  },
+  {
+    "title": "Shame",
+    "id": "shame",
+    "items": ["samaran-shame", "deflection", "cptsd-walker", "cptsd-workbook-schwartz"]
+  },
+  {
+    "title": "Trust, vulnerability, and attachment",
+    "id": "attachment",
+    "items": ["attachment-theory", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "clementine-morrigan", "relational-healing", "cptsd-walker", "hold-me-tight", "love-languages", "reassurance-box", "conscious-uncoupling", "general-theory-love", "samaran-autonomy", "attached-levine"]
+  },
+  {
+    "title": "Research helps me feel validated",
+    "id": "science",
+    "items": ["hijacking", "bks", "whats-cptsd", "effective-cptsd", "pubmed-cptsd-efficacy", "maps", "emotional-intelligence-goleman", "general-theory-love"]
   },
   {
     "title": "Site",
