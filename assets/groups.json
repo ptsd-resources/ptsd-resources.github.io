@@ -45,7 +45,7 @@
   {
     "title": "Confusion or resentment with others",
     "id": "confusion",
-    "items": ["fawn-response", "natlue", "nedra-tawwab", "gaslighting", "stonewalling", "emotional-abuse", "love-abuse", "emotional-abuser-signs", "deflection", "lerner-apologies"]
+    "items": ["brene-brown-trust", "fawn-response", "natlue", "nedra-tawwab", "gaslighting", "stonewalling", "emotional-abuse", "love-abuse", "emotional-abuser-signs", "deflection", "lerner-apologies"]
   },
   {
     "title": "Consent",
@@ -65,7 +65,7 @@
   {
     "title": "Healthy boundaries",
     "id": "boundaries",
-    "items": ["boundaries-katherine", "emotionally-immature-parents", "silvy-khoucasian", "sit-with-sharon", "clementine-morrigan"]
+    "items": ["boundaries-katherine", "emotionally-immature-parents", "silvy-khoucasian", "sit-with-sharon", "clementine-morrigan", "natlue"]
   },
   {
     "title": "Mindfulness",
@@ -75,12 +75,12 @@
   {
     "title": "Shame",
     "id": "shame",
-    "items": ["samaran-shame", "deflection", "cptsd-walker", "cptsd-workbook-schwartz", "natlue-shame", "brene-brown-podcast"]
+    "items": ["samaran-shame", "deflection", "cptsd-walker", "cptsd-workbook-schwartz", "natlue-shame", "brene-brown"]
   },
   {
     "title": "Trust, vulnerability, and attachment",
     "id": "attachment",
-    "items": ["attachment-theory", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "clementine-morrigan", "relational-healing", "cptsd-walker", "hold-me-tight", "love-languages", "reassurance-box", "conscious-uncoupling", "general-theory-love", "samaran-autonomy", "attached-levine"]
+    "items": ["attachment-theory", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "clementine-morrigan", "cptsd-walker", "hold-me-tight", "relational-healing", "brene-brown-trust", "love-languages", "reassurance-box", "conscious-uncoupling", "general-theory-love", "samaran-autonomy", "attached-levine"]
   },
   {
     "title": "Research helps me feel validated",
