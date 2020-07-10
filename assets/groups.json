@@ -1,13 +1,8 @@
 { "pages": [
   {
-    "title": "Having an emergency",
-    "id": "emergency",
-    "items": ["911", "crisis-hotlines"]
-  },
-  {
     "title": "In an actively traumatic/abusive situation",
     "id": "hotline",
-    "items": ["reddit-crisis", "crisis-hotlines", "emotionally-immature-parents"]
+    "items": ["911", "crisis-hotlines", "reddit-crisis", "emotionally-immature-parents"]
   },
   {
     "title": "Finding a therapist",
@@ -21,12 +16,12 @@
   {
     "title": "I feel bad and don't know why",
     "id": "feeling-bad",
-    "items": ["trigger-check", "emotional-flashback", "was-it-abuse", "alexithymia", "self-boundaries", "psychoeducation"]
+    "items": ["trigger-check", "emotional-flashback", "was-it-abuse", "alexithymia", "self-boundaries", "definitely-not-trauma", "psychoeducation"]
   },
   {
     "title": "I'm triggered",
     "id": "triggered",
-    "items": ["stimulus-discrimination", "trigger-protocol", "simple-soothing", "grounding-first-aid", "identify-triggers", "reddit-crisis", "pocketselfcare"]
+    "items": ["stimulus-discrimination", "trigger-protocol", "simple-soothing", "grounding-first-aid", "identify-triggers", "reddit-crisis", "trigger-safeword", "pocketselfcare"]
   },
   {
     "title": "Supporting someone else",
@@ -55,7 +50,7 @@
   {
     "title": "Feeling stuck in your healing",
     "id": "somatic",
-    "items": ["somatic-modalities", "clementine-morrigan", "andrea-glik", "cptsd-walker", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "janina-fisher"]
+    "items": ["somatic-modalities", "cptsd-walker", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "andrea-glik", "janina-fisher"]
   },
   {
     "title": "Hangups about childhood",
@@ -65,12 +60,12 @@
   {
     "title": "Healthy boundaries",
     "id": "boundaries",
-    "items": ["boundaries-katherine", "emotionally-immature-parents", "silvy-khoucasian", "sit-with-sharon", "clementine-morrigan", "natlue"]
+    "items": ["boundaries-katherine", "clementine-morrigan", "silvy-khoucasian", "sit-with-sharon", "natlue", "emotionally-immature-parents", "self-education", "confusing-boundaries", "hard-soft-boundaries", "trigger-safeword", "saying-no"]
   },
   {
     "title": "Mindfulness",
     "id": "self-regulate",
-    "items": ["interoception", "tnh-intro", "meditate-yumi", "tiny-god", "engineer-mindfulness", "insight-timer-app", "plum-village-app", "nomudnolotus", "tnh-fear"]
+    "items": ["interoception", "meditate-yumi", "tiny-god", "insight-timer-app", "tnh-intro", "plum-village-app", "nomudnolotus", "tnh-fear", "engineer-mindfulness"]
   },
   {
     "title": "Shame",
