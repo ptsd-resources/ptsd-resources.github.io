@@ -16,7 +16,7 @@
   {
     "title": "I feel bad and don't know why",
     "id": "feeling-bad",
-    "items": ["trigger-check", "emotional-flashback", "was-it-abuse", "alexithymia", "self-boundaries", "definitely-not-trauma", "psychoeducation"]
+    "items": ["trigger-check", "emotional-flashback", "alexithymia", "self-boundaries", "definitely-not-trauma", "was-it-abuse", "psychoeducation"]
   },
   {
     "title": "I'm triggered",
@@ -35,17 +35,17 @@
   {
     "title": "Communication",
     "id": "communication",
-    "items": ["self-education", "walker-conflict-resolution", "nvc", "crucial-conversations", "lerner-apologies", "natlue-176"]
+    "items": ["self-education", "walker-conflict-resolution", "nvc", "crucial-conversations", "lerner-apologies", "natlue-176", "communication-trap"]
   },
   {
     "title": "Confusion or resentment with others",
     "id": "confusion",
-    "items": ["brene-brown-trust", "fawn-response", "natlue", "nedra-tawwab", "gaslighting", "stonewalling", "emotional-abuse", "love-abuse", "emotional-abuser-signs", "deflection", "lerner-apologies"]
+    "items": ["brene-brown-trust", "fawn-response", "natlue", "nedra-tawwab", "gaslighting", "stonewalling", "love-bombing", "emotional-abuse", "love-abuse", "emotional-abuser-signs", "deflection", "lerner-apologies"]
   },
   {
     "title": "Consent",
     "id": "consent",
-    "items": ["crabb-ethical-consent", "wildfell-consensuality", "clementine-morrigan", "consent-madlib"]
+    "items": ["clementine-morrigan", "holistic-life-nav", "crabb-ethical-consent", "wildfell-consensuality", "consent-madlib"]
   },
   {
     "title": "Feeling stuck in your healing",
@@ -55,7 +55,7 @@
   {
     "title": "Hangups about childhood",
     "id": "childhood",
-    "items": ["was-it-abuse", "cptsd-walker", "cptsd-workbook-schwartz", "emotionally-immature-parents", "reparenting", "healing-aloneness", "whats-cptsd", "monique-cptsd", "complex-trauma-infographics", "general-theory-love", "janina-fisher"]
+    "items": ["cptsd-walker", "cptsd-workbook-schwartz", "was-it-abuse", "emotionally-immature-parents", "reparenting", "healing-aloneness", "whats-cptsd", "monique-cptsd", "complex-trauma-infographics", "general-theory-love", "janina-fisher"]
   },
   {
     "title": "Healthy boundaries",

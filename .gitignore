@@ -4,4 +4,5 @@
 */*.css.map
 */*.psd
 
-images/.DS_Store
+.DS_Store
+images/photoshop

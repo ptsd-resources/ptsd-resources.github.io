@@ -171,7 +171,7 @@
 	"somatic-modalities": {
 		"title": "Somatic therapy",
 		"type": "info",
-		"body": "<p>Somatic modalities are informed by the way trauma is fragmented in your brain and accessed differently from normal experiences. They sometimes combine physical techniques with talk therapy to help access and reprogram triggers. If you are feeling stuck, overwhelmed, unpredictable, or out of touch with your body, you may benefit from these.</p><p><b><a href='https://traumahealing.org/about-us/#about'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history'>Hakomi method</a></b> are related treatment approaches which combine traditional therapy with developing your physical self-awareness. This helps you re-establish body agency when triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving self-awareness, learning to distinguish physical sensations from trauma emotions, and learning how to get out of triggered states.</p><p><b>EMDR</b> is a somatic method that helps reintegrate and process stuck trauma more rapidly than conventional therapy alone. It doesn't strictly require you to describe the details of your trauma to be helpful, so it can be helpful if you have difficulty opening up to a therapist. [<a href='https://www.ncbi.nlm.nih.gov/pubmed/17284128'>DOI: 10.4088/jcp.v68n0105</a>]</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research'>EFT/tapping</a></b> involves tapping on your own body to keep it grounded in the present so you can reduce dissociation. This can be done on your own.</p><p class='footnote'>For more on how these work, see <a resource-link resource-id='bks'></a>, Part 5.</p>"
+		"body": "<p>Somatic modalities are informed by the way trauma is fragmented in your brain and accessed differently from normal experiences. They sometimes combine physical techniques with talk therapy to help access and reprogram triggers. If you are feeling stuck, overwhelmed, unpredictable, or out of touch with your body, you may benefit from these.</p><p><b><a href='https://traumahealing.org/about-us/#about'>Somatic experiencing</a></b>, <b><a href='https://www.sensorimotorpsychotherapy.org/articles.html'>sensorimotor psychotherapy</a></b>, and the <b><a href='https://hakomi.com/history'>Hakomi method</a></b> are related treatment approaches which combine traditional therapy with physical self-awareness. This helps you reintegrate trauma, and re-establish body agency when triggered.</p><p>These approaches can be useful for dismantling learned helplessness, improving self-awareness, learning to distinguish physical sensations from trauma emotions, and learning how to get out of triggered states.</p><p><b>EMDR</b> is a somatic method that helps reintegrate stuck trauma much more rapidly than conventional therapy alone. It can help emotionally replace traumatic beliefs, like a fear of being fundamentally unlovable, with constructive core beliefs. [<a href='https://www.ncbi.nlm.nih.gov/pubmed/17284128'>DOI: 10.4088/jcp.v68n0105</a>]</p><p><b><a href='https://www.healthline.com/health/eft-tapping#research'>EFT/tapping</a></b> involves tapping on your own body to keep it grounded in the present so you can reduce dissociation. This can be done on your own.</p><p class='footnote'>For more on how these work, see <a resource-link resource-id='bks'></a>, Part 5.</p>"
 	},
 	"polyvagal-overview": {
 		"title": "Polyvagal theory & nervous system regulation",
@@ -260,6 +260,8 @@
 	},
 	"was-it-abuse": {
 		"title": "“But I wasn't abused”",
+		"image": "images/whats_trauma.jpg",
+		"imageAlt": "Trauma is NOT: abuse or physical violence, a sufficiently subjectively horrifying event, a diagnosis, or healed by time or ignoring it. Trauma IS: when your mind and body get too overwhelmed to process normally, not stored the same way as normal memories, capable of lingering for years or a lifetime, healable, re-experienced or triggered often in non-dangerous situations, and re-experienced in different ways, such as anger, fear, numbing, or shame.",
 		"body": "<ol><li>Abuse comes in many different forms and degrees.</li><li>You can have trauma without abuse.</li><li>If you were abandoned, chronically neglected, <a href='https://www.goodtherapy.org/blog/psychpedia/enmeshment'>enmeshed</a>, punished for not being perfect, or chronically expected to repress certain feelings as a child, you can develop lasting dysfunctions from that.</li></ol>"
 	},
 	"chronic-neglect": {
@@ -432,6 +434,7 @@
 		"title": "Consent Madlib",
 		"href": "https://www.redbubble.com/i/poster/Consent-Madlib-by-skollipsism/35148568.LVTDI",
 		"image": "images/consent_madlib.jpg",
+		"imageAlt": "If you have healthy boundaries, it might be easy to say no to things. If you have wibbly boundaries or have been domestically abused, you might be conditioned to consent to things you don't actually want. Instead of just yes or no, it's okay to say how you feel. Consent Madlib for Fellow Doormats: I would enjoy this thing I actively want! I'd be okay with this thing I don't mind! I'm not sure about this uncertain thing. I don't want this thing that I definitely don't want.",
 		"body": "The yes-no threshold can be in very different places for people with healthy boundaries vs. people who have been conditioned by fear, guilt, or shame. A simple visual guide I made to help untangle different levels of wantingness."
 	},
 	"walker-conflict-resolution": {
@@ -479,7 +482,7 @@
 		"title": "Stimulus discrimination",
 		"type": "vocab",
 		"href": "https://www.instagram.com/p/CBsujQfHNEG/",
-		"body": "The ability to discriminate between a trigger and a situation that is actually dangerous or unhealthy."
+		"body": "The ability to discriminate between trigger fear and a situation that is actually dangerous or unhealthy."
 	},
 	"therapist-consult-setup": {
 		"title": "Asking for a consultation",
@@ -506,7 +509,7 @@
 		"title": "Gaslighting",
 		"href": "https://www.nbcnews.com/better/health/what-gaslighting-how-do-you-know-if-it-s-happening-ncna890866",
 		"type": "vocab",
-		"body": "<p>When someone chronically overwrites the reality of someone who trusts them, making it difficult for the victim to believe their own intuition. Can be done intentionally, but is often done unintentionally by people who have inner work to do. Gaslighting is not just one small mistake, but a pattern that adds up over time, often months.</p><p><i>Self-aware example: Consciously lying or changing your story about things you've said in the past, to derail criticism directed at you.</i></p><p><i>Non-self-aware example: Acting passive-aggressive at a partner, but frequently denying it when they ask about it, because you have genuine difficulty recognizing when you are upset.</i></p><p><a icon-link icon-type='audio' href='https://podcasts.apple.com/gb/podcast/the-emperor-has-no-clothes-on-lets-talk-about-gaslighting/id1032835304?i=1000476140909'>The Baggage Reclaim Sessions - Ep. 185: Gaslighting</a></p>"
+		"body": "<p>When someone chronically overwrites another's reality, making it difficult for them to believe their own intuition. Can be done intentionally, but is often done unintentionally by people with gaps in their emotional self-awareness. Gaslighting is not just one small mistake, but a pattern that adds up over time, often months.</p><p><i>Self-aware example: Consciously lying or changing your story about things you've said in the past, to derail criticism directed at you.</i></p><p><i>Non-self-aware example: Acting passive-aggressive at a partner, but frequently denying it when they ask about it, because you have genuine difficulty recognizing when you are upset.</i></p><p><a icon-link icon-type='audio' href='https://podcasts.apple.com/gb/podcast/the-emperor-has-no-clothes-on-lets-talk-about-gaslighting/id1032835304?i=1000476140909'>The Baggage Reclaim Sessions - Ep. 185: Gaslighting</a></p>"
 	},
 	"stonewalling": {
 		"title": "Stonewalling",
@@ -591,18 +594,21 @@
 	"holistic-life-nav": {
 		"title": "Holistic Life Navigation",
 		"type": "instagram",
-		"href": "https://www.instagram.com/holistic.life.navigation/"
+		"href": "https://www.instagram.com/holistic.life.navigation/",
+		"image": "images/holistic_life_nav.png",
+		"imageAlt": "Sexual trauma isn't always from abuse.",
+		"body": "<p>Concise tips about somatic healing, sexual trauma, people-pleasing, and how certain codependence & physical issues we have quietly normalized and suffered through all our lives can be healed through somatic trauma informed methods.</p><p class='quote'>Trauma is not dependent on abuse. Sexual trauma is no different. [...] Look no further. Your feelings are valid. The body stores trauma when it cannot complete a trauma response. Something you saw, something you heard, even something you imagined can be at the root of this. It’s not your fault.⁣</p>"
 	},
 	"confusing-boundaries": {
 		"title": "On explaining unpredictable trigger boundaries",
 		"href": "http://jessmahler.com/polyamory-boundaries-and-mental-illness/",
 		"type": "tip",
-		"body": "<p class='quote'>I can’t give you a clear idea of my needs and boundaries. I’m sorry about that, but what I need changes a lot depending if I'm triggered. I can promise to tell you in each moment what I need or want to the best of my ability. And I’ll try to explain what I know about how my triggers affect me and my needs, so you have some idea of what to expect depending on how I’m doing.”</p><p>Modified from <a href='https://jessmahler.com/poly-advice-mentally-ill-set-clear-boundaries/'>Jess Mahler's post</a> on PTSD boundary communication.</p>"
+		"body": "<p>It is not uncommon to fear or resent things in your trigger state that you enjoy and seek out when you're not triggered. This can be really confusing for both you and others.</p><p class='quote'>I can’t give you a clear idea of my needs and boundaries. I’m sorry about that, but what I need changes a lot depending if I'm triggered. I can promise to tell you in each moment what I need or want to the best of my ability. And I’ll try to explain what I know about how my triggers affect me and my needs, so you have some idea of what to expect depending on how I’m doing.”</p><p>Modified from <a href='https://jessmahler.com/poly-advice-mentally-ill-set-clear-boundaries/'>Jess Mahler's post</a> on PTSD boundary communication.</p>"
 	},
 	"trigger-safeword": {
-		"title": "I'm not able to communicate while I'm triggered",
+		"title": "What if I can't communicate while triggered?",
 		"type": "tip",
-		"body": "<p>This can be really distressing for both you and others if they have no idea what's happening to you and they keep accidentally triggering you. It might be helpful to come up with guidelines next time you're <i>not</i> triggered:</p><ul><li>Arrange a safeword or a nonverbal signal you can use if you suddenly become triggered</li><li>Do you feel safer being comforted? Left alone? Being hugged? Not touched at all? These things differ for everyone.</li><li>Show someone how to recognize when you're triggered</li><li>Tell people specific things that help you when you're triggered</li><li>Tell people what's helpful or scary for you when you're triggered</li></ul><p>It's especially important to be upfront if you require space when you're triggered, because a lot of people's first reaction will be to try to comfort you or find out what's wrong.</p>"
+		"body": "<p>This can be really distressing for both you and others if they have no idea what's happening to you and they keep accidentally triggering you. Helpful preparation:</p><ul><li>Arrange a safeword or a nonverbal signal you can use if you suddenly become triggered</li><li>Do you feel safer being comforted? Left alone? Being hugged? Not touched at all? These things differ for everyone.</li><li>Show someone how to recognize when you're triggered</li><li>Tell people specific things that help you when you're triggered</li><li>Tell people what's helpful or scary for you when you're triggered</li></ul><p>It's especially important to be upfront if you require space when you're triggered, because a lot of people's first reaction will be to try to comfort you or find out what's wrong. Their goal isn't to further distress you, they just don't know what you need.</p>"
 	},
 	"hard-soft-boundaries": {
 		"title": "Hard vs. soft boundaries | Jess Mahler",
@@ -611,14 +617,27 @@
 		"body": "<p><b>Hard boundary</b>: a non-negotiable blacklist item. For example, if someone hits me or screams at me in anger, I'm cutting them out of my life; it doesn't matter why they say they did it.</p><p><b>Soft boundary</b>: something you won't do by default, but will situationally consider. For example, I won't cancel a commitment with one person for another under normal circumstances, <i>but</i> if someone I know is having an urgent emergency, I'll drop anything to respond to that.</p>"
 	},
 	"saying-no": {
-		"title": "An exercise in saying No",
+		"title": "Saying No: The Game",
 		"type": "tip",
-		"body": "<p>If you're bad at saying No, ask a trusted person (or therapist) if you can practice saying No with them. Some easy examples:</p><ul><li>Have them ask you for impossible things, like to lasso the moon.</li><li>Have them ask you to do something you know you would never do.</li></ul><p>When you're comfortable, work up to harder hypothetical No's:</p><ul><li>Have them pretend to be your boss asking you to work during your time off.</li><li>Practice taking a rain check on a commitment because you don't have energy.</li><li>Say No to a request that's not unreasonable, but that you would rather not do.</li><li>Say No to things you've previously said yes to.</li></ul><p><b>New Player Mode</b>: have them praise and thank you every time you say No.</p><p><b>Normal Mode</b>: have them ask if you're sure when you say No.</p><p><b>Challenge Mode</b>: have them protest and get upset when you say No.</p>"
+		"body": "<p>If you're bad at saying No, ask a trusted person (or therapist) if you can practice saying No with them. Warm-up round:</p><ul><li>Have them ask you for impossible things, like lassoing the moon.</li><li>Have them ask you to do something you know you would never do.</li></ul><p>When you're comfortable, work up to harder hypothetical No's:</p><ul><li>Have them pretend to be your boss asking you to work during your time off.</li><li>Take a rain check on a commitment.</li><li>Say No to a request that's pretty reasonable.</li><li>Say No to things you've previously said yes to.</li><li>Say No to something uncomfortable that you feel like you <i>should</i> do.</li></ul><p><b>New Player Mode</b>: have them praise you and thank you for expressing your boundaries every time you say No.</p><p><b>Normal Mode</b>: have them neutrally acknowledge your No.</p><p><b>Challenge Mode</b>: have them protest and get upset when you say No.</p>"
 	},
 	"definitely-not-trauma": {
 		"title": "This was useful, but I definitely don't have trauma",
 		"type": "tip",
-		"body": "<p>Do you experience distressing involuntary responses to triggers? Do you have difficulty setting boundaries? Do you not want those things to impact your life any more?</p><p>If so, regardless of what labels you use to describe yourself, trauma resources will be extremely helpful to you."
+		"image": "images/definitely_not_trauma.jpg",
+		"imageAlt": "You might find trauma resources helpful if you experience distressing, visceral, involuntary responses in situations you rationally know are not dangerous. If you have difficulty setting boundaries, or knowing what your boundaries are. If you have a lot of difficulty experiencing anger, fear, joy, shame, or desire. If you sometimes feel viscerally helpless or overwhelmed and don't know why. If you want these things to stop impacting your life and people you care about.",
+		"body": "<p>Do you experience distressing involuntary responses or sudden mood changes that damage your safe relationships? Do you have difficulty setting boundaries? Do you not want those things to impact your life any more?</p><p>If so, regardless of what labels you use to describe yourself, trauma resources will be extremely helpful to you."
+	},
+	"love-bombing": {
+		"title": "Love bombing",
+		"type": "vocab",
+		"href": "https://www.psychologytoday.com/us/blog/toxic-relationships/201811/all-you-should-know-about-narcissistic-love-bombing",
+		"body": "<p>When someone idealizes you and showers you intensely with overwhelming amounts of attention, affection, promises, and gifts, but turn around once they've won you over. They may then criticize and devalue you, get furious with you about little things, or simply ghost you.</p><p>Love bombers are insecure (though they may not come off that way), and are often narcissists who project an impossible 'perfect' soulmate who will magically meet all their needs, then get upset when that is inevitably not the case. Love bombing may look like a whirlwind romance, or declaring that you're soulmates after a few weeks.</p>"
+	},
+	"communication-trap": {
+		"title": "Listen to what's really going on",
+		"type": "tip",
+		"body": "<p>All these frameworks and psychoeducation resources are good and useful, but when you're actually communicating with someone in real life, don't let your <i>idea</i> of healthy communication block your intuition about what's happening with the real person in front of you.</p><p>If you're trying to communicate in a clear and gentle way and things are just getting worse and worse, there's probably some underlying emotional context that will <i>not</i> be addressed by trying to communicate even more clearly and gently.</p><p class='footnote'>Source: deep abyss of personal regret</p>"
 	},
 	"fancy-quotes": {
 		"title": "“”"
