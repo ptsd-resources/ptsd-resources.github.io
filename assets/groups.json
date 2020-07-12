@@ -16,7 +16,7 @@
   {
     "title": "I feel bad and don't know why",
     "id": "feeling-bad",
-    "items": ["trigger-check", "emotional-flashback", "alexithymia", "self-boundaries", "definitely-not-trauma", "was-it-abuse", "psychoeducation"]
+    "items": ["trigger-check", "emotional-flashback", "alexithymia", "self-boundaries", "definitely-not-trauma", "was-it-abuse", "psychoeducation", "why-bother"]
   },
   {
     "title": "I'm triggered",
@@ -50,7 +50,7 @@
   {
     "title": "Feeling stuck in your healing",
     "id": "somatic",
-    "items": ["somatic-modalities", "cptsd-walker", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "andrea-glik", "janina-fisher"]
+    "items": ["somatic-modalities", "cptsd-walker", "why-bother", "polyvagal-overview", "polyvagal-rosenberg", "polyvagal-dana", "andrea-glik", "janina-fisher"]
   },
   {
     "title": "Hangups about childhood",

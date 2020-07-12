@@ -435,7 +435,7 @@
 		"href": "https://www.redbubble.com/i/poster/Consent-Madlib-by-skollipsism/35148568.LVTDI",
 		"image": "images/consent_madlib.jpg",
 		"imageAlt": "If you have healthy boundaries, it might be easy to say no to things. If you have wibbly boundaries or have been domestically abused, you might be conditioned to consent to things you don't actually want. Instead of just yes or no, it's okay to say how you feel. Consent Madlib for Fellow Doormats: I would enjoy this thing I actively want! I'd be okay with this thing I don't mind! I'm not sure about this uncertain thing. I don't want this thing that I definitely don't want.",
-		"body": "The yes-no threshold can be in very different places for people with healthy boundaries vs. people who have been conditioned by fear, guilt, or shame. A simple visual guide I made to help untangle different levels of wantingness."
+		"body": "<p>A simple visual guide I made to help untangle different levels of wantingness.</p><p>People with healthy boundaries may have an easy time saying no to things they're not excited about. But people who have been conditioned by fear, guilt, or shame may automatically say yes to things they're not sure about, or even to things they actively don't enjoy.</p><p>It's important not to just say yes or no with trusted people, but to express our complex feelings so everyone can make responsible decisions. We may think we're doing them a favor by saying yes to everything, but people who truly care about us really don't want that from us.</p>"
 	},
 	"walker-conflict-resolution": {
 		"title": "Tips for lovingly resolving conflict",
@@ -622,7 +622,7 @@
 		"body": "<p>If you're bad at saying No, ask a trusted person (or therapist) if you can practice saying No with them. Warm-up round:</p><ul><li>Have them ask you for impossible things, like lassoing the moon.</li><li>Have them ask you to do something you know you would never do.</li></ul><p>When you're comfortable, work up to harder hypothetical No's:</p><ul><li>Have them pretend to be your boss asking you to work during your time off.</li><li>Take a rain check on a commitment.</li><li>Say No to a request that's pretty reasonable.</li><li>Say No to things you've previously said yes to.</li><li>Say No to something uncomfortable that you feel like you <i>should</i> do.</li></ul><p><b>New Player Mode</b>: have them praise you and thank you for expressing your boundaries every time you say No.</p><p><b>Normal Mode</b>: have them neutrally acknowledge your No.</p><p><b>Challenge Mode</b>: have them protest and get upset when you say No.</p>"
 	},
 	"definitely-not-trauma": {
-		"title": "This was useful, but I definitely don't have trauma",
+		"title": "I'm triggered, but I definitely don't have trauma",
 		"type": "tip",
 		"image": "images/definitely_not_trauma.jpg",
 		"imageAlt": "You might find trauma resources helpful if you experience distressing, visceral, involuntary responses in situations you rationally know are not dangerous. If you have difficulty setting boundaries, or knowing what your boundaries are. If you have a lot of difficulty experiencing anger, fear, joy, shame, or desire. If you sometimes feel viscerally helpless or overwhelmed and don't know why. If you want these things to stop impacting your life and people you care about.",
@@ -638,6 +638,11 @@
 		"title": "Listen to what's really going on",
 		"type": "tip",
 		"body": "<p>All these frameworks and psychoeducation resources are good and useful, but when you're actually communicating with someone in real life, don't let your <i>idea</i> of healthy communication block your intuition about what's happening with the real person in front of you.</p><p>If you're trying to communicate in a clear and gentle way and things are just getting worse and worse, there's probably some underlying emotional context that will <i>not</i> be addressed by trying to communicate even more clearly and gently.</p><p class='footnote'>Source: deep abyss of personal regret</p>"
+	},
+	"why-bother": {
+		"title": "Ugh, is all this work really worth it?",
+		"type": "tip",
+		"body": "<p>Obviously, your mileage may vary. In my view, personal growth is one of the most rewarding things I can do with my time.</p><ul><li>It's a unique, custom puzzle that comes built into you for free</li><li>Every time you solve a piece of the puzzle, you are rewarded with more personal fulfillment, insight, or healthier relationships</li><li>It feels futuristic and cyberpunk to modify one's psyche at will</li><li>It is painful to act out of alignment with one's own values, and feels empowering to have the agency to increase one's alignment</li></ul>"
 	},
 	"fancy-quotes": {
 		"title": "“”"
