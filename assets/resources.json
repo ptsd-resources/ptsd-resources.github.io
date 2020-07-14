@@ -604,12 +604,12 @@
 		"title": "On explaining unpredictable trigger boundaries",
 		"href": "http://jessmahler.com/polyamory-boundaries-and-mental-illness/",
 		"type": "tip",
-		"body": "<p>It is not uncommon to enjoy and seek out certain things when you're not triggered, like affectionate touch, that you may fear or resent while triggered. This can be really confusing for both you and others.</p><p class='quote'>I can’t give you a clear idea of my needs and boundaries. I’m sorry about that, but what I need changes a lot depending if I'm triggered. I can promise to tell you in each moment what I need or want to the best of my ability. And I’ll try to explain what I know about how my triggers affect me and my needs, so you have some idea of what to expect depending on how I’m doing.”</p><p>Modified from <a href='https://jessmahler.com/poly-advice-mentally-ill-set-clear-boundaries/'>Jess Mahler's post</a> on PTSD boundary communication.</p>"
+		"body": "<p>It is not uncommon to enjoy and seek out certain things when you're not triggered, like sass or affectionate touch, that you then fear or resent while triggered. This can be really confusing for both you and others.</p><p class='quote'>I can’t give you a clear idea of my needs and boundaries. I’m sorry about that, but what I need changes a lot depending if I'm triggered. I can promise to tell you in each moment what I need or want to the best of my ability. And I’ll try to explain what I know about how my triggers affect me and my needs, so you have some idea of what to expect depending on how I’m doing.”</p><p>Modified from <a href='https://jessmahler.com/poly-advice-mentally-ill-set-clear-boundaries/'>Jess Mahler's post</a> on PTSD boundary communication.</p>"
 	},
 	"trigger-safeword": {
 		"title": "What if I can't communicate while triggered?",
 		"type": "tip",
-		"body": "<p>This can be really distressing for both you and others if they have no idea what's happening to you and they keep accidentally triggering you. Helpful preparation:</p><ul><li>Arrange a safeword or a nonverbal signal you can use if you suddenly become triggered</li><li>Do you feel safer being comforted? Left alone? Being hugged? Not touched at all? These things differ for everyone.</li><li>Show someone how to recognize when you're triggered</li><li>Tell people specific things that help you when you're triggered</li><li>Tell people what's helpful or scary for you when you're triggered</li></ul><p>It's especially important to be upfront if you require space when you're triggered, because a lot of people's first reaction will be to try to comfort you or find out what's wrong. Their goal isn't to further distress you, they just don't know what you need.</p>"
+		"body": "<p>This can be really distressing for both you and others if they have no idea what's happening to you and they keep accidentally triggering you. Helpful preparation:</p><ul><li>Arrange a safeword or a nonverbal signal you can use if you suddenly become triggered</li><li>Do you feel safer being comforted? Left alone? Being hugged? Not touched at all? These things differ for everyone.</li><li>Learn how to recognize more quickly if you're triggered</li><li>Show someone how to recognize when you're triggered</li><li>Tell people specific things that help you when you're triggered</li><li>Tell people what's helpful or scary for you when you're triggered</li></ul><p>It's especially important to be upfront if you require space when you're triggered, because a lot of people's first reaction will be to try to comfort you or find out what's wrong. Their goal isn't to further distress you, they just don't know what you need.</p>"
 	},
 	"hard-soft-boundaries": {
 		"title": "Hard vs. soft boundaries | Jess Mahler",
@@ -657,6 +657,12 @@
 		"image": "images/notyrboyfriend.jpg",
 		"href": "https://www.instagram.com/not.yr.boyfriend/",
 		"body": "Screaming neon clown tips on how to healthily communicate your needs with people who love you and genuinely want to respect your needs and treat you right, but can't when you suffer in silence instead of communicating with them, <i>because they're not mind-readers</i>."
+	},
+	"kimchi-boundaries": {
+		"title": "Rules, Agreements, and Boundaries | Kimchi Cuddles",
+		"image": "images/kimchi_boundaries.png",
+		"href": "https://kimchicuddles.com/post/172798231060/rules-agreements-and-boundaries-but-why-the",
+		"body": "<p>A simple comic illustration of the difference between rules, agreements, and boundaries. It's not easy for everyone to tell the difference between a rule, which dictates someone else's behavior, vs. a boundary, which only has to do with <i>you</i> -- your body, your behavior, your personal space.</p><p>Setting boundaries helps you figure out what you need to feel safe, and empowers you to stick up for yourself instead of controlling others.</p><p><i>Rule: “Stop doing that thing. You're triggering me.”<br/>Boundary: “If I become triggered, I will have to take a time out from this conversation.”<br/>Helpful explanation: “I got triggered when you did ___. If you could do ___ instead, it would help me feel a lot safer, because ___.”</i></p>"
 	},
 	"fancy-quotes": {
 		"title": "“”"
