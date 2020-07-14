@@ -16,7 +16,7 @@
   {
     "title": "I feel bad and don't know why",
     "id": "feeling-bad",
-    "items": ["trigger-check", "emotional-flashback", "alexithymia", "self-boundaries", "definitely-not-trauma", "was-it-abuse", "psychoeducation", "why-bother"]
+    "items": ["trigger-check", "emotional-flashback", "alexithymia", "self-boundaries", "definitely-not-trauma", "was-it-abuse", "psychoeducation", "lost", "why-bother"]
   },
   {
     "title": "I'm triggered",
@@ -60,7 +60,7 @@
   {
     "title": "Healthy boundaries",
     "id": "boundaries",
-    "items": ["boundaries-katherine", "clementine-morrigan", "silvy-khoucasian", "sit-with-sharon", "natlue", "emotionally-immature-parents", "self-education", "confusing-boundaries", "hard-soft-boundaries", "trigger-safeword", "saying-no"]
+    "items": ["boundaries-katherine", "clementine-morrigan", "silvy-khoucasian", "sit-with-sharon", "natlue", "emotionally-immature-parents", "self-education", "confusing-boundaries", "hard-soft-boundaries", "trigger-safeword", "saying-no", "not-yr-boyfriend"]
   },
   {
     "title": "Mindfulness",

@@ -435,7 +435,7 @@
 		"href": "https://www.redbubble.com/i/poster/Consent-Madlib-by-skollipsism/35148568.LVTDI",
 		"image": "images/consent_madlib.jpg",
 		"imageAlt": "If you have healthy boundaries, it might be easy to say no to things. If you have wibbly boundaries or have been domestically abused, you might be conditioned to consent to things you don't actually want. Instead of just yes or no, it's okay to say how you feel. Consent Madlib for Fellow Doormats: I would enjoy this thing I actively want! I'd be okay with this thing I don't mind! I'm not sure about this uncertain thing. I don't want this thing that I definitely don't want.",
-		"body": "<p>A simple visual guide I made to help untangle different levels of wantingness.</p><p>People with healthy boundaries may have an easy time saying no to things they're not excited about. But people who have been conditioned by fear, guilt, or shame may automatically say yes to things they're not sure about, or even to things they actively don't enjoy.</p><p>It's important not to just say yes or no with trusted people, but to express our complex feelings so everyone can make responsible decisions. We may think we're doing them a favor by saying yes to everything, but people who truly care about us really don't want that from us.</p>"
+		"body": "<p>A simple visual guide I made to help untangle different levels of wantingness.</p><p>People with healthy boundaries may have an easy time saying no to things they're not excited about. But people who have been conditioned by fear, guilt, or shame may automatically say yes to things they're not sure about, or even to things they actively don't enjoy.</p><p>It's important not to just say yes or no with trusted people, but to express our complex feelings so everyone can make responsible decisions. We may think we're doing them a favor by saying yes to everything, but people who really care about us don't want us to do that.</p>"
 	},
 	"walker-conflict-resolution": {
 		"title": "Tips for lovingly resolving conflict",
@@ -567,7 +567,8 @@
 		"title": "Codependence / fawning",
 		"type": "vocab",
 		"href": "http://pete-walker.com/codependencyFawnResponse.htm",
-		"body": "<p>An unhealthy, one-sided relationship dynamic where there is a huge imbalance, and one person meets all the other's needs without giving much weight to their own needs. Weak boundaries, low self-esteem, high reactivity, and excessive caretaking often lead to codependent dynamics.</p><p>Along with fight, flight, and freeze, Pete Walker posits that fawning, or compulsively trying to please others, is a fourth major trigger response in people who were conditioned by dysfunctional parenting.</p><p class='footnote'>For help reducing your codependent tendencies, see <a resource-link resource-id='cptsd-walker'></a>.</p>"
+		"image": "images/codependent.jpg",
+		"body": "<p>An unhealthy, imbalanced relational tendency where one person tries to meet the other's needs without asserting their own. Weak boundaries, low self-esteem, high reactivity, and excessive caretaking often lead to codependent dynamics.</p><p>Along with fight, flight, and freeze, Pete Walker posits that fawning, or compulsively trying to please others, is a fourth major trigger response in people who were conditioned by dysfunctional parenting.</p><p class='footnote'>For help reducing your codependent tendencies, see <a resource-link resource-id='cptsd-walker'></a>.</p>"
 	},
 	"lerner-apologies": {
 		"title": "<i>Why Won't You Apologize?: Healing Big Betrayals and Everyday Hurts</i> (Harriet Lerner)",
@@ -603,7 +604,7 @@
 		"title": "On explaining unpredictable trigger boundaries",
 		"href": "http://jessmahler.com/polyamory-boundaries-and-mental-illness/",
 		"type": "tip",
-		"body": "<p>It is not uncommon to fear or resent things in your trigger state that you enjoy and seek out when you're not triggered. This can be really confusing for both you and others.</p><p class='quote'>I can’t give you a clear idea of my needs and boundaries. I’m sorry about that, but what I need changes a lot depending if I'm triggered. I can promise to tell you in each moment what I need or want to the best of my ability. And I’ll try to explain what I know about how my triggers affect me and my needs, so you have some idea of what to expect depending on how I’m doing.”</p><p>Modified from <a href='https://jessmahler.com/poly-advice-mentally-ill-set-clear-boundaries/'>Jess Mahler's post</a> on PTSD boundary communication.</p>"
+		"body": "<p>It is not uncommon to enjoy and seek out certain things when you're not triggered, like affectionate touch, that you may fear or resent while triggered. This can be really confusing for both you and others.</p><p class='quote'>I can’t give you a clear idea of my needs and boundaries. I’m sorry about that, but what I need changes a lot depending if I'm triggered. I can promise to tell you in each moment what I need or want to the best of my ability. And I’ll try to explain what I know about how my triggers affect me and my needs, so you have some idea of what to expect depending on how I’m doing.”</p><p>Modified from <a href='https://jessmahler.com/poly-advice-mentally-ill-set-clear-boundaries/'>Jess Mahler's post</a> on PTSD boundary communication.</p>"
 	},
 	"trigger-safeword": {
 		"title": "What if I can't communicate while triggered?",
@@ -619,7 +620,7 @@
 	"saying-no": {
 		"title": "Saying No: The Game",
 		"type": "tip",
-		"body": "<p>If you're bad at saying No, ask a trusted person (or therapist) if you can practice saying No with them. Warm-up round:</p><ul><li>Have them ask you for impossible things, like lassoing the moon.</li><li>Have them ask you to do something you know you would never do.</li></ul><p>When you're comfortable, work up to harder hypothetical No's:</p><ul><li>Have them pretend to be your boss asking you to work during your time off.</li><li>Take a rain check on a commitment.</li><li>Say No to a request that's pretty reasonable.</li><li>Say No to things you've previously said yes to.</li><li>Say No to something uncomfortable that you feel like you <i>should</i> do.</li></ul><p><b>New Player Mode</b>: have them praise you and thank you for expressing your boundaries every time you say No.</p><p><b>Normal Mode</b>: have them neutrally acknowledge your No.</p><p><b>Challenge Mode</b>: have them protest and get upset when you say No.</p>"
+		"body": "<p>If you're bad at saying No, ask a trusted person (or therapist) if you can practice saying No with them. Warm-up round:</p><ul><li>Have them ask you for impossible things, like lassoing the moon.</li><li>Have them ask you for comically awful things, like eating a brick.</li><li>Have them ask you to do something you know you would never do.</li></ul><p>When you're comfortable, work up to harder hypothetical No's:</p><ul><li>Have them pretend to be your boss asking you to work during your time off.</li><li>Take a rain check on a commitment.</li><li>Say No to a request that's pretty reasonable.</li><li>Say No to things you've previously said yes to.</li><li>Say No to something uncomfortable that you feel like you <i>should</i> do or are expected to do.</li></ul><p><b>New Player Mode</b>: have them praise you and thank you for expressing your boundaries every time you say No.</p><p><b>Normal Mode</b>: have them neutrally acknowledge your No.</p><p><b>Challenge Mode</b>: have them protest and get upset when you say No.</p>"
 	},
 	"definitely-not-trauma": {
 		"title": "I'm triggered, but I definitely don't have trauma",
@@ -643,6 +644,19 @@
 		"title": "Ugh, is all this work really worth it?",
 		"type": "tip",
 		"body": "<p>Obviously, your mileage may vary. In my view, personal growth is one of the most rewarding things I can do with my time.</p><ul><li>It's a unique, custom puzzle that comes built into you for free</li><li>Every time you solve a piece of the puzzle, you are rewarded with more personal fulfillment, insight, or healthier relationships</li><li>It feels futuristic and cyberpunk to modify one's psyche at will</li><li>It is painful to act out of alignment with one's own values, and feels empowering to have the agency to increase one's alignment</li></ul>"
+	},
+	"lost": {
+		"title": "I don't know how to start!",
+		"type": "tip",
+		"image": "images/ask_for_help.jpg",
+		"body": "<p>If you are struggling, please, please don't wait until things get more difficult to ask for help. Talk to a friend or a therapist.</p><ul><li>It's okay to just say that you have no idea what to ask for.</li><li>It's okay to ask someone to sit in silence with you while you feel.</li><li>It's okay to call a therapist and say that you have no idea what you need, or where to start. They are experts at that exact situation.</li><li>It's okay to say that you need space, and not have any idea why.</li><li>It's okay to say that you are struggling, and not be sure why.</li><li>It's okay to need or want help.</li><li>It's more common than you might think to feel bad about receiving help. It's okay to feel bad, but you still deserve help.</li></ul>"
+	},
+	"not-yr-boyfriend": {
+		"title": "Not Yr Boyfriend",
+		"type": "instagram",
+		"image": "images/notyrboyfriend.jpg",
+		"href": "https://www.instagram.com/not.yr.boyfriend/",
+		"body": "Screaming neon clown tips on how to healthily communicate your needs with people who love you and genuinely want to respect your needs and treat you right, but can't when you suffer in silence instead of communicating with them, <i>because they're not mind-readers</i>."
 	},
 	"fancy-quotes": {
 		"title": "“”"
