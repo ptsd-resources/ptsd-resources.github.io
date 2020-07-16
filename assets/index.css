@@ -28,7 +28,10 @@ body {
   margin: 0.25em;
 }
 
-.fa-github {
+.icon-link {
+  margin: 0 0.25em;
+}
+.icon-link .fa {
   font-size: 18pt;
 }
 
