@@ -246,7 +246,7 @@
 		"href": "https://amzn.to/2YQw3Zf",
 		"type": "book",
 		"starred": true,
-		"body": "<p>Boundaries aren't just for fending off toxic people; we need them in our everyday lives. Walls shut out everything, but healthy boundaries nourish trust, safety, and intimacy. Guidance for navigating and setting many kinds of healthy boundaries, with strangers, friends, partners, relatives, coworkers, etc.</p>"
+		"body": "<p>Boundaries aren't just for fending off toxic people; we need them in our everyday lives. Walls shut out everything, but healthy boundaries nourish trust by creating safe space for us, and safety for others interacting with us. Guidance for navigating and setting many kinds of healthy boundaries, with strangers, friends, partners, relatives, coworkers, etc.</p>"
 	},
 	"self-boundaries": {
 		"title": "How are your boundaries?",
@@ -598,7 +598,7 @@
 		"href": "https://www.instagram.com/holistic.life.navigation/",
 		"image": "images/holistic_life_nav.png",
 		"imageAlt": "Sexual trauma isn't always from abuse.",
-		"body": "<p>Concise tips about somatic healing, sexual trauma, people-pleasing, and how certain codependence & physical issues we have quietly normalized and suffered through all our lives can be healed through somatic trauma informed methods.</p><p class='quote'>Trauma is not dependent on abuse. Sexual trauma is no different. [...] Look no further. Your feelings are valid. The body stores trauma when it cannot complete a trauma response. Something you saw, something you heard, even something you imagined can be at the root of this. It’s not your fault.⁣</p>"
+		"body": "<p>Concise tips about somatic healing, sexual trauma, people-pleasing, and how certain codependence & physical issues we have quietly normalized and suffered through all our lives can be healed through somatic trauma informed methods.</p><p class='quote'>Trauma is not dependent on abuse. Sexual trauma is no different. [...] Look no further. Your feelings are valid. The body stores trauma when it cannot complete a trauma response. Something you saw, something you heard, even something you imagined can be at the root of this. It’s not your fault.⁣</p><p><a href='https://www.instagram.com/p/CCqy53Mn-O5/'>Tip on learning to identify your codependent/fawn response</a></p>"
 	},
 	"confusing-boundaries": {
 		"title": "On explaining unpredictable trigger boundaries",
@@ -609,7 +609,7 @@
 	"trigger-safeword": {
 		"title": "What if I can't communicate while triggered?",
 		"type": "tip",
-		"body": "<p>This can be really distressing for both you and others if they have no idea what's happening to you and they keep accidentally triggering you. Helpful preparation:</p><ul><li>Arrange a safeword or a nonverbal signal you can use if you suddenly become triggered</li><li>Do you feel safer being comforted? Left alone? Being hugged? Not touched at all? These things differ for everyone.</li><li>Learn how to recognize more quickly if you're triggered</li><li>Show someone how to recognize when you're triggered</li><li>Tell people specific things that help you when you're triggered</li><li>Tell people what's helpful or scary for you when you're triggered</li></ul><p>It's especially important to be upfront if you require space when you're triggered, because a lot of people's first reaction will be to try to comfort you or find out what's wrong. Their goal isn't to further distress you, they just don't know what you need.</p>"
+		"body": "<p>This can be really distressing for both you and others if they have no idea what's happening to you, especially if you're dissociated. Helpful preparation:</p><ul><li>Arrange a safeword or a nonverbal signal you can use if you suddenly become triggered</li><li>Do you feel safer being comforted? Left alone? Being hugged? Not touched at all? These things differ for everyone.</li><li>Learn how to recognize more quickly if you're triggered</li><li>Show someone how to recognize when you're triggered</li><li>Tell people specific things that help you when you're triggered</li><li>Tell people what's helpful or scary for you when you're triggered</li></ul><p>It's especially important to be upfront if you require space when you're triggered, because a lot of people's first reaction will be to try to comfort you or find out what's wrong. Their goal isn't to further distress you, they just don't know what you need.</p>"
 	},
 	"hard-soft-boundaries": {
 		"title": "Hard vs. soft boundaries | Jess Mahler",
@@ -648,8 +648,9 @@
 	"lost": {
 		"title": "I don't know how to start!",
 		"type": "tip",
-		"image": "images/ask_for_help.jpg",
-		"body": "<p>If you are struggling, please, please don't wait until things get more difficult to ask for help. Talk to a friend or a therapist.</p><ul><li>It's okay to just say that you have no idea what to ask for.</li><li>It's okay to ask someone to sit in silence with you while you feel.</li><li>It's okay to call a therapist and say that you have no idea what you need, or where to start. They are experts at that exact situation.</li><li>It's okay to say that you need space, and not have any idea why.</li><li>It's okay to say that you are struggling, and not be sure why.</li><li>It's okay to need or want help.</li><li>It's more common than you might think to feel bad about receiving help. It's okay to feel bad, but you still deserve help.</li></ul>"
+		"image": "images/ask_for_help_combo.jpg",
+		"imageAlt": "Common reasons people DON'T ask for help: Other people have it worse than me, I don't want to bother anyone with my problems, I don't know what kind of help to ask for, I don't know how to describe what I'm going through, what if my problems aren't fixable. WE ALL START SOMEWHERE. WE ALL DESERVE HELP. FEELING BAD DOES NOT MEAN YOU ARE BAD. It's okay to say you have no idea what you need. It's okay to ask someone to sit in silence with you while you feel. It's okay to tell a therapist you have no idea what you need, or where to start. It's okay to say you need space, and not know why. It's common to feel bad about receiving help. It's okay; you still deserve help.",
+		"body": "<p>If you are struggling, please, please don't wait until things get more difficult to ask for help. Talk to a friend or a therapist. It's okay to say that you are struggling, and not be sure why, or what you need.</p>"
 	},
 	"not-yr-boyfriend": {
 		"title": "Not Yr Boyfriend",
@@ -662,7 +663,7 @@
 		"title": "Rules, Agreements, and Boundaries | Kimchi Cuddles",
 		"image": "images/kimchi_boundaries.png",
 		"href": "https://kimchicuddles.com/post/172798231060/rules-agreements-and-boundaries-but-why-the",
-		"body": "<p>A simple comic illustration of the difference between rules, agreements, and boundaries. It's not easy for everyone to tell the difference between a rule, which dictates someone else's behavior, vs. a boundary, which only has to do with <i>you</i> -- your body, your behavior, your personal space.</p><p>Setting boundaries empowers you to communicate about how things affect your safety, and find out what you need to be safe, instead of controlling or blaming others.</p><p><i>Rule: “Stop doing that thing. You're triggering me.”<br/>Boundary: “If I become triggered, I will have to take a time out from this conversation.”<br/>Helpful explanation: “I got triggered when [X] happened, because I was scared of [Y]. It would help me feel a lot safer if [Z].”</i></p>"
+		"body": "<p>A simple comic illustration of the difference between rules, agreements, and boundaries. It's not easy for everyone to tell the difference between a rule, which dictates someone else's behavior, vs. a boundary, which only dictates <i>you</i> -- your body, your behavior, your personal space.</p><p>Setting boundaries empowers you to communicate about how things affect your safety, and find out what choices you can make that don't involve controlling others.</p><p><i>Rule: “Stop doing that thing.”<br/>Agreement ask: “Would you be willing to not do that thing for me?”<br/>Boundary: “If you do that thing, I might get triggered, and then I'll need to take a time out from this conversation until I calm down.”<br/>Helpful explanation: “I got triggered when [X] happened, because I was scared of [Y]. It might help me feel safer if [Z].”</i></p>"
 	},
 	"fancy-quotes": {
 		"title": "“”"
