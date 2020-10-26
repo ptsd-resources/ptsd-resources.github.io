@@ -35,6 +35,37 @@ body {
   font-size: 18pt;
 }
 
+img.icon {
+  height: 1.1em;
+  vertical-align: text-top;
+}
+
+button {
+  padding: 0.75em;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background-color: #04bbbb;
+  color: #fff;
+  font-size: 13pt;
+  font-family: "Georgia", sans-serif;
+}
+button:active {
+  outline: none;
+  background-color: #149999;
+  -moz-box-shadow: inset rgba(0, 0, 0, 0.3) 2px 2px 2px 0;
+  -webkit-box-shadow: inset rgba(0, 0, 0, 0.3) 2px 2px 2px 0;
+  -o-box-shadow: inset rgba(0, 0, 0, 0.3) 2px 2px 2px 0;
+  box-shadow: inset rgba(0, 0, 0, 0.3) 2px 2px 2px 0;
+}
+button:hover {
+  -moz-box-shadow: #ffd341 0 0 10px 0;
+  -webkit-box-shadow: #ffd341 0 0 10px 0;
+  -o-box-shadow: #ffd341 0 0 10px 0;
+  box-shadow: #ffd341 0 0 10px 0;
+}
+
 .footnote {
   font-size: 9pt;
   line-height: 1.2em;

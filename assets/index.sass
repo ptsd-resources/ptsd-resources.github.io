@@ -3,20 +3,26 @@
 /* VARS */
 
 $yellow-fill: #ffd341
-$yellow-text: #ebb500
-$yellow-fill-muted: #ebb500
+$yellow-muted: #ebb500
+$yellow-text: $yellow-muted
 
-$purple-text: #681dc1
-$purple-text-muted: #6426ad
+$purple-strong: #681dc1
+$purple-muted: #6426ad
+$purple-text: $purple-strong
 
 $turquoise-text: #0e98bd
 
-$teal-fill: #77d2d2
-$teal-text: #04bbbb
+$teal-light: #77d2d2
+$teal-strong: #04bbbb
+$teal-muted: #149999
+$teal-fill: $teal-light
+$teal-text: $teal-strong 
 
 $grey-border: #ccc
 $light-grey-fill: #f1f1f1
 $grey-icon: #bbb
+
+$white: #fff
 
 $space-lg: 28px
 $space-med: 22px
@@ -38,6 +44,9 @@ $bar-width: $space-xsm
   +grey
   +oblique
 
+=rounded-borders
+  border-radius: 5px
+
 /* PAGE STYLES */
 
 ::selection 
@@ -45,6 +54,9 @@ $bar-width: $space-xsm
 ::-moz-selection 
   background: $yellow-fill /* Gecko Browsers */
 
+=page-font
+  font-size: 13pt
+  font-family: 'Georgia', sans-serif
 
 body 
   font-size: 13pt
@@ -65,6 +77,27 @@ body
   margin: 0 0.25em
   .fa
     font-size: 18pt
+
+img.icon
+  height: 1.1em
+  vertical-align: text-top
+
+button
+  padding: 0.75em
+  +rounded-borders
+  border: none
+  cursor: pointer
+  outline: none
+  &:active
+    outline: none
+    background-color: $teal-muted
+    +boxpress
+  &:hover
+    +box-glow(rgb(255, 211, 65))
+
+  background-color: $teal-strong
+  color: $white
+  +page-font
 
 .footnote 
   font-size: 9pt
@@ -133,7 +166,7 @@ body
     margin: $space-lg
     box-sizing: border-box
     padding: $space-med
-    border-radius: 5px
+    +rounded-borders
     word-wrap: break-word
 
     *

@@ -1,3 +1,5 @@
+// Generic mixins
+
 =border-radius($r)
   -webkit-border-radius: $r
   -moz-border-radius: $r
@@ -11,3 +13,28 @@
   -webkit-transition: #{$prop}
   -o-transition: #{$prop}
   transition: #{$prop}
+
+=box-shadow($color, $blur, $spread:0, $x:0, $y:0)
+  -moz-box-shadow:    $color $x $y $blur $spread
+  -webkit-box-shadow: $color $x $y $blur $spread
+  -o-box-shadow:      $color $x $y $blur $spread
+  box-shadow:         $color $x $y $blur $spread
+
+=inset-box-shadow($color, $blur, $spread:0, $x:0, $y:0)
+  -moz-box-shadow:    inset $color $x $y $blur $spread
+  -webkit-box-shadow: inset $color $x $y $blur $spread
+  -o-box-shadow:      inset $color $x $y $blur $spread
+  box-shadow:         inset $color $x $y $blur $spread
+
+=box-glow($color)
+  +box-shadow($color, 10px)
+
+=text-glow($color:#fff, $blur:3px)
+  text-shadow: 0 0 $blur $color
+
+=letterpress($color:rgba(255,255,255,0.8))
+  text-shadow: 1px 1px $color
+
+=boxpress
+  +inset-box-shadow(rgba(0,0,0,0.3), 2px, 0, 2px, 2px)
+
