@@ -45,7 +45,7 @@
   {
     "title": "Consent",
     "id": "consent",
-    "items": ["clementine-morrigan", "holistic-life-nav", "crabb-ethical-consent", "wildfell-consensuality", "consent-madlib"]
+    "items": ["crabb-ethical-consent", "wildfell-consensuality", "holistic-life-nav", "consent-madlib"]
   },
   {
     "title": "Feeling stuck in your healing",
@@ -60,7 +60,7 @@
   {
     "title": "Healthy boundaries",
     "id": "boundaries",
-    "items": ["boundaries-katherine", "clementine-morrigan", "silvy-khoucasian", "sit-with-sharon", "natlue", "emotionally-immature-parents", "self-education", "confusing-boundaries", "hard-soft-boundaries", "kimchi-boundaries", "trigger-safeword", "ablackfemaletherapist", "saying-no", "not-yr-boyfriend"]
+    "items": ["boundaries-katherine", "silvy-khoucasian", "sit-with-sharon", "natlue", "nedra-tawwab", "emotionally-immature-parents", "self-education", "confusing-boundaries", "hard-soft-boundaries", "kimchi-boundaries", "trigger-safeword", "ablackfemaletherapist", "saying-no", "not-yr-boyfriend"]
   },
   {
     "title": "Mindfulness",
@@ -75,7 +75,7 @@
   {
     "title": "Trust, vulnerability, and attachment",
     "id": "attachment",
-    "items": ["attachment-theory", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "clementine-morrigan", "cptsd-walker", "hold-me-tight", "relational-healing", "brene-brown-trust", "love-languages", "reassurance-box", "conscious-uncoupling", "general-theory-love", "samaran-autonomy", "attached-levine"]
+    "items": ["attachment-theory", "silvy-khoucasian", "sit-with-sharon", "liz-listens", "cptsd-walker", "hold-me-tight", "relational-healing", "brene-brown-trust", "love-languages", "reassurance-box", "conscious-uncoupling", "general-theory-love", "samaran-autonomy", "attached-levine"]
   },
   {
     "title": "Research helps me feel validated",
